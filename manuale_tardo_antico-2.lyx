@@ -1,0 +1,3079 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass tufte-book
+\begin_preamble
+\frenchspacing
+\end_preamble
+\options usletter
+\use_default_options true
+\maintain_unincluded_children false
+\language italian
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "utopia" "EB Garamond"
+\font_sans "biolinum" "PT Sans"
+\font_typewriter "libertine-mono" "Liberation Mono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc true
+\font_osf true
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 2
+\paperpagestyle headings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter*
+Prefazione
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Quello del Tardo Impero è un periodo molto interessante della
+ storia romana}
+\end_layout
+
+\end_inset
+
+, ma spesso sottovalutato, in particolare dal grande pubblico.
+ Nei film, nei romanzi, nelle trasmissioni televisive, e più in generale
+ nell'immaginario comune, il periodo successivo al regno di Marco Aurelio
+ è scarsamente conosciuto e ancor meno frequentato, tanto da essere spesso
+ popolato da figure vestite secondo la moda alto imperiale, con soldati
+ in lorica segmentata, scutum rettangolare ed elmo gallico.
+ Anche all'interno del mondo della rievocazione storica, i cui membri sono
+ generalmente più istruiti riguardo la storia romana, vi è una proporzione
+ altissima di persone che conoscono molto poco di questo periodo storico,
+ che pure ha influenzato notevolmente i secoli successivi e quindi il mondo
+ moderno.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Con questa pubblicazione si vuole contribuire a diffondere la
+ conoscenza del tardo impero}
+\end_layout
+
+\end_inset
+
+, e del periodo costantiniano in particolare, rivolgendosi espressamente
+ a coloro che sono interessati alla rievocazione storica.
+ Questo manuale di rievocazione vuole infatti invogliare i rievocatori esperti
+ o gli aspiranti tali a mettersi letteralmente nei panni dei sudditi dell'impera
+tore Costantino, e in particolare in quelli dei suoi soldati, e in questo
+ modo a studiare le differenze e le somiglianze tra questo periodo e quelli
+ precedenti, in modo da presentare al pubblico un del tardo impero, e del
+ periodo costantiniano in particolare, rivolgendosi espressamente a coloro
+ che sono interessati alla rievocazione storica.
+ Questo manuale di rievocazione vuole infatti invogliare i rievocatori esperti
+ o gli aspiranti tali a mettersi letteralmente nei panni dei sudditi dell'impera
+tore Costantino, e in particolare in quelli dei suoi soldati, e in questo
+ modo a studiare le differenze e le somiglianze tra questo periodo e quelli
+ precedenti, in modo da presentare al pubblico un'immagine più veritiera
+ di questa epoca rivoluzionaria e decisiva.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Abbigliamento/Grande-Caccia.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Il padrone della Villa del Casale di Piazza Armerina, circondato dai suoi
+ soldati.
+ Indossa una 
+\emph on
+tunica manicata 
+\emph default
+(p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "sec:Tunica"
+
+\end_inset
+
+) riccamente decorata, un 
+\emph on
+cingulum
+\emph default
+ (p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "sec:Cingulum"
+
+\end_inset
+
+) rosso, 
+\emph on
+anaxyrides
+\emph default
+ (p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "subsec:Pantaloni"
+
+\end_inset
+
+) lunghi al piede e 
+\emph on
+campagi
+\emph default
+ (p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "subsec:Campagi"
+
+\end_inset
+
+) neri; in testa porta un 
+\emph on
+pileus pannonicus
+\emph default
+ (p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "sec:Pileus-pannonicus"
+
+\end_inset
+
+), e il suo 
+\emph on
+sagum
+\emph default
+ (p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "subsec:Sagum"
+
+\end_inset
+
+), decorato con motivi simili a quelli della tunica, è fissato da una 
+\emph on
+fibula
+\emph default
+ (p.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "sec:Fibula"
+
+\end_inset
+
+) a balestra d'oro sulla spalla destra.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Dominus-Villa-Casale"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Abbigliamento
+\end_layout
+
+\begin_layout Standard
+\noindent
+L'abbigliamento del soldato romano del 
+\noun on
+iv
+\noun default
+ secolo non di discostava molto da quello di un civile di ricchezza simile,
+ fatta eccezione per alcuni particolari.
+ Sebbene l'esercito provvedesse talvolta a fornire ai soldati alcuni indumenti,
+ il cui costo era poi detratto dalla paga,
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\backslash
+sidenote{Il clima arido dell'Egitto ha conservato alcuni documenti da cui
+ si evince che talvolta  l'amministrazione militare si occupava di acquistare
+ alcuni capi di abbigliamento, come per esempio dei mantelli, da distribuire
+ evidentemente ai soldati; un effetto collaterale di questa politica poteva
+ essere quello di introdurre un minimo di uniformità nell'abbigliamento
+ dei soldati di una stessa unità.}
+\end_layout
+
+\end_inset
+
+ spettava comunque a ciascun soldato provvedere all'acquisto dei propri
+ abiti.
+ L'apparenza di un soldato poteva cambiare dunque in base alla sua disponibilità
+ economica, ma in linea di massima gli indumenti di base erano gli stessi,
+ sebbene si differenziassero per qualità e decorazioni.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+L'elemento di base era la 
+\emph on
+tunica manicata
+\emph default
+, ovvero una tunica dotata di maniche e lunga fino al ginocchio; in diversi
+ colori con una preferenza per il bianco e il rosso, la 
+\emph on
+tunica manicata
+\emph default
+ poteva essere impreziosita da decorazioni intessute sulle spalle e sul
+ petto.
+ Talvolta questa tunica era indossata sopra un'altra tunica più aderente
+ in lino, la 
+\emph on
+linea 
+\emph default
+o
+\emph on
+ camisia
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+La tunica era legata in vita da una 
+\emph on
+cingulum
+\emph default
+, una cintura con fibbia, decorazioni e puntale metallici; era piuttosto
+ lungo, e dopo averlo chiuso, l'estremità libera era avvolta attorno al
+ resto della cintura, preferibilmente sul lato destro, e fatta pendere sul
+ davanti.
+\end_layout
+
+\begin_layout Standard
+A seconda della ricchezza del soldato e, probabilmente, del luogo in cui
+ viveva, egli poteva indossare degli 
+\emph on
+anaxyrides,
+\emph default
+ pantaloni lunghi fino ai piedi, oppure andare a gambe nude; se doveva attravers
+are luoghi impervi poteva portare ulteriori protezioni per i polpacci, sotto
+ forma di 
+\emph on
+fasciae crurales
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+La scelta delle calzature poteva orientarsi verso le scarpe basse e aperte
+ tipiche della burocrazia cittadina, i 
+\emph on
+campagi
+\emph default
+, o quelle più economiche del popolo, le 
+\emph on
+carbatinae
+\emph default
+; alternativamente si potevano indossare stivaletti più o meno alti, i 
+\emph on
+calcei
+\emph default
+, all'occorrenza chiodati.
+\end_layout
+
+\begin_layout Standard
+All'aperto il soldato poteva completare il proprio abbigliamento con un
+ berretto e un mantello; la tipologia più diffusa di copricapo è il cosiddetto
+ 
+\emph on
+pileus pannonicus
+\emph default
+, un berretto cilindrico, mentre il mantello tipico del soldato era il 
+\emph on
+sagum
+\emph default
+, grande e rettangolare, indossato in modo che lasciasse scoperto il fianco
+ destro, fissato sulla spalla destra da una 
+\emph on
+fibula
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un soldato vestito in questo modo non si discostava troppo dalla moda adottata
+ dai civili; gli unici elementi caratteristici erano il 
+\emph on
+cingulum
+\emph default
+ con finimenti metallici, il 
+\emph on
+pileus pannonicus
+\emph default
+ e il 
+\emph on
+sagum
+\emph default
+.
+ Oltre, ovviamente, a eventuali armi.
+\end_layout
+
+\begin_layout Section
+Tunica
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Tunica"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{L'abito romano per eccellenza è la tunica.}
+\end_layout
+
+\end_inset
+
+ Diffusa in ambito mediterraneo sin dall'Antichità, è indossata con fogge
+ differenti da ricchi e poveri, civili e militari.
+ Come nel mondo contemporaneo, anche in epoca romana l'abbigliamento serve
+ a rappresentare la condizione sociale, il livello di ricchezza e le funzioni
+ di un individuo.
+ Le dimensioni della tunica, la qualità del tessuto, i colori, la ricchezza
+ delle eventuali decorazioni, e più semplicemente il numero di indumenti
+ indossati sono strumenti di identificazione all'interno delle gerarchie
+ sociali.
+ 
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Tunica-tipologia2.jpg
+	display false
+	width 95col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tunica egiziana del secondo tipo e relativo schema.
+ Lo schema raffigura la tunica aperta, con indicate le due cuciture che
+ uniscono i tre pezzi di tessuto; il tratto verticale al centro è l'apertura
+ praticata nel tessuto per far passare la testa.
+ Si noti come il corpo della tunica sia estremamente largo rispetto alle
+ maniche, a indicare che si trattava della tunica di un civile facoltoso.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Tunica-egiziana-tipologia2"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A partire già dal 
+\noun on
+iii
+\noun default
+ secolo si diffonde sempre più un modello di tunica che si allunga sempre
+ più verso il ginocchio e che presenta delle maniche fino ai polsi, e prende
+ dunque il nome di 
+\emph on
+tunica manicata
+\emph default
+.
+ L'introduzione di questa tipologia di tunica è generalmente attribuita
+ alle truppe romane di origine germanica, che l'avrebbero fatta conoscere
+ ai soldati; allo stesso tempo, essa divenne di moda perché furono gli stessi
+ imperatori a indossarla, forse per mostrarsi più vicini ai soldati e ottenerne
+ il sostegno, forse perché spesso le guardie personali degli imperatori
+ erano di origine germanica.
+\end_layout
+
+\begin_layout Standard
+Un altro tipo di tunica, utilizzata in particolare dai soldati, era la 
+\emph on
+camisia
+\emph default
+, o 
+\emph on
+linea
+\emph default
+;
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{L'uso della 
+\backslash
+emph{linea} è attestata da Girolamo nelle sue lettere (
+\backslash
+emph{Ep.} lxiv, 11, 2)}
+\end_layout
+
+\end_inset
+
+ si trattava di una tunica di lino molto aderente sia alle braccia che al
+ corpo, da indossare sotto gli altri indumenti.
+\end_layout
+
+\begin_layout Subsection
+Dimensioni
+\end_layout
+
+\begin_layout Standard
+Come già detto, durante la Tarda Antichità la tunica si allunga fino a raggiunge
+re il ginocchio e ha maniche che arrivano ai polsi.
+ Generalmente le tuniche civili hanno il corpo e le maniche molto ampi,
+ in linea con la tendenza in età antica a manifestare la ricchezza di un
+ individuo tramite l'uso di grandi quantità di tessuto; l'iconografia, però,
+ mostra come nel caso della tunica militare,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{La 
+\backslash
+emph{tunica militaris} era anche nota col nome greco di 
+\backslash
+emph{sticharion}, che vuol dire <<a strisce>>, probabilmente un riferimento
+ ai clavi che la decoravano}
+\end_layout
+
+\end_inset
+
+ il corpo fosse più aderente, e le maniche strette, probabilmente per motivi
+ di praticità.
+\end_layout
+
+\begin_layout Subsection
+Taglio
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Tunica-tipologia1.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tunica egiziana di tipo 1, con 
+\emph on
+clavi
+\emph default
+, 
+\emph on
+tabulae
+\emph default
+, e 
+\emph on
+segmentae
+\emph default
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Tunica-copta"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le tuniche romane sono realizzate secondo due tipologie.
+ La prima (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Tunica-copta"
+
+\end_inset
+
+), ben attestata dai ritrovamenti egiziani ed ereditata dalle epoche precedenti,
+ prevede la tessitura dell'intera tunica, decorazioni incluse, in un unico
+ pezzo a forma di croce, in cui viene lasciata una fessura centrale in corrispon
+denza della testa; questo tessuto viene poi piegato a metà e cucito su fianchi
+ e sotto le braccia.
+\end_layout
+
+\begin_layout Standard
+La seconda tipologia (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Tunica-egiziana-tipologia2"
+
+\end_inset
+
+) prevede la tessitura di tre pezzi, uno a croce comprendente la parte superiore
+ del corpo della tunica, dalle maniche al petto, e due dal petto al ginocchio,
+ fronte e retro.
+ I tre pezzi venivano poi uniti tramite due cuciture che correvano orizzontalmen
+te sul petto e sulla schiena.
+\end_layout
+
+\begin_layout Subsection
+Tessuti
+\end_layout
+
+\begin_layout Standard
+In questo periodo i tessuti preferiti dai Romani continuano a essere la
+ lana e il lino, ben attestati dai ritrovamenti archeologici.
+ In letteratura è attestata una limitata diffusione del cotone
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Il cotone era costoso e prodotto in limitate quantità in Egitto}
+\end_layout
+
+\end_inset
+
+ e della seta
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{La seta era ancora più costosa, importata dall'Oriente e riservata
+ agli strati più elevati della società}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Colori
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Abbigliamento/Grande-Caccia-multicolore.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mosaico dalla villa romana di Piazza Armerina, raffigurante lavoratori che
+ indossano tuniche di diversi colori.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In molti casi i tessuti usati per l'abbigliamento erano nei colori naturali
+ del filo impiegato, dal color bianco sporco a un grigio chiaro per il lino,
+ dal bianco sporco al marroncino, al grigio scuro per la lana.
+ La tintura era un'operazione generalmente costosa, e alcuni colori erano
+ più costosi degli altri (si pensi alla porpora); l'iconografia attesta
+ però tuniche rosse, blu, azzurre, verdi, gialle, arancioni, oltre a colori
+ scuri come il marrone, che forse erano ottenuti utilizzando la lana grezza.
+ Il bianco poteva essere ottenuto selezionando opportunamente i velli delle
+ pecore e i fili di lino, ma era anche possibile sbiancare lana e lino per
+ ottenere un bianco più puro; tali tessuti erano generalmente riservati
+ a persone molto ricche e a particolari ufficiali, i 
+\emph on
+candidati
+\emph default
+, che dovevano il nome al fatto che indossavano vesti candide.
+ È stato anche suggerito che il lino fosse raramente colorato, per motivi
+ tecnici, anche se sono state ritrovate alcune tuniche in lino rosso.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Description
+\begin_inset Graphics
+	filename Tunica-segmentum.png
+	display false
+	width 95col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Esempio di 
+\emph on
+tabula
+\emph default
+ rettangolare da una tunica egiziana.
+ È realizzata con filo di lana rossastro e arancione e con filo di lino
+ di colore naturale intessuti sulla trama in lino naturale; là dove il filo
+ di lana è scomparso si può notare ancora la struttura data dal filo di
+ lino, che invece si è preservato.
+ Il disegno è geometrico, come tipico del 
+\noun on
+iv
+\noun default
+ secolo.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Tunica-egiziana-segmentum"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Decorazioni
+\end_layout
+
+\begin_layout Standard
+Sia i reperti archeologici sia l'iconografia mostrano come le tuniche fossero
+ frequentemente decorate, una moda importata anche in questo caso dall'Oriente,
+ e inizialmente osteggiata.
+\end_layout
+
+\begin_layout Standard
+Le decorazioni principali erano costituite da 
+\emph on
+clavi
+\emph default
+, 
+\emph on
+orbiculi
+\emph default
+/
+\emph on
+tabulae
+\emph default
+/
+\emph on
+stellae
+\emph default
+, 
+\emph on
+segmentae
+\emph default
+,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Strisce orizzontali, poste sotto il collo, sulle maniche e lungo
+ gli orli inferiori della tunica}
+\end_layout
+
+\end_inset
+
+ e generalmente erano uguali per fronte e retro della tunica.
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+clavi
+\emph default
+ erano due strisce colorate che scendevano verticalmente sul davanti e sul
+ retro della tunica; potevano andare dalle spalle al bordo inferiore della
+ tunica, oppure interrompersi sul petto con un elemento decorativo a forma
+ di goccia.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Orbiculum.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Orbiculum
+\emph default
+ da una tunica egiziana; la decorazione è geometrica
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Gli 
+\emph on
+orbiculi
+\emph default
+ erano decorazioni rotonde, poste una su ciascuna spalla, e talvolta anche
+ nella parte inferiore della tunica, a coppie sul davanti e sul retro, generalme
+nte di dimensioni più piccole.
+ Quando queste decorazioni erano quadrate invece che rotonde, prendevano
+ il nome di 
+\emph on
+tabulae
+\emph default
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Tunica-egiziana-segmentum"
+
+\end_inset
+
+); sono dette invece 
+\emph on
+stellae
+\emph default
+ quando hanno una forma a stella.
+\end_layout
+
+\begin_layout Standard
+Tali decorazioni erano generalmente intessute in lana colorata e lino naturale
+ sulla trama di fondo, ma potevano essere ritagliate da tuniche vecchie
+ e applicate su tuniche nuove; non è chiaro se fossero mai ricamate.
+\end_layout
+
+\begin_layout Standard
+A giudicare dall'iconografia (ad esempio i mosaici della Villa del Casale
+ di Piazza Armerina), nel 
+\noun on
+iv
+\noun default
+ secolo le decorazioni erano di tipo geometrico (si veda Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Tunica-egiziana-segmentum"
+
+\end_inset
+
+), anche se non mancano esempi di decorazioni figurate e antropomorfe.
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Cingulum
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Cingulum"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La funzione del la cintura era quello di permettere di mantenere l'orlo
+ inferiore della tunica al di sopra del ginocchio, in modo da migliorare
+ la libertà di movimento; è possibile che i civili portassero la tunica
+ sotto il ginocchio o addirittura, senza cintura, lunga alle caviglie, e
+ dunque il portare la tunica sopra il ginocchio sarebbe stato un ulteriore
+ segno di riconoscimento del militare, che aveva dunque necessariamente
+ bisogno di una cintura.
+ Privare un soldato della propria cintura militare (
+\emph on
+cingulum
+\emph default
+), e farlo dunque sembrare un civile, era anche una forma di punizione per
+ infrazioni minori.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{
+\backslash
+emph{Codice Giustinianeo}, xii, 7}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Storicamente, il 
+\emph on
+cingulum
+\emph default
+ romano è sempre stato caratterizzato dalla presenza di finimenti in metallo
+ applicati a mo' di riforzo e di decorazione al cuoio della cintura.
+ I finimenti possono essere in bronzo/ottone, argento, argento niellato,
+ argento dorato, oro; le cinture stesse appaiono nei colori naturali del
+ cuoio, ma con una certa frequenza sono anche rosse.
+ Le cinture romane erano solitamente notevolmente più lunghe della circonferenza
+ della vita di chi le indossava; l'estremità libera era solitamente appesantita
+ da un puntale; essa passava nella fibbia e poi si avvolgeva attorno alla
+ cintura, andando a pendere in posizione centrale o sulla destra di chi
+ la indossava.
+\end_layout
+
+\begin_layout Standard
+Le cinture tipiche degli inizi del 
+\noun on
+iv
+\noun default
+ secolo sono di due tipologie, stretta e larga; la prima deriva dalle cinture
+ del 
+\noun on
+iii
+\noun default
+ secolo, mentre la seconda è introdotta proprio all'inizio del secolo, per
+ poi divenire alquanto popolare.
+ Nella seconda metà del secolo le due tipologie resteranno entrambe in uso,
+ anche se cambierà la tipologia di finimenti utilizzati per decorarle.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cinture/dolphinbuckle.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fibbia con delfini, tipica delle cinture romane militari della prima metà
+ del 
+\noun on
+iv
+\noun default
+ secolo.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Fibbia-delfino"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il 
+\emph on
+cingulum 
+\emph default
+di tipologia stretta deriva ha una fibbia metallica, che in epoca costantiniana
+ ha spesso la forma di due teste di delfino che si affrontano (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Fibbia-delfino"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+All'estremità opposta del 
+\emph on
+cingulum
+\emph default
+ è collocato un puntale metallico, tipicamente a forma di anfora, che serve
+ a dare peso a questa estremità e a farla pendere sul davanti quando il
+ 
+\emph on
+cingulum
+\emph default
+ viene indossato correttamente.
+\end_layout
+
+\begin_layout Standard
+Lungo tutta la cintura sono fissati dei rinforzi metallici che servono a
+ irrobustire il 
+\emph on
+cingulum
+\emph default
+ e renderlo adatto a fissarci pesi quali armi da fianco o oggetti personali.
+ Questi rinforzi possono essere a forma circolare, a forma di pelta, oppure
+ a elica; in quest'ultimo caso hanno delle decorazioni concentriche sulla
+ superficie.
+\end_layout
+
+\begin_layout Standard
+Questo genere di cintura è per esempio rappresentato nei mosaici della Villa
+ del Casale di Piazza Armerina, in cui sono chiaramente visibili i rinforzi
+ a elica alternati a elementi tondi (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Cingulum-Piazza-Armerina"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cinture/PiazzaArmerina.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mosaico da Piazza Armerina, in cui sono evidenti delle cinture con finimenti
+ in metallo tondi alternati ad altri a elica.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Cingulum-Piazza-Armerina"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Come dice il nome stesso un 
+\emph on
+cingulum
+\emph default
+ di tipologia di cintura larga (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Cingulum-Budapest"
+
+\end_inset
+
+) è caratterizzato dal fatto che la cintura è molto alta, fino a 14 cm di
+ altezza; per renderla utilizzabile, è necessario che sia composta da una
+ cintura principale, appunto più larga della precedente tipologia, a una
+ estremità della quale è fissata una lunga lingua più stretta che termina
+ con un puntale.
+ La parte principale è decorata da una serie di placche di metallo di forma
+ rettangolare e alte quanto la cintura stessa; una di queste, posta a una
+ estremità, ha un foro nel mezzo e funge da fibbia, e poco dopo si può trovare
+ un passante.
+\end_layout
+
+\begin_layout Standard
+Per indossare questa tipologia di 
+\emph on
+cingulum
+\emph default
+, la parte alta della cintura viene avvolto intorno al corpo; l'estremità
+ più sottile viene fatta passare sotto quella più ampia e viene fatta entrare
+ nella fibbia, passa dentro il passante, per poi avvolgersi attorno al 
+\emph on
+cingulum
+\emph default
+ e pendere sul davanti o sul lato destro.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cinture/Budapest.jpg
+	display false
+	width 95text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Riproduzione moderna di una cintura di tipologia larga; l'originale è stato
+ ritrovato a Budapest.
+ I finimenti sono placche di argento con decorazioni geometriche in oro
+ e niello; si noti la fibbia con il buco che permette all'estremità più
+ sottile (terminante con un puntale) di passare attraverso la cintura stessa.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Cingulum-Budapest"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Pantaloni e altri indumenti per le gambe
+\end_layout
+
+\begin_layout Subsection
+Pantaloni
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Pantaloni"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Pantalone-silistra-2.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Affresco raffigurante un servo che porta al padrone un pantalone, dotato
+ di piedi integrali e passanti attraverso i quali è infilata una cintura.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Affresco-Durostorum"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Quella dei pantaloni fu una moda tarda che i Romani presero dai Persiani,
+ famosi per indossare quelli che presso i Greci erano noti come 
+\emph on
+anaxyrides
+\emph default
+.
+ In effetti l'uso di coperture per le gambe fu a lungo considerato una moda
+ barbarica, e sebbene i soldati romani che vivevano nelle province settentrional
+i utilizzassero delle forme di pantaloni lunghe più o meno fino al ginocchio,
+ le 
+\emph on
+bracae
+\emph default
+ o 
+\emph on
+femoralia
+\emph default
+ o 
+\emph on
+feminalia
+\emph default
+, l'utilizzo di tali indumenti nelle province più meridionali, e in particolare
+ a Roma, era considerato inaccettabile.
+ Furono ancora una volta i militari a introdurre e sdoganare questo indumento,
+ dopo esserne entrati in contatto durante le campagne contro i Parti prima
+ e i Sasanidi poi; alla fine del 
+\noun on
+iv
+\noun default
+ secolo risalgono due leggi che punivano chiunque li indossasse dentro la
+ città di Roma, ma queste leggi non solo dimostrano che fosse pratica comune
+ indossarli, ma anzi che al di fuori dell'antica capitale era ormai inutile
+ proibirli.
+\end_layout
+
+\begin_layout Standard
+I pantaloni romani sono generalmente molto attillati; solo verso la fine
+ del 
+\noun on
+iv
+\noun default
+ secolo si diffondono pantaloni con la gamba dritta.
+ Nell'iconografia si trovano indossati all'interno degli stivaletti (
+\emph on
+calcei
+\emph default
+), ma più spesso nelle scarpe basse e aperte (
+\emph on
+campagi
+\emph default
+), per cui è facile notare come fossero spesso provvisti di copertura del
+ piede integrale (come nel caso dei pantaloni del padrone portati dal servo
+ nell'affresco di Silistra, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Affresco-Durostorum"
+
+\end_inset
+
+).
+ I ritrovamenti archeologici hanno attestato entrambe le forme: da una parte
+ ci sono i pantaloni ritrovati a Thorsberg con piede integrale, dall'altra
+ il reperto di Damendorf che non presenta il piede integrale.
+ Il reperto di Thorsberg e l'affresco di Silistra testimoniano come nella
+ parte superiore dei pantaloni fosse cucita una fascia a cui erano a sua
+ volta cuciti dei passanti per la cintura che reggeva i pantaloni stessi;
+ è anche possibile che una volta indossata la cintura, questa fosse rigirata,
+ in modo da creare l'effetto di una fascia (una caratteristica riportata
+ dalla Colonna di Traiano e dalla Colonna di Antonino).
+\end_layout
+
+\begin_layout Standard
+I pantaloni erano talvolta decorati secondo temi simili a quelle delle tuniche,
+ tramite l'applicazione di 
+\emph on
+orbicula
+\emph default
+ su una o entrambe le gambe; un esempio di 
+\emph on
+orbicula
+\emph default
+ applicati sul pantalone è visibile nell'abbigliamento del personaggio maschile
+ del cosiddetto Dittico di Stilicone.
+ Sono attestati diversi colori per i pantaloni; nei mosaici tetrarchici
+ della villa di Piazza Armerina il colore più frequente è un verde scuro.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Femoralia
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename SantaMariaMaggiore-ErodeInnocenti--Femoralia.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Soldato di Erode, dai mosaici di Santa Maria Maggiore a Roma (
+\noun on
+v
+\noun default
+ secolo).
+ Si notino i 
+\emph on
+femoralia
+\emph default
+ bianchi al ginocchio, indossati sopra dei 
+\emph on
+tibialia
+\emph default
+ blu.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Soldato-di-Erode"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In alternativa ai pantaloni lunghi, era possibile indossare dei pantaloncini
+ corti detti 
+\emph on
+femoralia
+\emph default
+, talvolta indossati insieme a delle fasce di nome 
+\emph on
+tibialia
+\emph default
+.
+ Questo genere di indumento pare essere particolarmente diffuso tra i fanti
+ dell'esercito romano d'Occidente; ne abbiamo evidenza iconografica nei
+ mosaici di Santa Maria Maggiore a Roma (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Soldato-di-Erode"
+
+\end_inset
+
+), dove un soldato di Erode è raffigurato con dei pantaloncini corti bianchi
+ indossati sopra dei 
+\emph on
+tibialia
+\emph default
+ blu scuro.
+ I rilievi della Colonna di Arcadio fanno indossare questa combinazione
+ ad alcuni ufficiali, e lo stesso vale per un ufficiale a cavallo della
+ Colonna di Teodosio.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Fasciae crurales 
+\emph default
+e 
+\emph on
+tibialia
+\end_layout
+
+\begin_layout Standard
+L'uso di fasce avvolte attorno ai polpacci fu una moda che penetrò lentamente
+ nel mondo romano; Cicerone criticava un personaggio pubblico che indossava
+ le fasce, il freddoloso Augusto le usava per proteggersi dal freddo, e
+ pare che l'imperatore Alessandro Severo le utilizzasse sempre.
+\end_layout
+
+\begin_layout Standard
+Il loro impiego in ambito militare è controverso; i mosaici tardo antichi
+ raffigurano spesso delle cacce, in cui i cacciatori indossano delle fasce
+ a protezione delle gambe (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Fasciae-Crurales"
+
+\end_inset
+
+).
+ Talvolta si tratta di strice di tessuto molto lunghe dette 
+\emph on
+fasciae crurales
+\emph default
+, probabilmente di lana o feltro, avvolte incrociate sulla parte inferiore
+ della gamba, in maniera simile alle fasce mollettiere della Prima guerra
+ mondiale; altre volte sono strisce di tessuto alte quanto il polpaccio,
+ avvolte una o due volte attorno alla gamba e legate in alto e in basso
+ con un legaccio (
+\emph on
+tibialia
+\emph default
+).
+ 
+\end_layout
+
+\begin_layout Standard
+Quest'ultima tipologia è attestata sia nell'iconografia (soldato dai mosaici
+ di Santa Maria Maggiore, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Soldato-di-Erode"
+
+\end_inset
+
+, manoscritto della Bibliotheque Nationale), sia nei ritrovamenti archeologici:
+ un paio di 
+\emph on
+tibialia
+\emph default
+ sono stati ritrovati in una torbiera danese di Sogaards Mose, ancora avvolti
+ attorno alla gamba del loro proprietario.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename FasciaeCrurales.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Dettaglio del mosaico della caccia dalla Villa del Casale di Piazza Armerina;
+ tutti e quattro i personaggi sono a gambe nude, ma proteggono i polpacci
+ con le 
+\emph on
+fasciae crurales
+\emph default
+ indossate intrecciate.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Fasciae-Crurales"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Udones
+\end_layout
+
+\begin_layout Standard
+L'uso di calzini o 
+\emph on
+udones
+\emph default
+ insieme alle calzature aperte come le 
+\emph on
+caligae
+\emph default
+ ha i suoi vantaggi e i suoi svantaggi.
+ Da una parte gli 
+\emph on
+udones
+\emph default
+ proteggono il piede dallo sfregamento dei lacci della 
+\emph on
+caliga
+\emph default
+; dall'altro sono più scomodi quando il piede viene bagnato, perché non
+ permettono all'acqua di defluire rapidamente e al piede di asciugarsi.
+\end_layout
+
+\begin_layout Standard
+Il loro uso in ambito militare è attestato dai rilievi, come quello della
+ Cancelleria, in cui un pretoriano indossa 
+\emph on
+udones
+\emph default
+ aperti sul davanti e sul tallone; è anche testimoniato da una delle lettere
+ di soldati romani ritrovata a Vindolanda, dove uno dei soldati chiede l'invio
+ di vario materiale personale, tra cui gli 
+\emph on
+udones
+\emph default
+, appunto.
+\end_layout
+
+\begin_layout Standard
+Una prima tipologia di 
+\emph on
+udones
+\emph default
+ è quella ritrovata a Vindolanda: si tratta di due pezzi di stoffa di lana
+ cuciti in modo da formare l'avampiede e il polpaccio e poi uniti tra loro
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Udones"
+
+\end_inset
+
+, a sinistra).
+\end_layout
+
+\begin_layout Standard
+La seconda tipologia, apparentemente più diffusa,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Va però considerato che per motivi climatici l'Egitto la fa da
+ padrone come fonte di reperti in materiali deperibili; dunque questa apparente
+ diffusione potrebbe essere una testimonianza di una moda locale, piuttosto
+ che globale.}
+\end_layout
+
+\end_inset
+
+ è quella di calzini lavorati a maglia con una tecnica ad ago singolo (Figura
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Udones"
+
+\end_inset
+
+, a destra), simile a quella nota col nome di 
+\emph on
+naalbinding
+\emph default
+.
+ Tale tecnica consisteva nel lavorare un filo di lana con un ago abbastanza
+ grande, annodando il filo su sé stesso in una fila di nodi che si chiudeva
+ e andava poi a formare una seconda fila sopra la prima; si veniva così
+ a formare un tubo di lana, opportunamente lavorato alle estremità e in
+ corrispondenza del tallone.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename udones-vindolanda.jpg
+	display false
+	height 3.3cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Udones/AN00466968_001_l.jpg
+	display false
+	height 3.3cm
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Due tipologie di 
+\emph on
+udones
+\emph default
+ attestate tra i reperti archeologici: a sinistra gli 
+\emph on
+udones
+\emph default
+ di Vindolanda, due pezze di lana cucite insieme; a destra 
+\emph on
+udones
+\emph default
+ provenienti dall'Egitto, in filo di lana, lavorati con una tecnica ad ago
+ singolo (
+\emph on
+naalbinding
+\emph default
+).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Udones"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Calzature
+\end_layout
+
+\begin_layout Standard
+La scarpa militare romana per antonomasia, la 
+\emph on
+caliga
+\emph default
+, non sopravvisse al 
+\noun on
+ii
+\noun default
+ secolo, forse perché adatta più alla penisola italiana che alle province
+ settentrionali e orientali dell'Impero, o forse semplicemente perché cambiò
+ la moda.
+ Nel 
+\noun on
+iii
+\noun default
+ e 
+\noun on
+iv
+\noun default
+ secolo si diffusero altre tipologie di scarpe, alcune delle quali arrivarono
+ ai secoli successivi.
+\end_layout
+
+\begin_layout Standard
+Non ci sono tipologie di calzature che siano esclusivamente militari, in
+ molti casi per una determinata tipologia si trovano reperti senza chiodatura
+ e reperti con i chiodi, questi ultimi generalmente intesi come indizio
+ in favore dell'utilizzo militare della calzatura.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Calcei
+\end_layout
+
+\begin_layout Standard
+Con il nome di 
+\emph on
+calcei
+\emph default
+ si identificano degli stivaletti chiusi, più o meno alti alla caviglia,
+ molto diffusi nel 
+\noun on
+iii
+\noun default
+ e 
+\noun on
+iv
+\noun default
+ secolo.
+\end_layout
+
+\begin_layout Standard
+Sono generalmente realizzati su di una forma, e sono composti da almeno
+ tre parti: suola, tomaia e soletta, cucite insieme e talvolta rafforzati
+ da chiodi posti sulla suola, che attraversano i tre strati di cuoio e si
+ ripiegano sulla pianta della scarpa.
+ La tomaia è chiusa da una cucitura che corre talvolta sulla parte anteriore
+ del piede (Zwammerdam, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Calcei-Zwammerdam"
+
+\end_inset
+
+, in alto), talvolta verticalmente sulla parte interna del piede (Ramshaw,
+ Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Calcei-Zwammerdam"
+
+\end_inset
+
+, in basso).
+ Spesso avevano un rinforzo triangolare interno in corrispondenza del tallone.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Scarpe/CalceiRamshawZwammerdam.png
+	display false
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Calcei
+\emph default
+ alti alla caviglia e con allacciatura integrale da Zwammerdam (in alto)
+ e da Ramshaw (in basso); reperti databili al 
+\noun on
+iii
+\noun default
+ secolo, ma di una tipologia che probabilmente fino al 
+\noun on
+iv
+\noun default
+ secolo.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Calcei-Zwammerdam"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+calcei
+\emph default
+ sono generalmente alti alla caviglia, ma esistono versioni più basse.
+ L'allacciatura può essere ottenuta attraverso dei lacci che vengono fatti
+ passare per le asole praticate nella scarpa (modello da Walbrook); alternativam
+ente questi lacci sono solidali con la scarpa, sono cioè parte della tomaia
+ (nel 
+\noun on
+iii
+\noun default
+ secolo Zwammerdamm e Ramshaw; nel 
+\noun on
+iv
+\noun default
+ secolo Southfleet/Magor e Ridley); alcuni esemplari, invece, non hanno
+ lacci né asole, e probabilmente andavano indossati come i mocassini (Portcheste
+r).
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Campagi
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Campagi"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Un tipo di calzatura romana che si diffonde a partire dalla fine del 
+\noun on
+iii
+\noun default
+ secolo e restano in uso per qualche secolo sono i 
+\emph on
+campagi
+\emph default
+, scarpe basse e molto aperte (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Campagi-Deurne"
+
+\end_inset
+
+), che diventano caratteristiche degli alti ufficiali della burocrazia civile.
+ In ambito militare sono utilizzati dagli ufficiali e, data la loro scarsa
+ utilità su terreni sconnessi e fangosi, dai cavalieri.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Scarpe/Deurne_300-350-2.jpg
+	display false
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ricostruzione di uno dei 
+\emph on
+campagi
+\emph default
+ ritrovati a Deurne, prima metà del 
+\noun on
+iv
+\noun default
+ secolo.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Campagi-Deurne"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I 
+\emph on
+campagi
+\emph default
+ sono generalmente molto aperti, coprendo solo il tallone e la punta delle
+ dita del piede; alcuni modelli sono appena più coprenti.
+ Solitamente sono allacciati tramite una fettuccia di cuoio che è fissata
+ ad un punto, passa attraverso un'asola dalla parte opposta del piede, e
+ poi torna al punto iniziale, dove è allacciata con un nodo o con un bottone;
+ in alcuni modelli invece ci sono una o due coppie di asole, ad indicare
+ l'uso di lacci.
+ La costruzione prevede una cucitura a `L' sul tallone e una orizzontale
+ sul davanti del piede.
+\end_layout
+
+\begin_layout Standard
+Generalmente sono di colore rosso o nero nelle raffigurazioni, ma è possibile
+ che fossero anche nei colori naturali del cuoio.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Carbatinae
+\end_layout
+
+\begin_layout Standard
+Le 
+\emph on
+carbatinae
+\emph default
+ sono una tipologia di scarpa molto semplice, che da un certo punto di vista
+ può essere immaginata come una evoluzione in senso semplificativo delle
+ 
+\emph on
+caligae
+\emph default
+: una 
+\emph on
+carbatina
+\emph default
+ si ottiene da un unico pezzo di cuoio più grande del piede che deve accogliere;
+ come in una 
+\emph on
+caliga
+\emph default
+, nel cuoio di una 
+\emph on
+carbatina
+\emph default
+ si intagliano una serie di anelli disposti tutti intorno al piede, più
+ corti vicino alle dita e più lunghi alla caviglia con una serie di fori
+ all'estremità, attraverso i quali si fa passare un laccio di cuoio che
+ stringendosi chiude la scarpa attorno al piede.
+ 
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Scarpe/carbatinae.jpg
+	display false
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Varie tipologie di 
+\emph on
+carbatinae
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Un'unica cucitura era talvolta fatta in corrispondenza del tallone, per
+ chiuder in via permanente le due metà posteriori della scarpa.
+ La differenza fondamentale tra una 
+\emph on
+caliga
+\emph default
+ e una 
+\emph on
+carbatina
+\emph default
+ è che la seconda non ha né suola esterna né soletta interna.
+\end_layout
+
+\begin_layout Standard
+Nel 
+\noun on
+iii
+\noun default
+ e 
+\noun on
+iv
+\noun default
+ secolo la moda voleva che gli anelli interni della 
+\emph on
+carbatina
+\emph default
+ fossero più corti di quelli esterni, dando vita a una scarpa dall'allacciatura
+ asimmetrica.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Scarpe/MixCarbatinae.png
+	display false
+	width 95text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ricostruzioni di 
+\emph on
+carbatinae
+\emph default
+, rispettivamente da Cluj, Zeugmantell e Damendorf.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Esempi-di-carbatinae."
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Pileus pannonicus
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Pileus-pannonicus"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Verso la fine del 
+\noun on
+iii
+\noun default
+ secolo, le raffigurazioni di soldati romani iniziano a rappresentarli mentre
+ indossano un berretto di qualche tipo; si tratta di un'innovazione rispetto
+ all'iconografia del soldato repubblicano e alto-imperiale, raffigurato
+ sempre a capo scoperto, sebbene sia ipotizzabile che i soldati indossassero
+ dei berretti come imbottitura degli elmi.
+\end_layout
+
+\begin_layout Standard
+La tipologia di cappello più caratteristica del soldato romano tardoimperiale
+ è il 
+\emph on
+pileus pannonicus
+\emph default
+, un berretto di forma cilindrica, con la parte superiore piatta, le pareti
+ laterali verticali e senza bordo; era indossato in modo che si vedessero
+ i capelli al di sotto, ed era di altezza variabile.
+ Soldati e ufficiali che indossano il 
+\emph on
+pileus pannonicus
+\emph default
+ sono raffigurati nei mosaici della Villa del Casale (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Dominus-Villa-Casale"
+
+\end_inset
+
+), nel gruppo dei Tetrarchi a Venezia e in uno dei fregi dell'Arco di Costantino
+ a Roma.
+\end_layout
+
+\begin_layout Standard
+Mentre Vegezio parla di un 
+\emph on
+pileus
+\emph default
+ realizzato in pelle,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Vegezio, 
+\backslash
+emph{Epitome} 1.20}
+\end_layout
+
+\end_inset
+
+ nell'Editto di Diocleziano si parla di pelli di pecora con la lana intatta
+ utilizzati per fabbricare questo cappello; l'interpretazione moderna è
+ che quando il berretto è raffigurato nell'iconografia liscio, si tratta
+ di un berretto di lana o feltro, quando invece la superficie è rugosa,
+ si tratta di un 
+\emph on
+pileus
+\emph default
+ fatto col vello di pecora.
+\end_layout
+
+\begin_layout Standard
+È anche verosimile che i soldati indossassero ancora il berretto frigio,
+ come attestato da alcuni mosaici.
+\end_layout
+
+\begin_layout Section
+Mantello
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Sagum
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Sagum"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Mantello/MantelloEFibula.jpg
+	display false
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Affresco da una tomba di Silistra raffigurante un servo che reca il mantello
+ del padrone; il mantello è color ocra e reca delle decorazioni rettangolari,
+ probabilmente delle 
+\emph on
+tabulae
+\emph default
+ negli angoli ed è già fissato tramite una fibula a balestra.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il mantello tradizionalmente associato con i soldati romani è il 
+\emph on
+sagum
+\emph default
+, di forma rettangolare; l'identificazione di questo indumento era tale
+ che l'indossare un 
+\emph on
+sagum
+\emph default
+ era una metafora per andare in guerra.
+\end_layout
+
+\begin_layout Standard
+I mantelli erano realizzati in lino, per l'estate, e in lana, per l'inverno;
+ questi ultimi erano talvolta trattati con 
+\emph on
+gausape
+\emph default
+, una sostanza che li rendeva resistenti all'acqua, se nella tintura si
+ andava a perdere parte della lanolina della lana.
+\end_layout
+
+\begin_layout Standard
+In epoca tardoimperiale il 
+\emph on
+sagum
+\emph default
+ ha dimensioni approssimative di un metro per due.
+ Reperti ritrovati ad Achmim-Panopolis in Egitto hanno lunghezze che vanno
+ dai 1,98
+\begin_inset space ~
+\end_inset
+
+m ai 2,44
+\begin_inset space ~
+\end_inset
+
+m, con larghezze da 1,02
+\begin_inset space ~
+\end_inset
+
+m a poco meno di 1,5
+\begin_inset space ~
+\end_inset
+
+m; è possibile che i mantelli più grandi venissero piegati prima di essere
+ indossati.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Mantello/Luxor.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Affresco dal tempio di Luxor, Egitto, cappella del culto imperiale di epoca
+ tetrarchica: sono raffigurati alti ufficiali dell'esercito, tutti con tunica
+ bianca con orbicula scuri e 
+\emph on
+sagum
+\emph default
+ color sabbia fissato da una fibula sulla spalla destra.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Il colore più diffuso in epoca tetrarchica è un giallo-marrone (color sabbia
+ o leone); successivamente questo colore non è più attestato con frequenza,
+ e sembrano essere di moda il rosso o il rosso-marrone, come raffigurato
+ dai mosaici di Santa Maria Maggiore a Roma (
+\noun on
+v
+\noun default
+ secolo).
+ Alcuni reperti da Achmim-Panopolis hanno quattro 
+\emph on
+orbiculi
+\emph default
+ o 
+\emph on
+tabulae
+\emph default
+ decorativi nei quattro angoli, e talvolta presentano la decorazione ulteriore
+ di una, due o persino tre strisce rosse o violette vicino al bordo; un
+ reperto da Nahal Hever è un 
+\emph on
+sagum
+\emph default
+ di 2,7
+\begin_inset space ~
+\end_inset
+
+m per 1,4
+\begin_inset space ~
+\end_inset
+
+m, con quattro decorazioni a forma di `Γ' in prossimità degli angoli, un
+ motivo che poi diventerà molto diffuso a partire dal 
+\noun on
+v
+\noun default
+ secolo, in particolare nelle raffigurazioni dei santi nelle chiese.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Paenula
+\end_layout
+
+\begin_layout Standard
+Nel 
+\noun on
+iv
+\noun default
+ secolo sembra diminuire fino a scomparire l'uso militare della 
+\emph on
+paenula
+\emph default
+, l'ampio mantello da viaggio con cappuccio e chiusura frontale che è invece
+ spesso associato con la vita militare nei secoli precedenti, tanto che
+ la prima attestazione tardoimperiale di soldati che indossano la 
+\emph on
+paenula
+\emph default
+ viene da una delle formelle del portale in legno della basilica di Santa
+ Sabina a Roma, che è datato all'inizio 
+\noun on
+v
+\noun default
+ secolo; è possibile che la 
+\emph on
+paenula
+\emph default
+ fosse associata particolarmente con la Guardia Pretoriana e che sia caduta
+ in disuso con lo scioglimento di questo corpo sotto l'imperatore Settimio
+ Severo.
+ Le 
+\emph on
+paenulae
+\emph default
+ del 
+\noun on
+v
+\noun default
+ secolo sono decorate con 
+\emph on
+clavi
+\emph default
+, probabilmente riccamente ornati come quelli delle tuniche; presentavano
+ forse anche delle frange, probabilmente nelle versioni destinate agli ufficiali.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Chlamys
+\emph default
+ e 
+\emph on
+paludamentum
+\end_layout
+
+\begin_layout Standard
+Invece del 
+\emph on
+sagum
+\emph default
+, gli ufficiali romani indossavano il 
+\emph on
+chlamys
+\emph default
+, un mantello ovale che raggiungeva le ginocchia, e che presentava due decorazio
+ni rettangolari di colore diverso poste al centro dette 
+\emph on
+tabula
+\emph default
+ o 
+\emph on
+tablion
+\emph default
+; quando il mantello era piegato a metà nel senso longitudinale, i due 
+\emph on
+tabula
+\emph default
+ si disponevano sul bordo lungo, e quando era poi indossato terminavano
+ uno sul davanti e uno sul retro.
+ Esisteva anche una versione semi-ovale, in cui i 
+\emph on
+tabula
+\emph default
+ erano disposti lungo il bordo.
+\end_layout
+
+\begin_layout Standard
+Come alternativa al 
+\emph on
+chlamys
+\emph default
+, gli ufficiali romani potevano indossare il 
+\emph on
+paludamentum
+\emph default
+, un corto mantello fissato sulla spalla destra e retto col braccio sinistro,
+ di antica adozione.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Mantion
+\end_layout
+
+\begin_layout Standard
+Nel 
+\emph on
+Chronicon Alexandrinum
+\emph default
+ si cita l'uso di un mantello di nome 
+\emph on
+mantion
+\emph default
+, molto corto, indossato sulle spalle in modo che due falde si incrociassero
+ sul petto con una 
+\emph on
+fibula
+\emph default
+ rotonda.
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Fibula
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Fibula"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+L'uso di fibule nell'abbigliamento maschile romano era per lo più limitato
+ a fissare i mantelli sulla spalla destra.
+\end_layout
+
+\begin_layout Section
+Altri accessori
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Fascia ventralis
+\end_layout
+
+\begin_layout Standard
+Nell'alto impero è attestato l'uso di fasce di tessuto indossate sotto le
+ cinture, per proteggere la tunica dalle parti più acuminate del 
+\emph on
+cingulum
+\emph default
+ (come i rivetti per fissare i finimenti) e forse anche per dare maggiore
+ stabilità al busto.
+ In epoca tardoimperiale l'unica attestazione è data da un mosaico da Apamea,
+ in cui alcuni cacciatori sembrano indossare una fascia ventrale sulla tunica.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Sudarium 
+\emph default
+o 
+\emph on
+focale
+\end_layout
+
+\begin_layout Standard
+L'utilizzo di sciarpe – 
+\emph on
+sudarium
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Valerio Massimo, ix, 12,7}
+\end_layout
+
+\end_inset
+
+ o 
+\emph on
+sudarion
+\emph default
+,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Graffito da Dura Europos}
+\end_layout
+
+\end_inset
+
+ o alternativamente 
+\emph on
+focale
+\emph default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Marziale, 
+\backslash
+emph{Epigrammi} vi, 41}
+\end_layout
+
+\end_inset
+
+ – è testimoniato sia in letteratura sia nell'iconografia, almeno per il
+ periodo altoimperiale.
+ Non ci sono attestazioni dell'uso del 
+\emph on
+sudarion
+\emph default
+ in epoca tardoimperiale.
+\end_layout
+
+\begin_layout Chapter
+Panoplia
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Balteus
+\end_layout
+
+\begin_layout Standard
+Col nome di 
+\emph on
+balteus
+\emph default
+ si identifica la cintura che serviva al soldato per portare la spada al
+ fianco.
+ Nel corso della storia romana questo supporto è talvolta una vera e propria
+ cintura stretta intorno alla vita, mentre in altri periodi diventa una
+ bandoliera che va da una spalla al fianco opposto; il caso in cui l'arma
+ da fianco fosse agganciata tramite una o due fettucce di cuoio alla cintura
+ vera e propria è invece alquanto frequente quando si trattava di indossare
+ il 
+\emph on
+pugio
+\emph default
+ o un'altra arma corta, molto più raro quando si trattava di portare la
+ 
+\emph on
+spatha
+\emph default
+ o un'arma lunga.
+\end_layout
+
+\begin_layout Standard
+Nel 
+\noun on
+iii
+\noun default
+ secolo andava di moda portare la 
+\emph on
+spatha
+\emph default
+ attaccata a una bandoliera larga sul davanti e stretta posteriormente.
+ La bandoliera presentava un pendente metallico all'estremità larga anteriore,
+ saliva verso la spalla, scendeva sulla schiena riducendosi di larghezza,
+ attraversava il passante della 
+\emph on
+spatha
+\emph default
+ per poi infilarsi davanti la porzione anteriore della bandoliera stessa,
+ fissandosi posteriormente a metà altezza tramite un fermo che terminava
+ anteriormente con una 
+\emph on
+falera
+\emph default
+ decorata.
+\end_layout
+
+\begin_layout Standard
+All'inizio del 
+\noun on
+iv
+\noun default
+ secolo sono ancora diffuse le bandoliere larghe, anche se si riduce notevolment
+e il numero di decorazioni metalliche ritrovate; ciò è probabilmente da
+ ricondurre alla diffusione graduale delle bandoliere strette, che avevano
+ soltanto una fibbia, o semplice (tipicamente a forma di `D') o in stile
+ coordinato con il 
+\emph on
+cingulum
+\emph default
+ (per esempio a delfini affrontati).
+\end_layout
+
+\begin_layout Standard
+Nella Villa del Casale vicino Piazza Armerina, in diversi mosaici sono raffigura
+ti militari che indossano 
+\emph on
+balteus 
+\emph default
+e 
+\emph on
+cingulum
+\emph default
+; in uno di essi (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Balteus-Piazzale Armerina"
+
+\end_inset
+
+) si nota come il 
+\emph on
+balteus
+\emph default
+ sia largo e a due colori, apparentemente sprovvisto di 
+\emph on
+falera
+\emph default
+ decorativa.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Balteus/12974499_144068109325026_4775199301834151237_n.jpg
+	display false
+	width 95text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mosaico dalla Villa del Casale di Piazza Armerina, raffigurante tre militari
+ che indossano 
+\emph on
+cingulum
+\emph default
+ e 
+\emph on
+balteus
+\emph default
+ rossi con decorazioni gialle; il 
+\emph on
+balteus
+\emph default
+ sembra sprovvisto della 
+\emph on
+falera
+\emph default
+ tipica di un 
+\emph on
+cingulum
+\emph default
+ del 
+\noun on
+iii
+\noun default
+ secolo.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Balteus-Piazzale Armerina"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Generally speaking a Limitanei infantryman of the 4th century AD would have:
+\end_layout
+
+\begin_layout Standard
+1.
+ Ridge helmet, Intercisa- or Berkasovo- Type.
+ 
+\end_layout
+
+\begin_layout Standard
+2.
+ Maille or Scale Hauberk 
+\end_layout
+
+\begin_layout Standard
+3.
+ Spear 
+\end_layout
+
+\begin_layout Standard
+4.
+ Sword - this depends on the part of the 4th century you want.
+ 
+\emph on
+The Illerup-Whyl Type Blade is what dominates but handle typology changes
+ from that of the Koln-Type to the Nydam-Types around 325 AD.
+ 
+\end_layout
+
+\begin_layout Standard
+5.
+ Baldric/Swordbelt/Belt - Fittings depend on what part of the 4th century
+ specifically.
+ Early, Mid, and Late 4th Century fittings have noticeable differences.
+ 
+\end_layout
+
+\begin_layout Standard
+6.
+ Trousers - Footed, tight fitting 
+\end_layout
+
+\begin_layout Standard
+7.
+ Tunica Manicata 
+\end_layout
+
+\begin_layout Standard
+8.
+ Ramshaw-Type Calcei are best but Campagi or Cothurni are also fine.
+ 
+\end_layout
+
+\begin_layout Standard
+9.
+ Shield - Round or Ovoid, preferably Dished.
+\end_layout
+
+\end_body
+\end_document
