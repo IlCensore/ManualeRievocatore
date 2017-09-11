@@ -1,2 +1,2 @@
 # ManualeRievocatore
-handbook for Late Roman Military Reenactment
+Handbook for Late Roman Military Reenactment
