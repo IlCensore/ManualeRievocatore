@@ -1081,7 +1081,7 @@ La funzione del la cintura era quello di permettere di mantenere l'orlo
  bisogno di una cintura.
  Privare un soldato della propria cintura militare (
 \emph on
-cingulum
+cingulum militare
 \emph default
 ), e farlo dunque sembrare un civile, era anche una forma di punizione per
  infrazioni minori.
@@ -1107,8 +1107,9 @@ Storicamente, il
 \emph on
 cingulum
 \emph default
- romano è sempre stato caratterizzato dalla presenza di finimenti in metallo
- applicati a mo' di riforzo e di decorazione al cuoio della cintura.
+ romano è sempre stato caratterizzato dalla presenza di fibbie, puntali
+ e finimenti in metallo applicati a mo' di riforzo e di decorazione al cuoio
+ della cintura.
  I finimenti possono essere in bronzo/ottone, argento, argento niellato,
  argento dorato, oro; le cinture stesse appaiono nei colori naturali del
  cuoio, ma con una certa frequenza sono anche rosse.
@@ -1153,6 +1154,21 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cinture/PLB-4055_1-fibbia-openwork.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
@@ -1161,7 +1177,7 @@ Fibbia con delfini, tipica delle cinture romane militari della prima metà
 \noun on
 iv
 \noun default
- secolo.
+ secolo; in basso, la placca traforata a cui era fissata tramite delle cerniere.
 \begin_inset CommandInset label
 LatexCommand label
 name "mar:Fibbia-delfino"
@@ -1194,7 +1210,7 @@ reference "mar:Fibbia-delfino"
 
 \end_inset
 
-).
+), fissate tramite delle cerniere a una placca traforata.
 \end_layout
 
 \begin_layout Standard
@@ -1202,9 +1218,9 @@ All'estremità opposta del
 \emph on
 cingulum
 \emph default
- è collocato un puntale metallico, tipicamente a forma di anfora, che serve
- a dare peso a questa estremità e a farla pendere sul davanti quando il
- 
+ è collocato un puntale metallico, tipicamente a forma di anfora o di lancetta,
+ che serve a dare peso a questa estremità e a farla pendere sul davanti
+ quando il 
 \emph on
 cingulum
 \emph default
@@ -1218,9 +1234,16 @@ Lungo tutta la cintura sono fissati dei rinforzi metallici che servono a
 cingulum
 \emph default
  e renderlo adatto a fissarci pesi quali armi da fianco o oggetti personali.
- Questi rinforzi possono essere a forma circolare, a forma di pelta, oppure
- a elica; in quest'ultimo caso hanno delle decorazioni concentriche sulla
- superficie.
+ Questi rinforzi possono essere a forma circolare e a forma di pelta, ma
+ la forma più diffusa e certamente più caratteristica del 
+\noun on
+iv
+\noun default
+ secolo è quella ad elica; in quest'ultimo caso hanno delle decorazioni
+ concentriche sulla superficie.
+ Talvolta sul bordo inferiore della cintura sono fissati uno o due placche
+ rotonde, decorate con una rosetta, che reggono un anello, a cui potevano
+ essere fissato utensili o una borsa in pelle.
 \end_layout
 
 \begin_layout Standard
@@ -1382,34 +1405,10 @@ sideways false
 status open
 
 \begin_layout Plain Layout
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
 \begin_inset Graphics
 	filename Pantalone-silistra-2.jpg
 	display false
 	width 100text%
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
@@ -2886,10 +2885,26 @@ balteus
  fianco.
  Nel corso della storia romana questo supporto è talvolta una vera e propria
  cintura stretta intorno alla vita, mentre in altri periodi diventa una
- bandoliera che va da una spalla al fianco opposto; il caso in cui l'arma
- da fianco fosse agganciata tramite una o due fettucce di cuoio alla cintura
- vera e propria è invece alquanto frequente quando si trattava di indossare
- il 
+ bandoliera che va da una spalla al fianco opposto;
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Il passaggio dall'uso del 
+\backslash
+emph{balteus} legato attorno alla cintola a quello sulla spalla avvenne
+ attorno all'inizio del terzo secolo; nel corso del quarto secolo si tornò
+ a indossare la spada attaccata a una cintura alla vita.}
+\end_layout
+
+\end_inset
+
+ il caso in cui l'arma da fianco fosse agganciata tramite una o due fettucce
+ di cuoio alla cintura vera e propria è invece alquanto frequente quando
+ si trattava di indossare il 
 \emph on
 pugio
 \emph default
@@ -2974,7 +2989,7 @@ falera
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -3037,6 +3052,23 @@ name "fig:Balteus-Piazzale Armerina"
 \end_layout
 
 \begin_layout Standard
+Nella seconda parte del 
+\noun on
+iv
+\noun default
+ secolo la spatha torna ad essere indossata tramite attaccandola alla cintura
+ alla vita, e il 
+\emph on
+balteus
+\emph default
+ di fatto diventa una parte del 
+\emph on
+cingulum
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
 Generally speaking a Limitanei infantryman of the 4th century AD would have:
 \end_layout
 
@@ -3093,6 +3125,22 @@ The Illerup-Whyl Type Blade is what dominates but handle typology changes
 \begin_layout Standard
 9.
  Shield - Round or Ovoid, preferably Dished.
+\end_layout
+
+\begin_layout Chapter*
+Bibliografia
+\end_layout
+
+\begin_layout Standard
+Stefanie Hoss, «The Roman Military Belt», in Koefoed, H., M.-L.
+ Nosch (a cura di), 
+\emph on
+Wearing the Cloak.
+ Dressing the Soldier in Roman Times
+\emph default
+.
+ Ancient Textiles Series vol.
+ 10, Oxford 2011, 29–44.
 \end_layout
 
 \end_body
