@@ -7,6 +7,8 @@
 \textclass tufte-book
 \begin_preamble
 \frenchspacing
+\usepackage{microtype}
+\usepackage{url}
 \end_preamble
 \options usletter
 \use_default_options true
@@ -74,6 +76,22 @@
 \end_header
 
 \begin_body
+
+\begin_layout Verse
+
+\emph on
+illis quos arma tegunt et balteus ambit 
+\emph default
+– Giovenale, 
+\emph on
+Satire
+\emph default
+, 
+\noun on
+xvi
+\noun default
+ 48
+\end_layout
 
 \begin_layout Chapter*
 Prefazione
@@ -1140,7 +1158,7 @@ iii
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1263,7 +1281,7 @@ reference "mar:Cingulum-Piazza-Armerina"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1313,15 +1331,16 @@ reference "fig:Cingulum-Budapest"
 
 \end_inset
 
-) è caratterizzato dal fatto che la cintura è molto alta, fino a 14 cm di
- altezza; per renderla utilizzabile, è necessario che sia composta da una
- cintura principale, appunto più larga della precedente tipologia, a una
- estremità della quale è fissata una lunga lingua più stretta che termina
- con un puntale.
+) è caratterizzato dal fatto che la cintura è molto alta, dai 5 ai 10 e
+ fino ai 14 centimetri di altezza; per renderla utilizzabile, è necessario
+ che sia composta da una cintura principale, appunto più larga della precedente
+ tipologia, a una estremità della quale è fissata una lunga lingua più stretta
+ che termina con un puntale.
  La parte principale è decorata da una serie di placche di metallo di forma
  rettangolare e alte quanto la cintura stessa; una di queste, posta a una
- estremità, ha un foro nel mezzo e funge da fibbia, e poco dopo si può trovare
- un passante.
+ estremità, ha un foro nel mezzo e funge da fibbia (talvolta decorata da
+ teste di animale, rivolte verso le cerniere, in questo caso), e poco dopo
+ si può trovare un passante.
 \end_layout
 
 \begin_layout Standard
@@ -1331,7 +1350,8 @@ cingulum
 \emph default
 , la parte alta della cintura viene avvolto intorno al corpo; l'estremità
  più sottile viene fatta passare sotto quella più ampia e viene fatta entrare
- nella fibbia, passa dentro il passante, per poi avvolgersi attorno al 
+ nella fibbia attraverso il foro nella cintura, passa dentro il passante,
+ per poi avvolgersi attorno al 
 \emph on
 cingulum
 \emph default
@@ -3140,7 +3160,20 @@ Wearing the Cloak.
 \emph default
 .
  Ancient Textiles Series vol.
- 10, Oxford 2011, 29–44.
+ 10, Oxford 2011, 29–44 <
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://www.academia.edu/212354/The_Roman_Military_Belt}
+\end_layout
+
+\end_inset
+
+>.
 \end_layout
 
 \end_body
