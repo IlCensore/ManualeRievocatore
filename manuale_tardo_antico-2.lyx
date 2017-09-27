@@ -19,7 +19,7 @@
 \fontencoding global
 \font_roman "utopia" "EB Garamond"
 \font_sans "biolinum" "PT Sans"
-\font_typewriter "libertine-mono" "Liberation Mono"
+\font_typewriter "libertine-mono" "Source Code Pro"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -76,22 +76,6 @@
 \end_header
 
 \begin_body
-
-\begin_layout Verse
-
-\emph on
-illis quos arma tegunt et balteus ambit 
-\emph default
-– Giovenale, 
-\emph on
-Satire
-\emph default
-, 
-\noun on
-xvi
-\noun default
- 48
-\end_layout
 
 \begin_layout Chapter*
 Prefazione
@@ -1099,7 +1083,7 @@ La funzione del la cintura era quello di permettere di mantenere l'orlo
  bisogno di una cintura.
  Privare un soldato della propria cintura militare (
 \emph on
-cingulum militare
+cingulum militaris
 \emph default
 ), e farlo dunque sembrare un civile, era anche una forma di punizione per
  infrazioni minori.
@@ -1132,10 +1116,52 @@ cingulum
  argento dorato, oro; le cinture stesse appaiono nei colori naturali del
  cuoio, ma con una certa frequenza sono anche rosse.
  Le cinture romane erano solitamente notevolmente più lunghe della circonferenza
- della vita di chi le indossava; l'estremità libera era solitamente appesantita
- da un puntale; essa passava nella fibbia e poi si avvolgeva attorno alla
- cintura, andando a pendere in posizione centrale o sulla destra di chi
- la indossava.
+ della vita di chi le indossava; l'estremità libera, solitamente appesantita
+ da un puntale, passava nella fibbia e poi si avvolgeva attorno alla cintura,
+ andando a pendere in posizione centrale o sulla destra di chi la indossava.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../Cingulum IV secolo/fibbia_semplice.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Esempio di fibbia semplice, rinforzi a elica, e puntale ad anfora.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:fibbia-semplice"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1154,17 +1180,25 @@ iii
  anche se cambierà la tipologia di finimenti utilizzati per decorarle.
 \end_layout
 
+\begin_layout Subsection
+
+\emph on
+Cingulum
+\emph default
+ di tipologia stretta
+\end_layout
+
 \begin_layout Standard
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Cinture/dolphinbuckle.jpg
 	display false
-	width 100col%
+	width 80col%
 
 \end_inset
 
@@ -1175,7 +1209,7 @@ status collapsed
 \begin_inset Graphics
 	filename Cinture/PLB-4055_1-fibbia-openwork.jpg
 	display false
-	width 100col%
+	width 80col%
 
 \end_inset
 
@@ -1220,15 +1254,75 @@ Il
 \emph on
 cingulum 
 \emph default
-di tipologia stretta deriva ha una fibbia metallica, che in epoca costantiniana
- ha spesso la forma di due teste di delfino che si affrontano (Figura 
+di tipologia stretta è alto fino a 5 cm, e a una estremità ha la fibbia
+ metallica, che può essere semplice o traforata.
+ La fibbia semplice (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:fibbia-semplice"
+
+\end_inset
+
+, a sinistra) è caratterizzata da un 
+\begin_inset Quotes fld
+\end_inset
+
+arco
+\begin_inset Quotes frd
+\end_inset
+
+ a forma di `D'; sul tratto verticale della `D' è fissato l'ardiglione;
+ la fibbia è completata da una placca che gira intorno al tratto verticale
+ della `D' e si fissa tramite rivetti all'estremità alta del 
+\emph on
+cingulum
+\emph default
+.
+ Le fibbie traforate di epoca costantiniana hanno l'arco della fibbia realizzato
+ a forma di due teste di delfino che si incrociano al centro (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "mar:Fibbia-delfino"
 
 \end_inset
 
-), fissate tramite delle cerniere a una placca traforata.
+, in alto), lì dove l'ardiglione batte sull'arco; l'arco della fibbia è
+ incernierato a una parte piatta, che si rivetta al 
+\emph on
+cingulum
+\emph default
+; questa parte può essere decorata tramite un traforo geometrico (Figura
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Fibbia-delfino"
+
+\end_inset
+
+, in basso; Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:traforata2-Champdolent"
+
+\end_inset
+
+, a sinistra, in una riproduzione moderna di un reperto antico), che talvolta
+ crea l'effetto di una fibbia che 
+\begin_inset Quotes fld
+\end_inset
+
+ingloba
+\begin_inset Quotes frd
+\end_inset
+
+ il primo dei rinforzi a elica (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Fibbia-delfino"
+
+\end_inset
+
+, in basso, si nota metà rinforzo a elica inglobato nella fibbia stessa).
 \end_layout
 
 \begin_layout Standard
@@ -1236,13 +1330,79 @@ All'estremità opposta del
 \emph on
 cingulum
 \emph default
- è collocato un puntale metallico, tipicamente a forma di anfora o di lancetta,
- che serve a dare peso a questa estremità e a farla pendere sul davanti
- quando il 
+ è collocato un puntale metallico, tipicamente a forma di anfora (Figura
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:fibbia-semplice"
+
+\end_inset
+
+, a destra; Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:traforata2-Champdolent"
+
+\end_inset
+
+, a destra, riproduzione moderna, con decorazioni a cerchi concentrici)
+ o di lancetta, che serve a dare peso a questa estremità e a farla pendere
+ sul davanti quando il 
 \emph on
 cingulum
 \emph default
  viene indossato correttamente.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../Cingulum IV secolo/nr0129.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Riproduzione dei finimenti di 
+\emph on
+cingulum
+\emph default
+ provenienti da Champdolent, in Francia; la fibbia è a teste di animale
+ che si incontrano al centro, mentre la piastra è traforata a motivi architetton
+ici; si notino il rinforzo a elica e il puntale a forma di anfora con decorazion
+i concentriche.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:traforata2-Champdolent"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1257,8 +1417,22 @@ cingulum
 \noun on
 iv
 \noun default
- secolo è quella ad elica; in quest'ultimo caso hanno delle decorazioni
- concentriche sulla superficie.
+ secolo è quella ad elica (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:fibbia-semplice"
+
+\end_inset
+
+, al centro; Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:traforata2-Champdolent"
+
+\end_inset
+
+, in basso); in quest'ultimo caso hanno spesso delle decorazioni concentriche
+ sulla superficie.
  Talvolta sul bordo inferiore della cintura sono fissati uno o due placche
  rotonde, decorate con una rosetta, che reggono un anello, a cui potevano
  essere fissato utensili o una borsa in pelle.
@@ -1285,9 +1459,53 @@ status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
+	filename Cinture/PLB-4058_1.jpg
+	display false
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Esempio di fibbia in stile 
+\emph on
+chip-carved
+\emph default
+, con placca e contro-placca; si noti come la placca con la fibbia vada
+ attaccata alla cintura e necessiti di un foro attraverso la cintura per
+ far passare l'estremità stretta della cintura attraverso la fibbia.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Fibbia-chip-carved"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
 	filename Cinture/PiazzaArmerina.jpg
 	display false
-	width 100col%
+	width 80col%
 
 \end_inset
 
@@ -1319,6 +1537,14 @@ name "mar:Cingulum-Piazza-Armerina"
 
 \end_layout
 
+\begin_layout Subsection
+
+\emph on
+Cingulum
+\emph default
+ di tipologia larga
+\end_layout
+
 \begin_layout Standard
 Come dice il nome stesso un 
 \emph on
@@ -1327,7 +1553,7 @@ cingulum
  di tipologia di cintura larga (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "fig:Cingulum-Budapest"
+reference "fig:oudenberg"
 
 \end_inset
 
@@ -1336,20 +1562,35 @@ reference "fig:Cingulum-Budapest"
  che sia composta da una cintura principale, appunto più larga della precedente
  tipologia, a una estremità della quale è fissata una lunga lingua più stretta
  che termina con un puntale.
- La parte principale è decorata da una serie di placche di metallo di forma
- rettangolare e alte quanto la cintura stessa; una di queste, posta a una
- estremità, ha un foro nel mezzo e funge da fibbia (talvolta decorata da
- teste di animale, rivolte verso le cerniere, in questo caso), e poco dopo
- si può trovare un passante.
-\end_layout
+ La parte principale è decorata da una serie di placche, contro-placche
+ e passanti di metallo di forma rettangolare e alte quanto la cintura stessa,
+ spesso decorate nello stile detto 
+\emph on
+chip-carved
+\emph default
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Cingulum-Piazza-Armerina"
 
-\begin_layout Standard
-Per indossare questa tipologia di 
+\end_inset
+
+, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:oudenberg"
+
+\end_inset
+
+); una di queste, posta a un'estremità, ha un foro nel mezzo in corrispondenza
+ della fibbia (talvolta decorata da teste di animale, rivolte verso le cerniere,
+ in questo caso), e poco dopo si può trovare un passante.
+ Per indossare questa tipologia di 
 \emph on
 cingulum
 \emph default
-, la parte alta della cintura viene avvolto intorno al corpo; l'estremità
- più sottile viene fatta passare sotto quella più ampia e viene fatta entrare
+, la parte alta della cintura è stretta intorno al corpo; l'estremità più
+ sottile viene fatta passare sotto quella più ampia e viene fatta entrare
  nella fibbia attraverso il foro nella cintura, passa dentro il passante,
  per poi avvolgersi attorno al 
 \emph on
@@ -1360,15 +1601,17 @@ cingulum
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
-	filename Cinture/Budapest.jpg
+	filename ../Cingulum IV secolo/oudenberg.jpg
 	display false
-	width 95text%
+	width 90text%
 
 \end_inset
 
@@ -1379,14 +1622,23 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Riproduzione moderna di una cintura di tipologia larga; l'originale è stato
- ritrovato a Budapest.
- I finimenti sono placche di argento con decorazioni geometriche in oro
- e niello; si noti la fibbia con il buco che permette all'estremità più
- sottile (terminante con un puntale) di passare attraverso la cintura stessa.
+Riproduzione moderna di 
+\emph on
+cingulum
+\emph default
+ alto con fibbia di tipo Oudenburg.
+ I finimenti riconoscibili sono, da sinistra a destra, due anelli da cintura,
+ controplacca, placca con fibbia, puntale, passante, controplacca.
+ In questa ricostruzione la controplacca di sinistra copre il punto in cui
+ la parte più stretta del 
+\emph on
+cingulum
+\emph default
+ è cucita a quella più larga.
+ 
 \begin_inset CommandInset label
 LatexCommand label
-name "fig:Cingulum-Budapest"
+name "fig:oudenberg"
 
 \end_inset
 
@@ -1412,45 +1664,6 @@ Pantaloni
 \begin_inset CommandInset label
 LatexCommand label
 name "subsec:Pantaloni"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float marginfigure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Pantalone-silistra-2.jpg
-	display false
-	width 100text%
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Affresco raffigurante un servo che porta al padrone un pantalone, dotato
- di piedi integrali e passanti attraverso i quali è infilata una cintura.
-\begin_inset CommandInset label
-LatexCommand label
-name "mar:Affresco-Durostorum"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
@@ -1491,6 +1704,45 @@ iv
  città di Roma, ma queste leggi non solo dimostrano che fosse pratica comune
  indossarli, ma anzi che al di fuori dell'antica capitale era ormai inutile
  proibirli.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Pantalone-silistra-2.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Affresco raffigurante un servo che porta al padrone un pantalone, dotato
+ di piedi integrali e passanti attraverso i quali è infilata una cintura.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Affresco-Durostorum"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1555,7 +1807,7 @@ Femoralia
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2638,17 +2890,17 @@ Nel
 \noun on
 iv
 \noun default
- secolo sembra diminuire fino a scomparire l'uso militare della 
+ secolo non ci sono attestazioni dell'uso militare della 
 \emph on
 paenula
 \emph default
 , l'ampio mantello da viaggio con cappuccio e chiusura frontale che è invece
  spesso associato con la vita militare nei secoli precedenti, tanto che
- la prima attestazione tardoimperiale di soldati che indossano la 
+ la prima evidenza tardoimperiale di soldati che indossano la 
 \emph on
 paenula
 \emph default
- viene da una delle formelle del portale in legno della basilica di Santa
+ è data da una delle formelle del portale in legno della basilica di Santa
  Sabina a Roma, che è datato all'inizio 
 \noun on
 v
@@ -3174,6 +3426,18 @@ url{http://www.academia.edu/212354/The_Roman_Military_Belt}
 \end_inset
 
 >.
+\end_layout
+
+\begin_layout Standard
+Graham Sumner, 
+\emph on
+Roman Military Dress
+\emph default
+, The History Press, 2009, 
+\noun on
+isbn
+\noun default
+ 978-07542-4576-2.
 \end_layout
 
 \end_body
