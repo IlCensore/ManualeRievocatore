@@ -17,9 +17,9 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "EB Garamond"
-\font_sans "biolinum" "PT Sans"
-\font_typewriter "libertine-mono" "Source Code Pro"
+\font_roman "utopia" "Linux Libertine O"
+\font_sans "biolinum" "Linux Biolinum O"
+\font_typewriter "libertine-mono" "Linux Libertine Mono O"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -33,7 +33,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
+\spacing other 1.2
 \use_hyperref false
 \papersize default
 \use_geometry true
@@ -67,7 +67,7 @@
 \quotes_language french
 \papercolumns 1
 \papersides 2
-\paperpagestyle headings
+\paperpagestyle fancy
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -76,6 +76,15 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Chapter*
 Prefazione
@@ -314,15 +323,16 @@ textsc{iv} secolo non di discostava molto da quello di un civile dello stesso
 , fatta eccezione per alcuni particolari.
  Sebbene l'esercito provvedesse talvolta a fornire ai soldati alcuni indumenti,
  il cui costo era poi detratto dalla paga,
-\begin_inset Note Note
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
 
+
 \backslash
-sidenote{Il clima arido dell'Egitto ha conservato alcuni documenti da cui
- si evince che talvolta  l'amministrazione militare si occupava di acquistare
- alcuni capi di abbigliamento, come per esempio dei mantelli, da distribuire
+marginnote{Il clima arido dell'Egitto ha conservato alcuni documenti da
+ cui si evince che talvolta  l'amministrazione militare si occupava di acquistar
+e alcuni capi di abbigliamento, come per esempio dei mantelli, da distribuire
  evidentemente ai soldati; un effetto collaterale di questa politica poteva
  essere quello di introdurre un minimo di uniformità nell'abbigliamento
  dei soldati di una stessa unità.}
@@ -466,7 +476,184 @@ newthought{L'abito romano per eccellenza è la tunica.}
  delle eventuali decorazioni, e più semplicemente il numero di indumenti
  indossati sono strumenti di identificazione all'interno delle gerarchie
  sociali.
- 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Tunica-tipologia1.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tunica egiziana di tipo 1, con 
+\emph on
+clavi
+\emph default
+ terminanti a goccia, 
+\emph on
+tabulae
+\emph default
+, e 
+\emph on
+segmentae
+\emph default
+, il tutto con una decorazione figurata a motivi floreali e antropomorfi.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Tunica-copta"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A partire già dal 
+\noun on
+iii
+\noun default
+ secolo si diffonde sempre più un modello di tunica che si allunga sempre
+ più verso il ginocchio e che presenta delle maniche fino ai polsi, e prende
+ dunque il nome di 
+\emph on
+tunica manicata
+\emph default
+.
+ L'introduzione di questa tipologia di tunica è generalmente attribuita
+ alle truppe romane di origine germanica, che l'avrebbero fatta conoscere
+ ai soldati; allo stesso tempo, essa divenne di moda perché furono gli stessi
+ imperatori a indossarla, forse per mostrarsi più vicini ai soldati e ottenerne
+ il sostegno, forse perché spesso le guardie personali degli imperatori
+ erano di origine germanica.
+\end_layout
+
+\begin_layout Standard
+Fondamentalmente possiamo immaginare che un 
+\emph on
+miles
+\emph default
+ romano utilizzasse tre tipi di tunica: una tunica indossata quotidianamente
+ e molto simile alla tunica di un civile; la 
+\emph on
+camisia
+\emph default
+, o 
+\emph on
+linea
+\emph default
+, indossata sotto tutti gli altri indumenti in maniera simile alla biancheria
+ moderna;
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{L'uso della 
+\backslash
+emph{linea} è attestata da Girolamo nelle sue lettere (
+\backslash
+emph{Ep.} lxiv, 11, 2)}
+\end_layout
+
+\end_inset
+
+ la 
+\emph on
+tunica militaris
+\emph default
+,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{La 
+\backslash
+emph{tunica militaris} era anche nota col nome greco di 
+\backslash
+emph{sticharion}, che vuol dire <<a strisce>>, probabilmente un riferimento
+ ai clavi che la decoravano}
+\end_layout
+
+\end_inset
+
+ ovvero una tunica indossata specificamente in vista di uno scontro armato,
+ o comunque sotto l'armatura.
+\end_layout
+
+\begin_layout Subsection
+Dimensioni
+\end_layout
+
+\begin_layout Standard
+Come già detto, durante la Tarda Antichità la tunica si allunga fino a raggiunge
+re il ginocchio e ha maniche che arrivano ai polsi.
+ Generalmente le tuniche civili hanno il corpo e le maniche molto ampi,
+ in linea con la tendenza in età antica a manifestare la ricchezza di un
+ individuo tramite l'uso di grandi quantità di tessuto; l'iconografia mostra
+ come nel caso della 
+\emph on
+tunica militaris
+\emph default
+, il corpo fosse più aderente, anche se ancora relativamente ampio, e le
+ maniche decisamente strette, probabilmente per motivi di praticità; infine,
+ la 
+\emph on
+linea
+\emph default
+ era in genere abbastanza aderente sulle braccia e sul corpo.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -533,164 +720,8 @@ name "fig:Tunica-egiziana-tipologia2"
 
 \end_layout
 
-\begin_layout Standard
-A partire già dal 
-\noun on
-iii
-\noun default
- secolo si diffonde sempre più un modello di tunica che si allunga sempre
- più verso il ginocchio e che presenta delle maniche fino ai polsi, e prende
- dunque il nome di 
-\emph on
-tunica manicata
-\emph default
-.
- L'introduzione di questa tipologia di tunica è generalmente attribuita
- alle truppe romane di origine germanica, che l'avrebbero fatta conoscere
- ai soldati; allo stesso tempo, essa divenne di moda perché furono gli stessi
- imperatori a indossarla, forse per mostrarsi più vicini ai soldati e ottenerne
- il sostegno, forse perché spesso le guardie personali degli imperatori
- erano di origine germanica.
-\end_layout
-
-\begin_layout Standard
-Un altro tipo di tunica era la 
-\emph on
-camisia
-\emph default
-, o 
-\emph on
-linea
-\emph default
-;
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-sidenote{L'uso della 
-\backslash
-emph{linea} è attestata da Girolamo nelle sue lettere (
-\backslash
-emph{Ep.} lxiv, 11, 2)}
-\end_layout
-
-\end_inset
-
- si trattava di una tunica di lino non colorato, di taglio molto aderente
- sia alle braccia sia al corpo, da indossare sotto gli altri indumenti.
-\end_layout
-
-\begin_layout Subsection
-Dimensioni
-\end_layout
-
-\begin_layout Standard
-Come già detto, durante la Tarda Antichità la tunica si allunga fino a raggiunge
-re il ginocchio e ha maniche che arrivano ai polsi.
- Generalmente le tuniche civili hanno il corpo e le maniche molto ampi,
- in linea con la tendenza in età antica a manifestare la ricchezza di un
- individuo tramite l'uso di grandi quantità di tessuto; l'iconografia, però,
- mostra come nel caso della tunica militare,
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-sidenote{La 
-\backslash
-emph{tunica militaris} era anche nota col nome greco di 
-\backslash
-emph{sticharion}, che vuol dire <<a strisce>>, probabilmente un riferimento
- ai clavi che la decoravano}
-\end_layout
-
-\end_inset
-
- il corpo fosse più aderente, e le maniche strette, probabilmente per motivi
- di praticità.
-\end_layout
-
 \begin_layout Subsection
 Taglio
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float marginfigure
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Box Frameless
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-thickness "0.4pt"
-separation "3pt"
-shadowsize "4pt"
-framecolor "black"
-backgroundcolor "none"
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Tunica-tipologia1.jpg
-	display false
-	width 100text%
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Tunica egiziana di tipo 1, con 
-\emph on
-clavi
-\emph default
-, 
-\emph on
-tabulae
-\emph default
-, e 
-\emph on
-segmentae
-\emph default
-.
-\begin_inset CommandInset label
-LatexCommand label
-name "mar:Tunica-copta"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -724,6 +755,11 @@ reference "fig:Tunica-egiziana-tipologia2"
 te sul petto e sulla schiena.
 \end_layout
 
+\begin_layout Standard
+In entrambi i casi l'apertura per il collo è solitamente dritta, anche se
+ ci sono casi rari di scolli rotondi.
+\end_layout
+
 \begin_layout Subsection
 Tessuti
 \end_layout
@@ -731,7 +767,7 @@ Tessuti
 \begin_layout Standard
 In questo periodo i tessuti preferiti dai Romani continuano a essere la
  lana e il lino, ben attestati dai ritrovamenti archeologici.
- In letteratura è attestata una limitata diffusione del cotone
+ In letteratura è attestata una limitata diffusione del cotone,
 \begin_inset ERT
 status open
 
@@ -744,7 +780,7 @@ sidenote{Il cotone era costoso e prodotto in limitate quantità in Egitto}
 
 \end_inset
 
- e della seta
+ adatto probabilmente all'abbigliamento degli ufficiali, e della seta
 \begin_inset ERT
 status open
 
@@ -759,6 +795,14 @@ sidenote{La seta era ancora più costosa, importata dall'Oriente e riservata
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+Nel caso della 
+\emph on
+linea
+\emph default
+, si utilizzava esclusivamente il lino.
 \end_layout
 
 \begin_layout Subsection
@@ -825,10 +869,30 @@ candidati
 \end_layout
 
 \begin_layout Standard
+Sebbene non vi fossero regolamenti militari sui colori delle tuniche, dall'icono
+grafia si ricava l'impressione che vi fossero dei colori preferiti per la
+ 
+\emph on
+tunica militaris
+\emph default
+; si nota infatti una certa frequenza di tuniche rosso-arancione (tonalità
+ più economica) per i 
+\emph on
+milites
+\emph default
+ delle legioni, bianco o rosso più profondo (tonalità più costosa) per gli
+ ufficiali o i soldati più ricchi, indaco o verde per gli 
+\emph on
+auxilia
+\emph default
+ e la cavalleria, blu per i fanti di marina.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -912,8 +976,8 @@ Decorazioni
 
 \begin_layout Standard
 Sia i reperti archeologici sia l'iconografia mostrano come le tuniche fossero
- frequentemente decorate, una moda importata anche in questo caso dall'Oriente,
- e inizialmente osteggiata.
+ frequentemente ma non sempre decorate, una moda importata anche in questo
+ caso dall'Oriente, e inizialmente osteggiata.
 \end_layout
 
 \begin_layout Standard
@@ -923,53 +987,40 @@ clavi
 \emph default
 , 
 \emph on
-orbiculi
-\emph default
-/
-\emph on
-tabulae
-\emph default
-/
-\emph on
-stellae
+orbiculi, tabulae
 \emph default
 , 
 \emph on
-segmentae
+stellae
 \emph default
-,
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-sidenote{Strisce orizzontali, poste sotto il collo, sulle maniche e lungo
- gli orli inferiori della tunica}
-\end_layout
+, e
+\emph on
+ segmentae
+\emph default
+, e generalmente erano uguali per fronte e retro della tunica.
+ Tali decorazioni erano generalmente intessute in lana colorata e lino naturale
+ sulla trama di fondo, ma potevano essere ritagliate da tuniche vecchie
+ e applicate su tuniche nuove; non è chiaro se fossero mai ricamate.
+ A giudicare dall'iconografia (ad esempio i mosaici della Villa del Casale
+ di Piazza Armerina), nel 
+\noun on
+iv
+\noun default
+ secolo tali decorazioni avevano motivi geometrici (si veda Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Tunica-egiziana-segmentum"
 
 \end_inset
 
- e generalmente erano uguali per fronte e retro della tunica.
-\end_layout
-
-\begin_layout Standard
-I 
-\emph on
-clavi
-\emph default
- erano due strisce colorate che scendevano verticalmente sul davanti e sul
- retro della tunica; potevano andare dalle spalle al bordo inferiore della
- tunica, oppure interrompersi sul petto con un elemento decorativo a forma
- di goccia.
+), anche se non mancano esempi di decorazioni figurate e antropomorfe.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -991,7 +1042,9 @@ status open
 Orbiculum
 \emph default
  da una tunica egiziana; la decorazione è geometrica
-\end_layout
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Orbiculum"
 
 \end_inset
 
@@ -1000,13 +1053,33 @@ Orbiculum
 
 \end_inset
 
-Gli 
+
+\end_layout
+
+\end_inset
+
+I 
+\emph on
+clavi
+\emph default
+ erano due strisce colorate che scendevano verticalmente sul davanti e sul
+ retro della tunica; potevano andare dalle spalle al bordo inferiore della
+ tunica, oppure interrompersi sul petto con un elemento decorativo a forma
+ di goccia.
+ Gli 
 \emph on
 orbiculi
 \emph default
- erano decorazioni rotonde, poste una su ciascuna spalla, e talvolta anche
- nella parte inferiore della tunica, a coppie sul davanti e sul retro, generalme
-nte di dimensioni più piccole.
+ erano decorazioni rotonde (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Orbiculum"
+
+\end_inset
+
+), poste una su ciascuna spalla, e talvolta anche nella parte inferiore
+ della tunica, a coppie sul davanti e sul retro, generalmente di dimensioni
+ più piccole.
  Quando queste decorazioni erano quadrate invece che rotonde, prendevano
  il nome di 
 \emph on
@@ -1024,28 +1097,26 @@ reference "fig:Tunica-egiziana-segmentum"
 stellae
 \emph default
  quando hanno una forma a stella.
+ Le 
+\emph on
+segmentae
+\emph default
+ sono invece strisce decorative orizzontali, poste sotto il collo, sulle
+ maniche e lungo gli orli inferiori della tunica.
 \end_layout
 
 \begin_layout Standard
-Tali decorazioni erano generalmente intessute in lana colorata e lino naturale
- sulla trama di fondo, ma potevano essere ritagliate da tuniche vecchie
- e applicate su tuniche nuove; non è chiaro se fossero mai ricamate.
-\end_layout
-
-\begin_layout Standard
-A giudicare dall'iconografia (ad esempio i mosaici della Villa del Casale
- di Piazza Armerina), nel 
-\noun on
-iv
-\noun default
- secolo le decorazioni erano di tipo geometrico (si veda Figura 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:Tunica-egiziana-segmentum"
-
-\end_inset
-
-), anche se non mancano esempi di decorazioni figurate e antropomorfe.
+Osservando l'iconografia, pare che la 
+\emph on
+tunica militaris
+\emph default
+ che i 
+\emph on
+milites
+\emph default
+ portavano sotto l'armatura fosse spesso senza decorazioni o con decorazioni
+ più semplici, cosa comprensibile se si considera che spesso l'armatura
+ copriva gran parte della tunica.
 \end_layout
 
 \begin_layout Section
@@ -1191,7 +1262,7 @@ Cingulum
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1878,6 +1949,10 @@ In alternativa ai pantaloni lunghi, era possibile indossare dei pantaloncini
 \emph on
 femoralia
 \emph default
+ o 
+\emph on
+braccae
+\emph default
 , talvolta indossati insieme a delle fasce di nome 
 \emph on
 tibialia
@@ -2244,13 +2319,19 @@ iv
 \noun default
  secolo si diffusero altre tipologie di scarpe, alcune delle quali arrivarono
  ai secoli successivi.
-\end_layout
-
-\begin_layout Standard
-Non ci sono tipologie di calzature che siano esclusivamente militari, in
+ Non ci sono tipologie di calzature che siano esclusivamente militari, in
  molti casi per una determinata tipologia si trovano reperti senza chiodatura
  e reperti con i chiodi, questi ultimi generalmente intesi come indizio
  in favore dell'utilizzo militare della calzatura.
+\end_layout
+
+\begin_layout Standard
+I colori delle calzatura militari erano verosimilmente quelli naturali del
+ cuoio per i semplici 
+\emph on
+milites
+\emph default
+, mentre per gli ufficiali sono attestate scarpe in cuoio nero o rosso.
 \end_layout
 
 \begin_layout Subsection
@@ -2278,7 +2359,7 @@ iv
 
 \begin_layout Standard
 Sono generalmente realizzati su di una forma, e sono composti da almeno
- tre parti: suola, tomaia e soletta, cucite insieme e talvolta rafforzati
+ tre parti: suola, tomaia e soletta, cucite insieme e talvolta rafforzate
  da chiodi posti sulla suola, che attraversano i tre strati di cuoio e si
  ripiegano sulla pianta della scarpa.
  La tomaia è chiusa da una cucitura che corre talvolta sulla parte anteriore
@@ -2305,7 +2386,7 @@ reference "mar:Calcei-Zwammerdam"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2395,7 +2476,7 @@ Un tipo di calzatura romana che si diffonde a partire dalla fine del
 \noun on
 iii
 \noun default
- secolo e restano in uso per qualche secolo sono i 
+ secolo e resta in uso per qualche secolo sono i 
 \emph on
 campagi
 \emph default
@@ -2415,7 +2496,7 @@ reference "mar:Campagi-Deurne"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2477,7 +2558,7 @@ campagi
 \end_layout
 
 \begin_layout Standard
-Generalmente sono di colore rosso o nero nelle raffigurazioni, ma è possibile
+Nelle raffigurazioni sono generalmente di colore rosso o nero, ma è possibile
  che fossero anche nei colori naturali del cuoio.
 \end_layout
 
@@ -2916,6 +2997,60 @@ sagum
 \begin_layout Subsection
 
 \emph on
+Chlamys
+\emph default
+ e 
+\emph on
+paludamentum
+\end_layout
+
+\begin_layout Standard
+Invece del 
+\emph on
+sagum
+\emph default
+, gli ufficiali romani potevano indossare il 
+\emph on
+chlamys
+\emph default
+, un mantello ovale che raggiungeva le ginocchia, e che presentava due decorazio
+ni rettangolari di colore diverso poste al centro dette 
+\emph on
+tabula
+\emph default
+ o 
+\emph on
+tablion
+\emph default
+; quando il mantello era piegato a metà nel senso longitudinale, i due 
+\emph on
+tabula
+\emph default
+ si disponevano sul bordo lungo, e quando era poi indossato terminavano
+ uno sul davanti e uno sul retro.
+ Esisteva anche una versione semi-ovale, in cui i 
+\emph on
+tabula
+\emph default
+ erano disposti lungo il bordo.
+\end_layout
+
+\begin_layout Standard
+Come alternativa al 
+\emph on
+chlamys
+\emph default
+, gli ufficiali romani potevano indossare il 
+\emph on
+paludamentum
+\emph default
+, un corto mantello fissato sulla spalla destra e retto col braccio sinistro,
+ di antica adozione.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
 Paenula
 \end_layout
 
@@ -2965,78 +3100,16 @@ clavi
 \begin_layout Subsection
 
 \emph on
-Chlamys
-\emph default
- e 
-\emph on
-paludamentum
+Alicula
 \end_layout
 
 \begin_layout Standard
-Invece del 
+Un altro tipo di mantello utile specialmente ai viaggiatori era l'
 \emph on
-sagum
+alicula
 \emph default
-, gli ufficiali romani indossavano il 
-\emph on
-chlamys
-\emph default
-, un mantello ovale che raggiungeva le ginocchia, e che presentava due decorazio
-ni rettangolari di colore diverso poste al centro dette 
-\emph on
-tabula
-\emph default
- o 
-\emph on
-tablion
-\emph default
-; quando il mantello era piegato a metà nel senso longitudinale, i due 
-\emph on
-tabula
-\emph default
- si disponevano sul bordo lungo, e quando era poi indossato terminavano
- uno sul davanti e uno sul retro.
- Esisteva anche una versione semi-ovale, in cui i 
-\emph on
-tabula
-\emph default
- erano disposti lungo il bordo.
-\end_layout
-
-\begin_layout Standard
-Come alternativa al 
-\emph on
-chlamys
-\emph default
-, gli ufficiali romani potevano indossare il 
-\emph on
-paludamentum
-\emph default
-, un corto mantello fissato sulla spalla destra e retto col braccio sinistro,
- di antica adozione.
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Mantion
-\end_layout
-
-\begin_layout Standard
-Nel 
-\emph on
-Chronicon Alexandrinum
-\emph default
- si cita l'uso di un mantello di nome 
-\emph on
-mantion
-\emph default
-, molto corto, indossato sulle spalle in modo che due falde si incrociassero
- sul petto con una 
-\emph on
-fibula
-\emph default
- rotonda.
+, un mantello corto che copriva le spalle; realizzato il lana o pelle, talvolta
+ era provvisto di cappuccio.
 \end_layout
 
 \begin_layout Section
@@ -3153,24 +3226,6 @@ Altri accessori
 \begin_layout Subsection
 
 \emph on
-Fascia ventralis
-\end_layout
-
-\begin_layout Standard
-Nell'alto impero è attestato l'uso di fasce di tessuto indossate sotto le
- cinture, per proteggere la tunica dalle parti più acuminate del 
-\emph on
-cingulum
-\emph default
- (come i rivetti per fissare i finimenti) e forse anche per dare maggiore
- stabilità al busto.
- In epoca tardoimperiale l'unica attestazione è data da un mosaico da Apamea,
- in cui alcuni cacciatori sembrano indossare una fascia ventrale sulla tunica.
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
 Sudarium 
 \emph default
 o 
@@ -3261,8 +3316,108 @@ emph{Visione di Doroteo}, v.
 
 \end_layout
 
+\begin_layout Subsection
+
+\emph on
+Fascia ventralis
+\end_layout
+
+\begin_layout Standard
+Nell'alto impero è attestato l'uso di fasce di tessuto indossate sotto le
+ cinture, per proteggere la tunica dalle parti più acuminate del 
+\emph on
+cingulum
+\emph default
+ (come i rivetti per fissare i finimenti) e forse anche per dare maggiore
+ stabilità al busto.
+ In epoca tardoimperiale l'unica attestazione è data da un mosaico da Apamea,
+ in cui alcuni cacciatori sembrano indossare una fascia ventrale sulla tunica.
+\end_layout
+
 \begin_layout Chapter
 Panoplia
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{L'equipaggiamento di un 
+\backslash
+emph{miles} romano del tardo impero è fortemente variabile in base a diversi
+ fattori}
+\end_layout
+
+\end_inset
+
+, tra i quali il periodo preciso (l'evoluzione dell'equipaggiamento fu continua)
+, la posizione geografica (diversi teatri di guerra avevano differenti necessità
+ militari, ma anche differenti influenze culturali), la tipologia dell'unità
+ a cui il 
+\emph on
+miles
+\emph default
+ apparteneva (l'equipaggiamento di un soldato di una legione di frontiera
+ era differente da quello di un 
+\emph on
+miles
+\emph default
+ appartenente alle unità di élite delle legioni palatine), l'esperienza
+ e la ricchezza del singolo soldato.
+ In generale, più il soldato era ricco, veterano, di grado elevato, o più
+ prestigiosa era l'unità in cui militava, più la sua panoplia era lussuosa
+ e appariscente, sia utilizzando materiali preziosi, sia rifacendosi a uno
+ stile ellenistico.
+\end_layout
+
+\begin_layout Standard
+Più che fornire una classificazione completa di tutti gli elementi possibili
+ per una panoplia tardoimperiale, questo capitolo ha l'obiettivo di presentare
+ una panoramica ad alto livello del possibile equipaggiamento romano del
+ 
+\noun on
+iv
+\noun default
+ secolo, cercando di distinguere tra ciò che poteva indossare il comune
+ 
+\emph on
+miles
+\emph default
+, ciò che era poteva caratterizzare un soldato veterano, e ciò che era pertinent
+e a un ufficiale.
+\end_layout
+
+\begin_layout Section
+Elmo
+\end_layout
+
+\begin_layout Standard
+Gli elmi romani del 
+\noun on
+iv
+\noun default
+ secolo sono solitamente distinti in due tipologie, che prendono il nome
+ dei reperti rappresentativi di ciascuna tipologia: da una parte ci sono
+ gli elmi di tipo Burgh Castle/Berkasovo, dall'altra quelli di tipo Intercisa/Au
+gst; quale che sia la loro tipologia, tutti questi elmi sono noti con il
+ nome di 
+\emph on
+Kammelhelm
+\emph default
+ o 
+\emph on
+Ridge Helmets
+\emph default
+, in quanto sono caratterizzati dall'avere una calotta divisa in due o più
+ parti, unite da una caratteristica cresta rivettata.
+\end_layout
+
+\begin_layout Standard
+Ma ci sono gli spangenhelm pure
 \end_layout
 
 \begin_layout Subsection
@@ -3520,6 +3675,154 @@ The Illerup-Whyl Type Blade is what dominates but handle typology changes
 \begin_layout Standard
 9.
  Shield - Round or Ovoid, preferably Dished.
+\end_layout
+
+\begin_layout Chapter
+Altro equipaggiamento
+\end_layout
+
+\begin_layout Section
+Tenda
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+http://comitatus.net/romanleathertent.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There is a surviving leather tent, deposited around AD 320 and discovered
+ by workmen digging peat in 1910.
+ The tent was part of an assemblage including the famous Deurne helmet of
+ which I am lucky enough to own a copy.
+ 
+\end_layout
+
+\begin_layout Standard
+The tent was a simple ridge tent without doors, consisting of 16 leather
+ panels, roughly 75cm by 52 cm.
+ It was made by sewing the panels together like gluing playing cards together
+ to make a large rectangular sheet.
+ One corner was re-enforced as if for a loop.
+ Overall the tent measured around 288cm by 208cm, which could just about
+ fit two men or one man more comfortably with his equipment.
+ The tent and other items had either been lost in the marsh or deposited
+ deliberately as some sort of votive offering.
+ 
+\end_layout
+
+\begin_layout Standard
+Goat skin is a great material for making carry bags, kit bags and a host
+ of other items.
+ So I laid in a supply of nearly thirty of them.
+ I grouped them into fours of roughly the same size.
+ I then cut out a template so all the panels would be the same width, although
+ the larger panels would be a greater length.
+ As long as four panels were the same length and sewn together edgewise
+ the tent could be built up using the “playing card system”, and this would
+ maximise the use of my goat skins.
+ 
+\end_layout
+
+\begin_layout Standard
+My panels were smaller than the originals found at Deurne and so I used
+ twenty skins to produce a very palatial tent.
+ 
+\end_layout
+
+\begin_layout Standard
+I used volume 2 of “The Carlisle Millennium Project, Excavations in Carlisle
+ 1998-2001”.
+ I regularly consult this volume to study Roman saddle covers, and it was
+ convenient to use it for information on stitch types and seams.
+ 
+\end_layout
+
+\begin_layout Standard
+Nine different seam types were identified from tents and I opted for a seam
+ type II, a simple tunnel stitch which was the most popular type throughout
+ the Roman occupation.
+ Out of the four possible hem types I likewise chose the most simple, just
+ a turned and sewn hem.
+ I re-enforced the four corners and the mid-points of all four sides so
+ loops could be added.
+ I also re-enforced the seams along the ridge where the tent pole was likely
+ to wear the stitching.
+ 
+\end_layout
+
+\begin_layout Standard
+The leather was easy to sew with a modern sewing needle, and an awl was
+ not needed.
+ I used waxed linen thread throughout and the stitching was a relatively
+ simple process.
+ 
+\end_layout
+
+\begin_layout Standard
+I suspended the tent over a frame of birch.
+ I really do not like to see tents suspended from javelins and spears, and
+ my uprights and cross piece were cut from the local wood.
+ They are roughly 5cm diameter, since the weight of the tent is far greater
+ than a simple material tent.
+ In its carrying basket, with six small pegs, it weighs a heavy 29kg.
+ Some have suggested that the tents Xenophon describes would not really
+ weigh much, and so getting rid of them to speed his march was relatively
+ pointless.
+ 
+\end_layout
+
+\begin_layout Standard
+But the weight of this tent suggests that leaving tentage would help lessen
+ the load of the pack animals considerably.
+ Donkeys were relatively cheap, perhaps predominating over mules by a ratio
+ of four to one.
+ Wooden framed pack saddles could have been used, but a simple twin pannier
+ technique was perhaps more common.
+ Overloaded animals were a common sight, but loads were relatively light
+ by modern standards, in the region of 80-90 kg.
+ On that basis a 29kg tent would make up over a third of the load on a donkey.
+ 
+\end_layout
+
+\begin_layout Standard
+On the tent’s first outing the temperature fell below freezing at night.
+ Olive oil in my tent froze and so did the neatsfoot oil on the tent.
+ This worried me but as it thawed out the next morning things returned to
+ normal.
+ 
+\end_layout
+
+\begin_layout Standard
+I put the tent together quickly in my spare time over about four weeks.
+ My stitches were done quickly and not always neatly.
+ Some tunnel stitches were pulled apart under strain when the tent was at
+ tension and these areas leaked a little rain water which thankfully ran
+ down the inside of the tent.
+ These areas were easily repaired although I suspect I may have to repair
+ other such areas in the future.
+ 
+\end_layout
+
+\begin_layout Standard
+People often suggest to me that sleeping in a simple ridge tent without
+ doors is cold and open to the elements, before they go off and sleep with
+ nothing but a paper thin plastic tent to keep them warm and dry.
+ With a shield in a goat skin cover covering one side, helped out buy the
+ tent’s carrying basket you are always sheltered from the wind and rain.
+ A fire in the other entrance makes the tent positively cheerful.
+ The leather does give the tent a feeling of great solidity, something perhaps
+ less permanent than a house but far more permanent than a canvas tent.
+ They are relatively easy to make, appropriate for the whole classical period
+ and not that much more expensive than a modern plastic tent.
 \end_layout
 
 \begin_layout Chapter*
