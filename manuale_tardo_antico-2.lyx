@@ -296,12 +296,22 @@ Abbigliamento
 
 \begin_layout Standard
 \noindent
-L'abbigliamento del soldato romano del 
-\noun on
-iv
-\noun default
- secolo non di discostava molto da quello di un civile di ricchezza simile,
- fatta eccezione per alcuni particolari.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{L'abbigliamento del soldato romano del 
+\backslash
+textsc{iv} secolo non di discostava molto da quello di un civile dello stesso
+ livello sociale}
+\end_layout
+
+\end_inset
+
+, fatta eccezione per alcuni particolari.
  Sebbene l'esercito provvedesse talvolta a fornire ai soldati alcuni indumenti,
  il cui costo era poi detratto dalla paga,
 \begin_inset Note Note
@@ -328,17 +338,20 @@ sidenote{Il clima arido dell'Egitto ha conservato alcuni documenti da cui
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace defskip
-\end_inset
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
 
 
+\backslash
+newthought{L'elemento di base era la 
+\backslash
+emph{tunica manicata}}
 \end_layout
 
-\begin_layout Standard
-L'elemento di base era la 
-\emph on
-tunica manicata
-\emph default
+\end_inset
+
 , ovvero una tunica dotata di maniche e lunga fino al ginocchio; in diversi
  colori con una preferenza per il bianco e il rosso, la 
 \emph on
@@ -418,31 +431,6 @@ sagum
 fibula
 \emph default
 .
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace defskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Un soldato vestito in questo modo non si discostava troppo dalla moda adottata
- dai civili; gli unici elementi caratteristici erano il 
-\emph on
-cingulum
-\emph default
- con finimenti metallici, il 
-\emph on
-pileus pannonicus
-\emph default
- e il 
-\emph on
-sagum
-\emph default
-.
- Oltre, ovviamente, a eventuali armi.
 \end_layout
 
 \begin_layout Section
@@ -566,7 +554,7 @@ tunica manicata
 \end_layout
 
 \begin_layout Standard
-Un altro tipo di tunica, utilizzata in particolare dai soldati, era la 
+Un altro tipo di tunica era la 
 \emph on
 camisia
 \emph default
@@ -591,8 +579,8 @@ emph{Ep.} lxiv, 11, 2)}
 
 \end_inset
 
- si trattava di una tunica di lino molto aderente sia alle braccia che al
- corpo, da indossare sotto gli altri indumenti.
+ si trattava di una tunica di lino non colorato, di taglio molto aderente
+ sia alle braccia sia al corpo, da indossare sotto gli altri indumenti.
 \end_layout
 
 \begin_layout Subsection
@@ -1074,13 +1062,24 @@ name "sec:Cingulum"
 \end_layout
 
 \begin_layout Standard
-La funzione del la cintura era quello di permettere di mantenere l'orlo
- inferiore della tunica al di sopra del ginocchio, in modo da migliorare
- la libertà di movimento; è possibile che i civili portassero la tunica
- sotto il ginocchio o addirittura, senza cintura, lunga alle caviglie, e
- dunque il portare la tunica sopra il ginocchio sarebbe stato un ulteriore
- segno di riconoscimento del militare, che aveva dunque necessariamente
- bisogno di una cintura.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{La cintura aveva lo scopo di mantenere l'orlo inferiore della
+ tunica al di sopra del ginocchio}
+\end_layout
+
+\end_inset
+
+, in modo da migliorare la libertà di movimento; è possibile che i civili
+ portassero la tunica sotto il ginocchio o addirittura, senza cintura, lunga
+ alle caviglie, e dunque il portare la tunica sopra il ginocchio sarebbe
+ stato un ulteriore segno di riconoscimento del militare, che aveva dunque
+ necessariamente bisogno di una cintura.
  Privare un soldato della propria cintura militare (
 \emph on
 cingulum militaris
@@ -1671,8 +1670,20 @@ name "subsec:Pantaloni"
 \end_layout
 
 \begin_layout Standard
-Quella dei pantaloni fu una moda tarda che i Romani presero dai Persiani,
- famosi per indossare quelli che presso i Greci erano noti come 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Quella dei pantaloni fu una moda tarda che i Romani presero dai
+ Persiani}
+\end_layout
+
+\end_inset
+
+, famosi per indossare quelli che presso i Greci erano noti come 
 \emph on
 anaxyrides
 \emph default
@@ -2205,17 +2216,24 @@ Calzature
 \end_layout
 
 \begin_layout Standard
-La scarpa militare romana per antonomasia, la 
-\emph on
-caliga
-\emph default
-, non sopravvisse al 
-\noun on
-ii
-\noun default
- secolo, forse perché adatta più alla penisola italiana che alle province
- settentrionali e orientali dell'Impero, o forse semplicemente perché cambiò
- la moda.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{La scarpa militare romana per antonomasia, la 
+\backslash
+emph{caliga}, non sopravvisse al 
+\backslash
+textsc{ii} secolo}
+\end_layout
+
+\end_inset
+
+, forse perché adatta più alla penisola italiana che alle province settentrional
+i e orientali dell'Impero, o forse semplicemente perché cambiò la moda.
  Nel 
 \noun on
 iii
@@ -2750,10 +2768,21 @@ tabulae
 \end_layout
 
 \begin_layout Standard
-Il mantello tradizionalmente associato con i soldati romani è il 
-\emph on
-sagum
-\emph default
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Il mantello tradizionalmente associato ai soldati romani è il
+ 
+\backslash
+emph{sagum}}
+\end_layout
+
+\end_inset
+
 , di forma rettangolare; l'identificazione di questo indumento era tale
  che l'indossare un 
 \emph on
@@ -2777,7 +2806,7 @@ In epoca tardoimperiale il
 \emph on
 sagum
 \emph default
- ha dimensioni approssimative di un metro per due.
+ ha dimensioni approssimative di un più di un metro per più di due metri.
  Reperti ritrovati ad Achmim-Panopolis in Egitto hanno lunghezze che vanno
  dai 1,98
 \begin_inset space ~
@@ -2804,7 +2833,7 @@ m; è possibile che i mantelli più grandi venissero piegati prima di essere
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2877,6 +2906,11 @@ m, con quattro decorazioni a forma di `Γ' in prossimità degli angoli, un
 v
 \noun default
  secolo, in particolare nelle raffigurazioni dei santi nelle chiese.
+ In generale i bordi del 
+\emph on
+sagum
+\emph default
+ erano decorati con delle frange.
 \end_layout
 
 \begin_layout Subsection
@@ -3019,8 +3053,97 @@ name "sec:Fibula"
 \end_layout
 
 \begin_layout Standard
-L'uso di fibule nell'abbigliamento maschile romano era per lo più limitato
- a fissare i mantelli sulla spalla destra.
+Sebbene vi fossero alcune tipologie di fibule utilizzate sia dagli uomini
+ sia dalle donne, una tipologia era esclusivamente maschile e dedicata alla
+ funzione di fissare il mantello sulla spalla destra, la fibula a balestra.
+ Essa prende il nome contemporaneo dalla sua peculiare forma, caratterizzata
+ da una barra orizzontale terminante con dei pomelli che ospita il perno
+ attorno al quale gira l'ago; sulla barra orizzontale si imposta un arco
+ che termina in un piede, all'interno del quale viene bloccato l'ago della
+ fibula stessa.
+\end_layout
+
+\begin_layout Standard
+La fibula a balestra andava indossata con l'arco rivolto verso il basso
+ e il piede della fibula, frequentemente molto decorato, indirizzato verso
+ l'alto.
+\end_layout
+
+\begin_layout Standard
+Si sono conservate numerosissime fibule a balestra, lavorate in diversi
+ materiali, dal bronzo, all'argento, all'argento niellato, all'oro; apparentemen
+te c'era una certa corrispondeza tra il valore del metallo e il rango del
+ possessore della fibula, come testimoniato anche dall'esistenza di alcune
+ fibule a balestra d'oro recanti il nome di alcuni imperatori, che erano
+ probabilmente donate dagli Augusti ai loro ufficiali più meritevoli (Figura
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Fibula-a-balestra"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Gioielli/Gold_crossbow_fibula_(brooch)_MET_DP107033.jpg
+	display false
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fibula a balestra in oro, con iscrizione dedicatoria all'Augusto Erculiano
+ (Metropolitan Museum of Art)
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Fibula-a-balestra"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sono state trovate fibule a balestra di varie dimensioni, e apparentemente
+ col tempo la tipologia si evolvette, con piedi sempre più lunghi e fibule
+ più grandi.
+ La decorazione tipica della prima metà del 
+\noun on
+iv
+\noun default
+ secolo prevede un piede a sezione trapezioidale, talvolta decorato con
+ dei riccioli a forma di `C' applicati su ciascun bordo esterno del piede,
+ due in prossimità dell'attacco con l'arco e due all'estremità opposta;
+ nella seconda metà del 
+\noun on
+iv
+\noun default
+ secolo il numero di riccioli cresce, e riempie tutto il bordo del piede.
 \end_layout
 
 \begin_layout Section
