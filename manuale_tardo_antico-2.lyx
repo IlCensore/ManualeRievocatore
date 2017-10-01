@@ -9,6 +9,9 @@
 \frenchspacing
 \usepackage{microtype}
 \usepackage{url}
+
+
+\setcounter{tocdepth}{3}
 \end_preamble
 \options usletter
 \use_default_options true
@@ -17,8 +20,8 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "Linux Libertine O"
-\font_sans "biolinum" "Linux Biolinum O"
+\font_roman "utopia" "EB Garamond"
+\font_sans "biolinum" "EauTest"
 \font_typewriter "libertine-mono" "Linux Libertine Mono O"
 \font_math "auto" "auto"
 \font_default_family default
@@ -28,10 +31,11 @@
 \font_sf_scale 100 100
 \font_tt_scale 100 100
 \graphics default
-\default_output_format default
+\default_output_format pdf5
 \output_sync 0
 \bibtex_command default
 \index_command default
+\float_placement th
 \paperfontsize default
 \spacing other 1.2
 \use_hyperref false
@@ -110,12 +114,16 @@ newthought{Quello del Tardo Impero è un periodo molto interessante della
  nell'immaginario comune, il periodo successivo al regno di Marco Aurelio
  è scarsamente conosciuto e ancor meno frequentato, tanto da essere spesso
  popolato da figure vestite secondo la moda alto imperiale, con soldati
- in lorica segmentata, scutum rettangolare ed elmo gallico.
+ in lorica segmentata, 
+\emph on
+scutum
+\emph default
+ rettangolare ed elmo gallico.
  Anche all'interno del mondo della rievocazione storica, i cui membri sono
- generalmente più istruiti riguardo la storia romana, vi è una proporzione
- altissima di persone che conoscono molto poco di questo periodo storico,
- che pure ha influenzato notevolmente i secoli successivi e quindi il mondo
- moderno.
+ generalmente più istruiti della media riguardo la storia romana, vi è una
+ proporzione altissima di persone che conoscono molto poco di questo periodo
+ storico, che pure ha influenzato notevolmente i secoli successivi e quindi
+ il mondo moderno.
 \end_layout
 
 \begin_layout Standard
@@ -975,6 +983,31 @@ Decorazioni
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Per le decorazioni degli orbicula, da Vicus Ultimus: 
+\end_layout
+
+\begin_layout Plain Layout
+https://www.facebook.com/LadyIncarna/
+\end_layout
+
+\begin_layout Plain Layout
+https://www.facebook.com/anna.warda.12
+\end_layout
+
+\begin_layout Plain Layout
+https://www.facebook.com/anna.chycko
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Sia i reperti archeologici sia l'iconografia mostrano come le tuniche fossero
  frequentemente ma non sempre decorate, una moda importata anche in questo
  caso dall'Oriente, e inizialmente osteggiata.
@@ -1196,7 +1229,7 @@ cingulum
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1396,40 +1429,11 @@ reference "mar:Fibbia-delfino"
 \end_layout
 
 \begin_layout Standard
-All'estremità opposta del 
-\emph on
-cingulum
-\emph default
- è collocato un puntale metallico, tipicamente a forma di anfora (Figura
- 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:fibbia-semplice"
-
-\end_inset
-
-, a destra; Figura 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:traforata2-Champdolent"
-
-\end_inset
-
-, a destra, riproduzione moderna, con decorazioni a cerchi concentrici)
- o di lancetta, che serve a dare peso a questa estremità e a farla pendere
- sul davanti quando il 
-\emph on
-cingulum
-\emph default
- viene indossato correttamente.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -1473,6 +1477,35 @@ name "fig:traforata2-Champdolent"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+All'estremità opposta del 
+\emph on
+cingulum
+\emph default
+ è collocato un puntale metallico, tipicamente a forma di anfora (Figura
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:fibbia-semplice"
+
+\end_inset
+
+, a destra; Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:traforata2-Champdolent"
+
+\end_inset
+
+, a destra, riproduzione moderna, con decorazioni a cerchi concentrici)
+ o di lancetta, che serve a dare peso a questa estremità e a farla pendere
+ sul davanti quando il 
+\emph on
+cingulum
+\emph default
+ viene indossato correttamente.
 \end_layout
 
 \begin_layout Standard
@@ -1525,50 +1558,6 @@ reference "mar:Cingulum-Piazza-Armerina"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Cinture/PLB-4058_1.jpg
-	display false
-	width 80col%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Esempio di fibbia in stile 
-\emph on
-chip-carved
-\emph default
-, con placca e contro-placca; si noti come la placca con la fibbia vada
- attaccata alla cintura e necessiti di un foro attraverso la cintura per
- far passare l'estremità stretta della cintura attraverso la fibbia.
-\begin_inset CommandInset label
-LatexCommand label
-name "mar:Fibbia-chip-carved"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\begin_inset Float marginfigure
-wide false
-sideways false
 status collapsed
 
 \begin_layout Plain Layout
@@ -1616,6 +1605,49 @@ Cingulum
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cinture/PLB-4058_1.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Esempio di fibbia in stile 
+\emph on
+chip-carved
+\emph default
+, con placca e contro-placca; si noti come la placca con la fibbia vada
+ attaccata alla cintura e necessiti di un foro attraverso la cintura per
+ far passare l'estremità stretta della cintura attraverso la fibbia.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Fibbia-chip-carved"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
 Come dice il nome stesso un 
 \emph on
 cingulum
@@ -1641,7 +1673,7 @@ chip-carved
  (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "mar:Cingulum-Piazza-Armerina"
+reference "mar:Fibbia-chip-carved"
 
 \end_inset
 
@@ -1674,7 +1706,7 @@ cingulum
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -1696,7 +1728,11 @@ Riproduzione moderna di
 \emph on
 cingulum
 \emph default
- alto con fibbia di tipo Oudenburg.
+ alto con fibbia di tipo Oudenburg in stile 
+\emph on
+chip-carved
+\emph default
+.
  I finimenti riconoscibili sono, da sinistra a destra, due anelli da cintura,
  controplacca, placca con fibbia, puntale, passante, controplacca.
  In questa ricostruzione la controplacca di sinistra copre il punto in cui
@@ -3521,6 +3557,7 @@ sideways false
 status collapsed
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename Elmi/Intercisas.jpg
 	display false
@@ -3581,9 +3618,10 @@ milites
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename Elmi/spangen.gif
 	display false
@@ -3749,6 +3787,23 @@ falera
 \end_layout
 
 \begin_layout Standard
+Nella seconda parte del 
+\noun on
+iv
+\noun default
+ secolo la spatha torna ad essere indossata tramite attaccandola alla cintura
+ alla vita, e il 
+\emph on
+balteus
+\emph default
+ di fatto diventa una parte del 
+\emph on
+cingulum
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -3814,21 +3869,330 @@ name "fig:Balteus-Piazzale Armerina"
 
 \end_layout
 
+\begin_layout Section
+Archi e balliste
+\end_layout
+
+\begin_layout Subsection
+Archi
+\end_layout
+
 \begin_layout Standard
-Nella seconda parte del 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Nel suo manuale sull'arte militare, Vegezio suggerisce di far
+ addestrare al tiro con l'arco da un quarto a un terzo delle reclute (
+\backslash
+emph{tirones})}
+\end_layout
+
+\end_inset
+
+, e nel farlo menziona l'uso di archi di legno; ciò suggerisce che archi
+ composti da un singolo pezzo di legno fossero utilizzati almeno in addestrament
+o.
+ A giudicare dai ritrovamenti, gli archi in legno dei Romani avevano una
+ potenza di circa 80/100 libbre al massimo.
+\end_layout
+
+\begin_layout Standard
+In combattimento era invece utilizzato l'arco composito, ottenuto prendendo
+ un nucleo di legno e incollandovi sopra con cura parti in tendine e in
+ corno, fino a produrre una forma ricurva; alle estremità dell'arco erano
+ attaccate delle 
+\begin_inset Quotes fld
+\end_inset
+
+orecchie
+\begin_inset Quotes frd
+\end_inset
+
+ protette da placche di osso, che fungevano da leve per la parte più flessibile
+ dell'arco, mentre l'impugnatura era resa rigida tramite altre placche in
+ osso, in modo da non farla flettere sotto sforzo.
+ Per impedire che l'umidità indebolisse la colla, rendendo l'arco inutilizzabile
+, esso era ricoperto di corteccia e laccato.
+ A parità di potenza, gli archi ricurvi sono più piccoli di quelli in legno,
+ in quanto i materiali utilizzati trasferiscono più potenza dall'arco alla
+ freccia.
+ Sempre stando a Vegezio, la gittata delle frecce romane era di 600 piedi,
+ circa 180
+\begin_inset space ~
+\end_inset
+
+m.
+\end_layout
+
+\begin_layout Standard
+Vi erano fondamentalmente due tipi di arco composito in uso presso i Romani,
+ l'arco di origine romana e quello di origine unna.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Archi/Roman Bow.jpg
+	display false
+	width 90text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Arco composito romano (ricostruzione moderna).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+L'arco composito romano era un arco da fanteria, simmetrico e lungo circa
+ 1,30–1,50
+\begin_inset space \thinspace{}
+\end_inset
+
+m, con quattro parti in osso, due per parte; fu importato probabilmente
+ dalla Siria o dalla Partia, oppure si tratta di una versione per la fanteria
+ dell'arco asimmetrico sarmatico.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Archi/Hunnic Bow.jpg
+	display false
+	width 90text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Arco composito unno (ricostruzione moderna).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tra la fine del 
 \noun on
 iv
 \noun default
- secolo la spatha torna ad essere indossata tramite attaccandola alla cintura
- alla vita, e il 
+ e il 
+\noun on
+v
+\noun default
+ secolo i Romani entrarono in contatto con l'arco unno, un arco composito
+ asimmetrico, con sette parti in osso, due per ciascun braccio e tre nell'impugn
+atura; era un arco molto potente, più di quello sarmatico e di quello romano,
+ e siccome era asimmetrico, poteva essere anche più grande, risultando in
+ una potenza e una gittata decisamente superiore a quella degli archi usati
+ dai nemici degli Unni.
+\end_layout
+
+\begin_layout Standard
+Le frecce romane potevano avere la punta a foglia o trilobata, allo scopo
+ di fare più danno possibile una volta penetrate nella carne, o avere la
+ punta piramidale, allo scopo di penetrare l'armatura.
+ All'estremità opposta c'erano delle piume di uccello fissate con budello
+ e pece, disposte in maniera parallela alla freccia, in una zona leggermente
+ rastremata della freccia, che terminava a 25
+\begin_inset space ~
+\end_inset
+
+mm dalla fine della stessa, per permettere all'arciere di bloccare la freccia
+ tra indice e medio, tirando la corda con tre dita (i Romani non utilizzavano
+ anelli per tirare).
+\end_layout
+
+\begin_layout Standard
+Non ci sono molte informazioni sulle faretre, dato che l'unica raffigurazione
+ di una faretra romana viene da un manoscritto, il 
 \emph on
-balteus
+Vergilius Vaticanus
 \emph default
- di fatto diventa una parte del 
+, in cui è raffigurato un tubo cilindrico di cuoio chiaro con delle strisce
+ rosse di rinforzo cucite orizzontalmente e una cinghia per portarla a tracolla.
+ Da ambito germanico deriva la faretra di Nydam, in legno scavato.
+\end_layout
+
+\begin_layout Subsection
+
 \emph on
-cingulum
+Arcuballista
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Sin a partire dal 
+\backslash
+textsc{ii} secolo i Romani utilizzavano un'arma da lancio nota come 
+\backslash
+emph{manuballista}}
+\end_layout
+
+\end_inset
+
+, una versione portatile della 
+\emph on
+ballista
 \emph default
-.
+; nel 
+\noun on
+iii
+\noun default
+ secolo introdussero una forma primitiva di balestra, nota come 
+\emph on
+arcuballista
+\emph default
+; pur non essendo un'arma particolarmente potente rispetto alla 
+\emph on
+manuballista
+\emph default
+, era semplice da usare e di facile manutenzione.
+\end_layout
+
+\begin_layout Standard
+L'
+\emph on
+arcuballista
+\emph default
+ è nominata da Vegezio,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Vegezio, 
+\backslash
+emph{de Re Militaris}, 2.15, 4.21.}
+\end_layout
+
+\end_inset
+
+ è probabilmente raffigurata in due rilievi, e ad essa si riconducono tre
+ ritrovamenti in Britannia databili al 
+\noun on
+v
+\noun default
+ e al 
+\noun on
+vi
+\noun default
+ secolo; questi ultimi erano decorati con inserti di osso inciso nelle parti
+ laterali del corpo dell'
+\emph on
+arcuballista
+\emph default
+, una scelta dettata da motivi estetici, ma forse anche strutturali.
+\end_layout
+
+\begin_layout Standard
+A giudicare dalle proporzioni dei rilievi in cui è raffigurata, l'
+\emph on
+arcuballista
+\emph default
+ aveva un arco lungo circa 150
+\begin_inset space ~
+\end_inset
+
+cm, con la corda in fibra naturale o in tendine; l'arco era fissato in testa
+ a un corpo lungo circa 90
+\begin_inset space ~
+\end_inset
+
+cm, con una scanalatura di circa 80
+\begin_inset space ~
+\end_inset
+
+cm in cui scorreva la freccia; all'estremità della scanalatura che era opposta
+ alla volata c'era una noce rotante in osso o ferro, attaccata a una barra
+ a forma di `
+\noun on
+z
+\noun default
+' che fungeva da grilletto; il grilletto impediva alla noce di ruotare sotto
+ la pressione della corda tesa, fintanto che la barra stessa non veniva
+ premuta liberando la noce, che ruotava rilasciando la corda; è possibile
+ che vi fosse una molla che riportava la noce in posizione di carica, dato
+ che questo genere di meccanismo era ben noto ai Romani, che lo usavano
+ nelle serrature; infine, una maniglia era fissata all'estremità del corpo
+ dell'
+\emph on
+arcuballista
+\emph default
+, in modo da permettere di impugnare l'arma.
+\end_layout
+
+\begin_layout Standard
+Per caricare l'
+\emph on
+arcuballista
+\emph default
+, la si poggia a terra dalla parte dell'arco, disponendolo in maniera perpendico
+lare al corpo, e si dispongono le gambe una da ciascun lato; con una mano
+ si preme sulla maniglia, tenendo l'
+\emph on
+arcuballista
+\emph default
+ ferma a terra, e con l'altra si tende la corda fino a bloccarla sulla noce,
+ a sua volta tenuta ferma dalla leva del grilletto.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4077,6 +4441,27 @@ Roman Military Dress
 isbn
 \noun default
  978-07542-4576-2.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Late Roman Equipment
+\emph default
+, <
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://legvi.tripod.com/valentiniani/late-roman-equipment.html}
+\end_layout
+
+\end_inset
+
+>
 \end_layout
 
 \end_body
