@@ -1201,7 +1201,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ../Cingulum IV secolo/fibbia_semplice.jpg
+	filename Cinture/fibbia_semplice.jpg
 	display false
 	width 100text%
 
@@ -1429,12 +1429,12 @@ cingulum
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ../Cingulum IV secolo/nr0129.jpg
+	filename Cinture/nr0129.jpg
 	display false
 	width 100text%
 
@@ -1525,7 +1525,7 @@ reference "mar:Cingulum-Piazza-Armerina"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1674,12 +1674,12 @@ cingulum
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename ../Cingulum IV secolo/oudenberg.jpg
+	filename Cinture/oudenberg.jpg
 	display false
 	width 90text%
 
@@ -3391,36 +3391,249 @@ miles
 e a un ufficiale.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Elmi/Deurne.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Elmo di tipologia Berkasovo, ritrovato a Deurne.
+ Si noti la cresta rivettata, che tiene insieme le quattro placche in cui
+ è suddivisa la calotta dell'elmo (esternamente sono visibili sei placche
+ di rivestimento); la fascia attaccata alla parte inferiore dell'elmo, che
+ si assottiglia sul davanti in corrispondenza del punto in cui si attacca
+ la protezione per il naso; le grandi paragnatidi e, parzialmente nascosto,
+ il paranuca.
+ L'elmo è riccamente decorato, anche attraverso l'uso di rivetti decorativi.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Elmo-Deurne"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Elmo
 \end_layout
 
+\begin_layout Subsection
+Tipologia
+\end_layout
+
 \begin_layout Standard
-Gli elmi romani del 
-\noun on
-iv
-\noun default
- secolo sono solitamente distinti in due tipologie, che prendono il nome
- dei reperti rappresentativi di ciascuna tipologia: da una parte ci sono
- gli elmi di tipo Burgh Castle/Berkasovo, dall'altra quelli di tipo Intercisa/Au
-gst; quale che sia la loro tipologia, tutti questi elmi sono noti con il
- nome di 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{Gli elmi romani del 
+\backslash
+textsc{iv} secolo sono solitamente distinti in due tipologie}
+\end_layout
+
+\end_inset
+
+, gli elmi di tipo 
 \emph on
-Kammelhelm
+kammelhelm
 \emph default
  o 
 \emph on
-Ridge Helmets
+ridge helmets
 \emph default
-, in quanto sono caratterizzati dall'avere una calotta divisa in due o più
- parti, unite da una caratteristica cresta rivettata.
+, e gli elmi di tipo 
+\emph on
+spangenhelm
+\emph default
+; i primi sono caratterizzati dall'avere la calotta divisa in due o quattro
+ parti, tenute insieme da una cresta metallica rivettata, mentre gli elmi
+ della seconda tipologia hanno la calotta formata da più spicchi tenuti
+ insieme da una intelaiatura.
+ All'interno della tipologia dei 
+\emph on
+ridge helmets
+\emph default
+ si distinguono due sotto-famiglie, che prendono il nome dai reperti rappresenta
+tivi di ciascuna: da una parte ci sono gli elmi di tipo Burgh Castle/Berkasovo
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Elmo-Deurne"
+
+\end_inset
+
+), in cui sotto la calotta divisa in quattro parti si trova una fascia cilindric
+a, sulla cui parte anteriore è attaccato il nasale; dall'altra parte ci
+ sono gli elmi di tipo Intercisa/Augst (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Elmi-Intercisa"
+
+\end_inset
+
+), in cui generalmente la calotta è divisa in sole due parti, e non è presente
+ né la fascia cilindrica né il nasale.
 \end_layout
 
 \begin_layout Standard
-Ma ci sono gli spangenhelm pure
+Tutti gli elmi avevano due paragnatidi, di dimensioni più piccole di quelle
+ degli elmi alto-imperiali; spesso paragnatidi ed elmo avevano due fori
+ laterali per facilitare le funzioni uditive, e in almeno un caso (l'elmo
+ di tipologia Berkasovo ritrovato a Coblenza) tale foro era protetto da
+ una placca traforata.
+ Nella parte posteriore dell'elmo era attaccato, tramite rivetti o cinghie,
+ un paranuca, anche questo più piccolo degli omologhi negli elmi alto-imperiali.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Elmi/Intercisas.jpg
+	display false
+	width 110text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Elmi di tipologia Intercisa.
+ 1 Augst; 2 Worms; 3–6 Intercisa
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Elmi-Intercisa"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
+Materiale
+\end_layout
+
+\begin_layout Standard
+Gli elmi erano prodotti in ferro o in bronzo; erano spesso argentati, per
+ evitare che si corrodessero, e talvolta il nucleo in ferro era ricoperto
+ con un rivestimento di oro.
+ Se gli elmi in ferro o in ferro argentato erano certamente alla portata
+ dei 
+\emph on
+milites
+\emph default
+ di ogni rango, gli elmi con rivestimento in bronzo o oro erano verosimilmente
+ utilizzati dai soldati più ricchi o appartenenti alle unità di élite; alcuni
+ elmi, come uno dei due ritrovati a Berkasovo in Serbia e uno ritrovato
+ a Budapest, erano decorati con pietre semi-preziose e gemme in pasta vitrea,
+ mentre altri avevano un rivestimento in oro, e sicuramente si trattava
+ di elmi appartenuti ad alti ufficiali.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Elmi/spangen.gif
+	display false
+	width 110text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Elmi di tipologia Berkasovo.
+ 1 Berkasovo 
+\noun on
+i
+\noun default
+, con cresta decorata e incrostazioni di pietre semi-preziose; 2 Berkasovo
+ 
+\noun on
+ii
+\noun default
+; 3 Deurne; 4 Budapest, con incrostazioni di pietre semi-preziose; 5 Concesti
+ (
+\noun on
+v
+\noun default
+ secolo); 6 Burgh Castle
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Elmi-Berkasovo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 
 \emph on
 Balteus
