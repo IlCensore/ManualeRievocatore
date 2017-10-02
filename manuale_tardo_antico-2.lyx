@@ -11,7 +11,7 @@
 \usepackage{url}
 
 
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{2}
 \end_preamble
 \options usletter
 \use_default_options true
@@ -22,7 +22,7 @@
 \fontencoding global
 \font_roman "utopia" "EB Garamond"
 \font_sans "biolinum" "EauTest"
-\font_typewriter "libertine-mono" "Linux Libertine Mono O"
+\font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -65,7 +65,7 @@
 \color #008000
 \end_index
 \secnumdepth 2
-\tocdepth 2
+\tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language french
@@ -1357,8 +1357,12 @@ Il
 \emph on
 cingulum 
 \emph default
-di tipologia stretta è alto fino a 5 cm, e a una estremità ha la fibbia
- metallica, che può essere semplice o traforata.
+di tipologia stretta è alto fino a 5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm, e a una estremità ha la fibbia metallica, che può essere semplice o
+ traforata.
  La fibbia semplice (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1374,9 +1378,20 @@ arco
 \begin_inset Quotes frd
 \end_inset
 
- a forma di `D'; sul tratto verticale della `D' è fissato l'ardiglione;
- la fibbia è completata da una placca che gira intorno al tratto verticale
- della `D' e si fissa tramite rivetti all'estremità alta del 
+ a forma di `
+\noun on
+d
+\noun default
+'; sul tratto verticale della `
+\noun on
+d
+\noun default
+' è fissato l'ardiglione; la fibbia è completata da una placca che gira
+ intorno al tratto verticale della `
+\noun on
+d
+\noun default
+' e si fissa tramite rivetti all'estremità alta del 
 \emph on
 cingulum
 \emph default
@@ -2848,13 +2863,14 @@ name "subsec:Sagum"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename Mantello/MantelloEFibula.jpg
 	display false
-	width 80col%
+	width 100col%
 
 \end_inset
 
@@ -2926,19 +2942,19 @@ sagum
  ha dimensioni approssimative di un più di un metro per più di due metri.
  Reperti ritrovati ad Achmim-Panopolis in Egitto hanno lunghezze che vanno
  dai 1,98
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m ai 2,44
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m, con larghezze da 1,02
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m a poco meno di 1,5
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m; è possibile che i mantelli più grandi venissero piegati prima di essere
@@ -2950,9 +2966,10 @@ m; è possibile che i mantelli più grandi venissero piegati prima di essere
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename Mantello/Luxor.jpg
 	display false
@@ -3010,11 +3027,11 @@ tabulae
 sagum
 \emph default
  di 2,7
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m per 1,4
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m, con quattro decorazioni a forma di `Γ' in prossimità degli angoli, un
@@ -3246,9 +3263,12 @@ Sono state trovate fibule a balestra di varie dimensioni, e apparentemente
 iv
 \noun default
  secolo prevede un piede a sezione trapezioidale, talvolta decorato con
- dei riccioli a forma di `C' applicati su ciascun bordo esterno del piede,
- due in prossimità dell'attacco con l'arco e due all'estremità opposta;
- nella seconda metà del 
+ dei riccioli a forma di `
+\noun on
+c'
+\noun default
+ applicati su ciascun bordo esterno del piede, due in prossimità dell'attacco
+ con l'arco e due all'estremità opposta; nella seconda metà del 
 \noun on
 iv
 \noun default
@@ -3428,10 +3448,243 @@ e a un ufficiale.
 \end_layout
 
 \begin_layout Standard
+Come linea guida di massima, si può affermare che nel 
+\noun on
+iv
+\noun default
+ secolo un 
+\emph on
+pedes
+\emph default
+ dei Limitanei avrebbe indossato sopra i propri abiti:
+\end_layout
+
+\begin_layout Enumerate
+un elmo 
+\emph on
+ridge
+\emph default
+, di tipo Intercisa o Berkasovo, in ferro, oppure uno 
+\emph on
+spangenhelm
+\emph default
+ in ferro, oppure un camaglio in maglia di ferro;
+\end_layout
+
+\begin_layout Enumerate
+un'
+\emph on
+hasta
+\emph default
+ o, in alternativa, più 
+\emph on
+spicula
+\emph default
+ e 
+\emph on
+verruta
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+uno scudo ovale o tondo, possibilimente a scodella;
+\end_layout
+
+\begin_layout Enumerate
+una lorica di maglia o di squame di ferro, idealmente lunga alle cosce e
+ al gomito;
+\end_layout
+
+\begin_layout Enumerate
+una 
+\emph on
+spatha
+\emph default
+ con una lama di tipo Illerup-Whyl e un elsa di tipo Köln (prima del 325)
+ o Nydam (dopo il 325);
+\end_layout
+
+\begin_layout Enumerate
+una bandoliera (prima metà del secolo) o un 
+\emph on
+cingulum
+\emph default
+ (seconda metà del secolo) a cui attaccare la 
+\emph on
+spatha
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+thoracomacus
+\emph default
+ (solo alcuni);
+\end_layout
+
+\begin_layout Enumerate
+schinieri in ferro
+\emph on
+.
+\end_layout
+
+\begin_layout Standard
+Un soldato di una 
+\emph on
+auxilia palatina
+\emph default
+ o di una 
+\emph on
+legio palatina
+\emph default
+ indossava invece una panoplia simile alla seguente:
+\end_layout
+
+\begin_layout Enumerate
+un elmo 
+\emph on
+ridge
+\emph default
+, di tipo Intercisa o Berkasovo, in ferro ricoperto di ottone, talvolta
+ argentato o dorato;
+\end_layout
+
+\begin_layout Enumerate
+un'
+\emph on
+hasta
+\emph default
+ o, in alternativa, più 
+\emph on
+spicula
+\emph default
+ e 
+\emph on
+verruta
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+uno scudo ovale o tondo, possibilimente a scodella;
+\end_layout
+
+\begin_layout Enumerate
+una lorica di maglia o di squame in bronzo, lunga alle cosce o corta con
+ pterugi;
+\end_layout
+
+\begin_layout Enumerate
+una 
+\emph on
+spatha
+\emph default
+ con una lama di tipo Illerup-Whyl e un elsa di tipo Köln (prima del 325)
+ o Nydam (dopo il 325);
+\end_layout
+
+\begin_layout Enumerate
+una bandoliera (prima metà del secolo) o un 
+\emph on
+cingulum
+\emph default
+ (seconda metà del secolo) a cui attaccare la 
+\emph on
+spatha
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+thoracomacus
+\emph default
+ con una fila di pterugi;
+\end_layout
+
+\begin_layout Enumerate
+schinieri in bronzo.
+\end_layout
+
+\begin_layout Standard
+Gli ufficiali di qualunque unità erano invece caratterizzati dalla ricchezza
+ delle loro panoplie, che da una parte impiegavano metalli preziosi, dall'altra
+ avevano particolari che richiamavano le mode militari greche ed ellenistiche.
+ Un ufficiale romano avrebbe allora avuto una panoplia simile alla seguente,
+ indossata sulle sue ricche vesti:
+\end_layout
+
+\begin_layout Enumerate
+un elmo 
+\emph on
+ridge
+\emph default
+, di tipo Intercisa o Berkasovo, placcato in oro;
+\end_layout
+
+\begin_layout Enumerate
+un'
+\emph on
+hasta
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+uno scudo ovale o tondo, possibilimente a scodella;
+\end_layout
+
+\begin_layout Enumerate
+una lorica di squame in bronzo, corta con più file di pterugi, oppure una
+ lorica muscolata in ferro o bronzo;
+\end_layout
+
+\begin_layout Enumerate
+una 
+\emph on
+spatha
+\emph default
+ con una lama di tipo Illerup-Whyl e un elsa di tipo Köln (prima del 325)
+ o Nydam (dopo il 325);
+\end_layout
+
+\begin_layout Enumerate
+una bandoliera (prima metà del secolo) o un 
+\emph on
+cingulum
+\emph default
+ (seconda metà del secolo) a cui attaccare la 
+\emph on
+spatha
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+thoracomacus
+\emph default
+ con più file di pterugi;
+\end_layout
+
+\begin_layout Enumerate
+schinieri in bronzo.
+\end_layout
+
+\begin_layout Section
+Elmo
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -3475,12 +3728,10 @@ name "mar:Elmo-Deurne"
 
 \end_layout
 
-\begin_layout Section
-Elmo
-\end_layout
-
 \begin_layout Subsection
-Tipologia
+
+\emph on
+Ridgehelm
 \end_layout
 
 \begin_layout Standard
@@ -3520,32 +3771,40 @@ ridge helmets
 \emph default
  si distinguono due sotto-famiglie, che prendono il nome dai reperti rappresenta
 tivi di ciascuna: da una parte ci sono gli elmi di tipo Burgh Castle/Berkasovo
- (Figura 
+ (Figure 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "mar:Elmo-Deurne"
 
 \end_inset
 
-), in cui sotto la calotta divisa in quattro parti si trova una fascia cilindric
-a, sulla cui parte anteriore è attaccato il nasale; dall'altra parte ci
- sono gli elmi di tipo Intercisa/Augst (Figura 
+ e 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Elmi-Berkasovo"
+
+\end_inset
+
+), la cui calotta interna in ferro è divisa in quattro parti, e sotto di
+ essa è attaccata una fascia cilindrica sulla cui parte anteriore è fissato
+ il nasale; all'altra famiglia appartengono gli elmi di tipo Intercisa/Augst
+ (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:Elmi-Intercisa"
 
 \end_inset
 
-), in cui generalmente la calotta è divisa in sole due parti, e non è presente
- né la fascia cilindrica né il nasale.
+), in cui la calotta è divisa in sole due parti, e non sono generalmente
+ presenti né la fascia cilindrica né il nasale.
 \end_layout
 
 \begin_layout Standard
-Tutti gli elmi avevano due paragnatidi, di dimensioni più piccole di quelle
- degli elmi alto-imperiali; spesso paragnatidi ed elmo avevano due fori
- laterali per facilitare le funzioni uditive, e in almeno un caso (l'elmo
- di tipologia Berkasovo ritrovato a Coblenza) tale foro era protetto da
- una placca traforata.
+Tutti gli elmi avevano due paragnatidi, fissate tramite cerniere o cinghie,
+ di dimensioni più piccole di quelle degli elmi alto-imperiali; spesso tra
+ paragnatidi ed elmo si trovavano due fori laterali per facilitare le funzioni
+ uditive, e in almeno un caso (l'elmo di tipologia Berkasovo ritrovato a
+ Coblenza) tale foro era protetto da una placca traforata.
  Nella parte posteriore dell'elmo era attaccato, tramite rivetti o cinghie,
  un paranuca, anche questo più piccolo degli omologhi negli elmi alto-imperiali.
 \end_layout
@@ -3554,14 +3813,14 @@ Tutti gli elmi avevano due paragnatidi, di dimensioni più piccole di quelle
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
 	filename Elmi/Intercisas.jpg
 	display false
-	width 110text%
+	width 100text%
 
 \end_inset
 
@@ -3572,8 +3831,30 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Elmi di tipologia Intercisa.
- 1 Augst; 2 Worms; 3–6 Intercisa
+Elmi di tipologia Intercisa: 1) Augst, con fori per cucire il bordo in pelle
+ e delle incisioni sulla crestina, forse per inserire una cresta; 2) Worms,
+ con una fascia di rinforzo nella parte posteriore; 3) Intercisa 
+\noun on
+i
+\noun default
+, con fori per cucire il bordo in pelle; 4) Intercisa 
+\noun on
+ii
+\noun default
+, con due occhi a rilievo nella parte anteriore della calotta; 5) Intercisa
+ 
+\noun on
+iii
+\noun default
+, con croci a rilievo sulla calotta; 6) Intecisa 
+\noun on
+iv
+\noun default
+, con fori per cucire il bordo in pelle, due occhi e una mezza luna a rilievo
+ sulla calotta, e una cresta in metallo.
+ Tutti gli elmi hanno fori per le orecchie praticati nelle paragnatidi e
+ un paranuca.
+ 
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:Elmi-Intercisa"
@@ -3591,6 +3872,67 @@ name "fig:Elmi-Intercisa"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Elmi/spangen.gif
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Elmi di tipologia Berkasovo: 1) Berkasovo 
+\noun on
+i
+\noun default
+, con cresta decorata e incrostazioni di pietre semi-preziose; 2) Berkasovo
+ 
+\noun on
+ii
+\noun default
+, con calotta decorata da rivetti; 3) Deurne, con calotta decorata da rivetti
+ e incisioni a forma di ancora; 4) Budapest, con incrostazioni di pietre
+ semi-preziose; 5) Concesti (
+\noun on
+v
+\noun default
+ secolo); 6) Burgh Castle, frammentario.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Elmi-Berkasovo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Spangenhelm
 \end_layout
 
 \begin_layout Subsection
@@ -3614,61 +3956,133 @@ milites
  di elmi appartenuti ad alti ufficiali.
 \end_layout
 
+\begin_layout Subsection
+Camaglio
+\end_layout
+
+\begin_layout Section
+Armatura
+\end_layout
+
+\begin_layout Subsection
+Lorica a squame
+\end_layout
+
+\begin_layout Subsection
+Lorica ad anelli
+\end_layout
+
+\begin_layout Subsection
+Lorica muscolata
+\end_layout
+
+\begin_layout Subsection
+Lorica manicata
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Thoracomacus
+\end_layout
+
+\begin_layout Subsection
+Schinieri
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Scutum
+\end_layout
+
 \begin_layout Standard
-\begin_inset Float figure
-wide false
-sideways false
-status collapsed
+\begin_inset ERT
+status open
 
 \begin_layout Plain Layout
-\align center
-\begin_inset Graphics
-	filename Elmi/spangen.gif
-	display false
-	width 110text%
-
-\end_inset
 
 
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Elmi di tipologia Berkasovo.
- 1 Berkasovo 
-\noun on
-i
-\noun default
-, con cresta decorata e incrostazioni di pietre semi-preziose; 2 Berkasovo
- 
-\noun on
-ii
-\noun default
-; 3 Deurne; 4 Budapest, con incrostazioni di pietre semi-preziose; 5 Concesti
- (
-\noun on
-v
-\noun default
- secolo); 6 Burgh Castle
-\begin_inset CommandInset label
-LatexCommand label
-name "fig:Elmi-Berkasovo"
-
-\end_inset
-
-
+\backslash
+newthought{Lo scudo tardoromano ha forma tonda od ovale}
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
+, ed è piatto o curvo; la maggior parte degli scudi del periodo misuravano
+ tra 1,07
+\begin_inset space \thinspace{}
 \end_inset
 
+m e 1,18
+\begin_inset space \thinspace{}
+\end_inset
 
+m di altezza e tra gli 0,92
+\begin_inset space \thinspace{}
+\end_inset
+
+m e gli 0,97
+\begin_inset space \thinspace{}
+\end_inset
+
+m di larghezza.
+ Era realizzato con tre strati di legno di circa 3
+\begin_inset space \thinspace{}
+\end_inset
+
+mm di spessore, incollati l'uno sull'altro con le fibre del legno incrociate
+ per migliorare la resistenza ai colpi.
+\end_layout
+
+\begin_layout Standard
+Lo 
+\emph on
+scutum
+\emph default
+ tardoimperiale aveva l'impugnatura centrale e orizzontale, come quello
+ altoimperiale; in questo periodo si diffusero le impugnature metalliche,
+ che si rivettavano allo scudo in legno.
+\end_layout
+
+\begin_layout Standard
+La parte anteriore era coperta di pelle o di lino, dipinto con un disegno
+ decorativo caratteristico dell'unità di appartenenza del proprietario;
+ la mano era protetta da un umbone metallico semisferico, mentre il bordo
+ dello scudo era rinforzato tramite del cuoio non conciato o della lamina
+ di metallo cuciti allo scudo stesso.
+\end_layout
+
+\begin_layout Section
+Armi inastate
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Hasta
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Spiculum
+\emph default
+ e 
+\emph on
+Verrutum
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Plumbatae
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Spatha
 \end_layout
 
 \begin_layout Section
@@ -3750,8 +4164,11 @@ iv
  secolo sono ancora diffuse le bandoliere larghe, anche se si riduce notevolment
 e il numero di decorazioni metalliche ritrovate; ciò è probabilmente da
  ricondurre alla diffusione graduale delle bandoliere strette, che avevano
- soltanto una fibbia, o semplice (tipicamente a forma di `D') o in stile
- coordinato con il 
+ soltanto una fibbia, o semplice (tipicamente a forma di `
+\noun on
+d
+\noun default
+') o in stile coordinato con il 
 \emph on
 cingulum
 \emph default
@@ -3807,7 +4224,7 @@ cingulum
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -3922,7 +4339,7 @@ orecchie
  freccia.
  Sempre stando a Vegezio, la gittata delle frecce romane era di 600 piedi,
  circa 180
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m.
@@ -4038,7 +4455,7 @@ Le frecce romane potevano avere la punta a foglia o trilobata, allo scopo
  All'estremità opposta c'erano delle piume di uccello fissate con budello
  e pece, disposte in maniera parallela alla freccia, in una zona leggermente
  rastremata della freccia, che terminava a 25
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 mm dalla fine della stessa, per permettere all'arciere di bloccare la freccia
@@ -4058,9 +4475,11 @@ Vergilius Vaticanus
 \end_layout
 
 \begin_layout Subsection
-
+L'
 \emph on
-Arcuballista
+arcuballista
+\emph default
+, la balestra romana
 \end_layout
 
 \begin_layout Standard
@@ -4119,8 +4538,14 @@ emph{de Re Militaris}, 2.15, 4.21.}
 
 \end_inset
 
- è probabilmente raffigurata in due rilievi, e ad essa si riconducono tre
- ritrovamenti in Britannia databili al 
+ è probabilmente raffigurata in due rilievi (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Rilievo-arcuballista"
+
+\end_inset
+
+), e ad essa si riconducono tre ritrovamenti in Britannia databili al 
 \noun on
 v
 \noun default
@@ -4137,21 +4562,71 @@ arcuballista
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Archi/Arcuballista and Quiver.jpg
+	display false
+	width 90col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Rilievo raffigurante un'
+\emph on
+arcuballista
+\emph default
+ e la relativa faretra.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Rilievo-arcuballista"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 A giudicare dalle proporzioni dei rilievi in cui è raffigurata, l'
 \emph on
 arcuballista
 \emph default
  aveva un arco lungo circa 150
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm, con la corda in fibra naturale o in tendine; l'arco era fissato in testa
  a un corpo lungo circa 90
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm, con una scanalatura di circa 80
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm in cui scorreva la freccia; all'estremità della scanalatura che era opposta
@@ -4189,69 +4664,66 @@ arcuballista
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage newpage
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Archi/Arcuballista-007.jpg
+	display false
+	width 90col%
+
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-Generally speaking a Limitanei infantryman of the 4th century AD would have:
-\end_layout
+\begin_layout Plain Layout
+\begin_inset Caption Standard
 
-\begin_layout Standard
-1.
- Ridge helmet, Intercisa- or Berkasovo- Type.
- 
-\end_layout
-
-\begin_layout Standard
-2.
- Maille or Scale Hauberk 
-\end_layout
-
-\begin_layout Standard
-3.
- Spear 
-\end_layout
-
-\begin_layout Standard
-4.
- Sword - this depends on the part of the 4th century you want.
- 
+\begin_layout Plain Layout
+Ricostruzione di un'
 \emph on
-The Illerup-Whyl Type Blade is what dominates but handle typology changes
- from that of the Koln-Type to the Nydam-Types around 325 AD.
- 
+arcuballista
+\emph default
+; si noti la leva che funge da grilletto e la noce che serve a bloccare
+ e poi rilasciare il dardo.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Ricostruzione-arcuballista"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-5.
- Baldric/Swordbelt/Belt - Fittings depend on what part of the 4th century
- specifically.
- Early, Mid, and Late 4th Century fittings have noticeable differences.
- 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-6.
- Trousers - Footed, tight fitting 
+\begin_layout Plain Layout
+
 \end_layout
 
-\begin_layout Standard
-7.
- Tunica Manicata 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-8.
- Ramshaw-Type Calcei are best but Campagi or Cothurni are also fine.
- 
+\begin_layout Section
+Altre armi
 \end_layout
 
-\begin_layout Standard
-9.
- Shield - Round or Ovoid, preferably Dished.
+\begin_layout Subsection
+Ascia
+\end_layout
+
+\begin_layout Subsection
+Coltello militare
 \end_layout
 
 \begin_layout Chapter
@@ -4285,12 +4757,28 @@ There is a surviving leather tent, deposited around AD 320 and discovered
 
 \begin_layout Standard
 The tent was a simple ridge tent without doors, consisting of 16 leather
- panels, roughly 75cm by 52 cm.
+ panels, roughly 75
+\begin_inset space \thinspace{}
+\end_inset
+
+cm by 52
+\begin_inset space \thinspace{}
+\end_inset
+
+cm.
  It was made by sewing the panels together like gluing playing cards together
  to make a large rectangular sheet.
  One corner was re-enforced as if for a loop.
- Overall the tent measured around 288cm by 208cm, which could just about
- fit two men or one man more comfortably with his equipment.
+ Overall the tent measured around 288
+\begin_inset space \thinspace{}
+\end_inset
+
+cm by 208
+\begin_inset space \thinspace{}
+\end_inset
+
+cm, which could just about fit two men or one man more comfortably with
+ his equipment.
  The tent and other items had either been lost in the marsh or deposited
  deliberately as some sort of votive offering.
  
@@ -4348,9 +4836,17 @@ The leather was easy to sew with a modern sewing needle, and an awl was
 I suspended the tent over a frame of birch.
  I really do not like to see tents suspended from javelins and spears, and
  my uprights and cross piece were cut from the local wood.
- They are roughly 5cm diameter, since the weight of the tent is far greater
- than a simple material tent.
- In its carrying basket, with six small pegs, it weighs a heavy 29kg.
+ They are roughly 5
+\begin_inset space \thinspace{}
+\end_inset
+
+cm diameter, since the weight of the tent is far greater than a simple material
+ tent.
+ In its carrying basket, with six small pegs, it weighs a heavy 29
+\begin_inset space \thinspace{}
+\end_inset
+
+kg.
  Some have suggested that the tents Xenophon describes would not really
  weigh much, and so getting rid of them to speed his march was relatively
  pointless.
@@ -4365,8 +4861,16 @@ But the weight of this tent suggests that leaving tentage would help lessen
  Wooden framed pack saddles could have been used, but a simple twin pannier
  technique was perhaps more common.
  Overloaded animals were a common sight, but loads were relatively light
- by modern standards, in the region of 80-90 kg.
- On that basis a 29kg tent would make up over a third of the load on a donkey.
+ by modern standards, in the region of 80–90
+\begin_inset space \thinspace{}
+\end_inset
+
+kg.
+ On that basis a 29
+\begin_inset space \thinspace{}
+\end_inset
+
+kg tent would make up over a third of the load on a donkey.
  
 \end_layout
 
@@ -4441,6 +4945,23 @@ Roman Military Dress
 isbn
 \noun default
  978-07542-4576-2.
+\end_layout
+
+\begin_layout Standard
+Robert Vermaat, «How to Mate a Late Roman Shield», <
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://www.fectio.org.uk/articles/makescutum.htm}
+\end_layout
+
+\end_inset
+
+>
 \end_layout
 
 \begin_layout Standard
