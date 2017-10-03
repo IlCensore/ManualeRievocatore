@@ -12,6 +12,10 @@
 
 
 \setcounter{tocdepth}{2}
+
+%% distanza tra elementi di una lista
+\usepackage{enumitem}
+\setenumerate{noitemsep}
 \end_preamble
 \options usletter
 \use_default_options true
@@ -2758,6 +2762,10 @@ name "fig:Esempi-di-carbatinae."
 \end_layout
 
 \begin_layout Section
+Berretti
+\end_layout
+
+\begin_layout Subsection
 
 \emph on
 Pileus pannonicus
@@ -2840,6 +2848,14 @@ pileus
 \begin_layout Standard
 È anche verosimile che i soldati indossassero ancora il berretto frigio,
  come attestato da alcuni mosaici.
+\end_layout
+
+\begin_layout Subsection
+Berretto frigio
+\end_layout
+
+\begin_layout Standard
+TODO
 \end_layout
 
 \begin_layout Section
@@ -3166,6 +3182,10 @@ alicula
 \end_layout
 
 \begin_layout Section
+Gioielli
+\end_layout
+
+\begin_layout Subsection
 
 \emph on
 Fibula
@@ -3273,6 +3293,16 @@ c'
 iv
 \noun default
  secolo il numero di riccioli cresce, e riempie tutto il bordo del piede.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Torc
+\end_layout
+
+\begin_layout Standard
+TODO
 \end_layout
 
 \begin_layout Section
@@ -3932,7 +3962,52 @@ name "fig:Elmi-Berkasovo"
 \end_layout
 
 \begin_layout Subsection
+
+\emph on
 Spangenhelm
+\end_layout
+
+\begin_layout Standard
+Una terza tipologia di elmi potrebbe essere stata in uso durante il 
+\noun on
+iv
+\noun default
+ secolo, sebbene il suo uso sia largamente attestato solo dal 
+\noun on
+vi
+\noun default
+ secolo in poi: si tratta degli 
+\emph on
+spangenhelm
+\emph default
+, elmi la cui calotta è formata da sei o otto spicchi di metallo tenuti
+ insieme tramite degli elementi a `
+\noun on
+t
+\noun default
+' a cui sono attaccati.
+ Questa tipologia di elmi è estremamente diffusa in ambito germanico a partire
+ dalla fine del 
+\noun on
+v
+\noun default
+ secolo, ma esiste un singolo esemplare, di fattura leggermente differente,
+ ritrovato in Egitto e databile tra il 
+\noun on
+iii
+\noun default
+ e il 
+\noun on
+vi
+\noun default
+ secolo; il ritrovamento di questo elmo, in aggiunta alla raffigurazione
+ diffusa di elmi conici sui rilievi (l'Arco di Galerio raffigura i legionari
+ del tetrarca con in testa un elmo molto simile a uno 
+\emph on
+spangenhelm
+\emph default
+) infonde forza all'ipotesi che questi fossero diffusi tra i soldati romani,
+ anche se probabilmente ciò era vero principalmente per le truppe orientali.
 \end_layout
 
 \begin_layout Subsection
@@ -3954,6 +4029,51 @@ milites
  a Budapest, erano decorati con pietre semi-preziose e gemme in pasta vitrea,
  mentre altri avevano un rivestimento in oro, e sicuramente si trattava
  di elmi appartenuti ad alti ufficiali.
+\end_layout
+
+\begin_layout Subsection
+Cresta
+\end_layout
+
+\begin_layout Standard
+Ci sono diverse attestazioni per l'uso di creste sugli elmi tardoimperiali:
+ alcune monete raffigurano elmi molto deformati che però hanno chiaramente
+ una qualche forma di cresta; Ammiano Marcellino parla esplicitamente di
+ 
+\emph on
+cristae
+\emph default
+; raffigurazioni su mosaici e miniature del 
+\noun on
+v
+\noun default
+ secolo mostrano elmi con creste in crine o più probabilmente piume, o rosse
+ o a due colori.
+ Degli elmi ritrovati, il solo esemplare di Augst sembra essere predisposto
+ per l'uso di una cresta, probabilmente in materiale deperibile, che doveva
+ essere fissata attraverso i tagli aperti longitudinalmente nella crestina
+ metallica che tiene insieme le due semicalotte; un altro elmo, noto come
+ Intercisa 
+\noun on
+iv
+\noun default
+, ha invece una cresta integrale metallica, mentre l'elmo noto come Berkasovo
+ 
+\noun on
+i
+\noun default
+ ha una seconda cresta metallica, sostenuta da rivetti decorativi, che forma
+ una sorta di ponte sopra la crestina che tiene insieme le due semicalotte.
+\end_layout
+
+\begin_layout Standard
+È quindi verosimile affermare che gli elmi avessero delle creste, specialmente
+ nel caso degli ufficiali, ma non nel caso di tutti i 
+\emph on
+pedites
+\emph default
+; nei casi in cui non fossero integrali all'elmo, esse erano probabilmente
+ aggiunte tramite dei supporti in legno fissati all'elmo stesso.
 \end_layout
 
 \begin_layout Subsection
@@ -4173,7 +4293,10 @@ L'uso di schinieri (
 \emph on
 ocreae
 \emph default
-) in epoca tardoimperiale è attestato nell'iconografia e da alcuni ritrovamenti archeologici, che sembrano alquanto in accordo tra di loro. In particolare, il modello più diffuso sembra essere quello esemplificato dallo schiniere ritrovato a Künzing/Straubing.
+) in epoca tardoimperiale è attestato nell'iconografia e da alcuni ritrovamenti
+ archeologici, che sembrano alquanto in accordo tra di loro.
+ In particolare, il modello più diffuso sembra essere quello esemplificato
+ dallo schiniere ritrovato a Künzing/Straubing.
 \end_layout
 
 \begin_layout Section
@@ -4250,6 +4373,10 @@ Armi inastate
 Hasta
 \end_layout
 
+\begin_layout Standard
+TODO
+\end_layout
+
 \begin_layout Subsection
 
 \emph on
@@ -4260,16 +4387,28 @@ Spiculum
 Verrutum
 \end_layout
 
+\begin_layout Standard
+TODO
+\end_layout
+
 \begin_layout Subsection
 
 \emph on
 Plumbatae
 \end_layout
 
+\begin_layout Standard
+TODO
+\end_layout
+
 \begin_layout Section
 
 \emph on
 Spatha
+\end_layout
+
+\begin_layout Standard
+TODO
 \end_layout
 
 \begin_layout Section
@@ -4752,7 +4891,7 @@ arcuballista
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -4909,8 +5048,16 @@ Altre armi
 Ascia
 \end_layout
 
+\begin_layout Standard
+TODO
+\end_layout
+
 \begin_layout Subsection
 Coltello militare
+\end_layout
+
+\begin_layout Standard
+TODO
 \end_layout
 
 \begin_layout Chapter
@@ -4935,6 +5082,8 @@ http://comitatus.net/romanleathertent.html
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 There is a surviving leather tent, deposited around AD 320 and discovered
  by workmen digging peat in 1910.
  The tent was part of an assemblage including the famous Deurne helmet of
@@ -4943,6 +5092,8 @@ There is a surviving leather tent, deposited around AD 320 and discovered
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 The tent was a simple ridge tent without doors, consisting of 16 leather
  panels, roughly 75
 \begin_inset space \thinspace{}
@@ -4972,6 +5123,8 @@ cm, which could just about fit two men or one man more comfortably with
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Goat skin is a great material for making carry bags, kit bags and a host
  of other items.
  So I laid in a supply of nearly thirty of them.
@@ -4985,12 +5138,16 @@ Goat skin is a great material for making carry bags, kit bags and a host
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 My panels were smaller than the originals found at Deurne and so I used
  twenty skins to produce a very palatial tent.
  
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I used volume 2 of “The Carlisle Millennium Project, Excavations in Carlisle
  1998-2001”.
  I regularly consult this volume to study Roman saddle covers, and it was
@@ -4999,6 +5156,8 @@ I used volume 2 of “The Carlisle Millennium Project, Excavations in Carlisle
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 Nine different seam types were identified from tents and I opted for a seam
  type II, a simple tunnel stitch which was the most popular type throughout
  the Roman occupation.
@@ -5012,6 +5171,8 @@ Nine different seam types were identified from tents and I opted for a seam
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 The leather was easy to sew with a modern sewing needle, and an awl was
  not needed.
  I used waxed linen thread throughout and the stitching was a relatively
@@ -5020,6 +5181,8 @@ The leather was easy to sew with a modern sewing needle, and an awl was
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I suspended the tent over a frame of birch.
  I really do not like to see tents suspended from javelins and spears, and
  my uprights and cross piece were cut from the local wood.
@@ -5041,6 +5204,8 @@ kg.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 But the weight of this tent suggests that leaving tentage would help lessen
  the load of the pack animals considerably.
  Donkeys were relatively cheap, perhaps predominating over mules by a ratio
@@ -5062,6 +5227,8 @@ kg tent would make up over a third of the load on a donkey.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 On the tent’s first outing the temperature fell below freezing at night.
  Olive oil in my tent froze and so did the neatsfoot oil on the tent.
  This worried me but as it thawed out the next morning things returned to
@@ -5070,6 +5237,8 @@ On the tent’s first outing the temperature fell below freezing at night.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 I put the tent together quickly in my spare time over about four weeks.
  My stitches were done quickly and not always neatly.
  Some tunnel stitches were pulled apart under strain when the tent was at
@@ -5081,6 +5250,8 @@ I put the tent together quickly in my spare time over about four weeks.
 \end_layout
 
 \begin_layout Standard
+
+\emph on
 People often suggest to me that sleeping in a simple ridge tent without
  doors is cold and open to the elements, before they go off and sleep with
  nothing but a paper thin plastic tent to keep them warm and dry.
