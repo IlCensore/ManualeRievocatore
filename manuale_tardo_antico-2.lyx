@@ -25,7 +25,7 @@
 \inputencoding auto
 \fontencoding global
 \font_roman "utopia" "EB Garamond"
-\font_sans "biolinum" "EauTest"
+\font_sans "biolinum" "Linux Biolinum O"
 \font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -2845,17 +2845,18 @@ pileus
  fatto col vello di pecora.
 \end_layout
 
-\begin_layout Standard
-È anche verosimile che i soldati indossassero ancora il berretto frigio,
- come attestato da alcuni mosaici.
-\end_layout
-
 \begin_layout Subsection
 Berretto frigio
 \end_layout
 
 \begin_layout Standard
-TODO
+Il berretto frigio era un berretto di origine orientale, originario della
+ Frigia, che entrò nell'uso romano attraverso l'influenza greca.
+ Rimase comunque un indumento tipico delle popolazioni orientali, e come
+ tale indossato verosimilmente solo da soldati di origine orientale o stanziati
+ in Oriente; Mitra, divinità orientale il cui culto era molto diffuso tra
+ i soldati, indossava il berretto frigio, e dunque è possibile che ad indossarlo
+ fossero anche i suoi fedeli.
 \end_layout
 
 \begin_layout Section
@@ -3186,9 +3187,9 @@ Gioielli
 \end_layout
 
 \begin_layout Subsection
-
+Fibula a balestra
 \emph on
-Fibula
+
 \begin_inset CommandInset label
 LatexCommand label
 name "sec:Fibula"
@@ -3293,6 +3294,14 @@ c'
 iv
 \noun default
  secolo il numero di riccioli cresce, e riempie tutto il bordo del piede.
+\end_layout
+
+\begin_layout Subsection
+Altre fibule
+\end_layout
+
+\begin_layout Standard
+TODO
 \end_layout
 
 \begin_layout Subsection
@@ -3968,31 +3977,25 @@ Spangenhelm
 \end_layout
 
 \begin_layout Standard
-Una terza tipologia di elmi potrebbe essere stata in uso durante il 
-\noun on
-iv
-\noun default
- secolo, sebbene il suo uso sia largamente attestato solo dal 
-\noun on
-vi
-\noun default
- secolo in poi: si tratta degli 
+Gli elmi di tipologia 
 \emph on
 spangenhelm
 \emph default
-, elmi la cui calotta è formata da sei o otto spicchi di metallo tenuti
+ hanno una calotta formata da quattro, sei o otto spicchi di metallo tenuti
  insieme tramite degli elementi a `
 \noun on
 t
 \noun default
-' a cui sono attaccati.
+' invertita a cui sono attaccati; all'elmo sono fissate delle paragnatidi,
+ ma spesso non un paranuca, talvolta sostituito da una maglia di ferro.
  Questa tipologia di elmi è estremamente diffusa in ambito germanico a partire
  dalla fine del 
 \noun on
 v
 \noun default
- secolo, ma esiste un singolo esemplare, di fattura leggermente differente,
- ritrovato in Egitto e databile tra il 
+ secolo, ma esistono due esemplari di fattura leggermente differente, uno
+ a quattro spicchi e uno a sei spicchi, ritrovati in Egitto e databili tra
+ il 
 \noun on
 iii
 \noun default
@@ -4000,9 +4003,10 @@ iii
 \noun on
 vi
 \noun default
- secolo; il ritrovamento di questo elmo, in aggiunta alla raffigurazione
- diffusa di elmi conici sui rilievi (l'Arco di Galerio raffigura i legionari
- del tetrarca con in testa un elmo molto simile a uno 
+ secolo (elmo di Dir el-Medina ed elmo di Leida); l'esistenza di questi
+ elmi, in aggiunta alla raffigurazione diffusa di elmi conici sui rilievi
+ (l'Arco di Galerio raffigura i legionari del tetrarca con in testa un elmo
+ molto simile a uno 
 \emph on
 spangenhelm
 \emph default
@@ -4284,6 +4288,38 @@ pedites
 Thoracomacus
 \end_layout
 
+\begin_layout Standard
+Alcune fonti tardoantiche ci rendono testimonianza dell'uso di giubbetti
+ imbottiti per attutire i colpi ricevuti: in particolare è descritto il
+ 
+\emph on
+thoracomacus
+\emph default
+, un giubbetto imbottito di lana, con un rivestimento in pelle per tenere
+ lontana la pioggia, da indossare sotto l'armatura.
+\end_layout
+
+\begin_layout Standard
+Non esistono reperti di un 
+\emph on
+thoracomacus
+\emph default
+ né si tratta di un indumento facilmente identificabile nell'iconografia,
+ a causa del fatto che erano indossati sotto l'armatura; verosimilmente
+ erano di lunghezza differente, in quanto dovevano adattarsi all'armatura
+ indossata, dunque erano corti come un corpetto (e magari dotati di una
+ o più file di pterugi) se indossati sotto un'
+\emph on
+hamata
+\emph default
+ o una 
+\emph on
+squamata
+\emph default
+ corte alla vita, mentre dovevano essere probabilmente lunghi al gomito
+ o al polso e alla coscia quando indossati sotto armature più lunghe.
+\end_layout
+
 \begin_layout Subsection
 Schinieri
 \end_layout
@@ -4293,10 +4329,12 @@ L'uso di schinieri (
 \emph on
 ocreae
 \emph default
-) in epoca tardoimperiale è attestato nell'iconografia e da alcuni ritrovamenti
- archeologici, che sembrano alquanto in accordo tra di loro.
+) in epoca tardoimperiale è attestato in letteratura, nell'iconografia e
+ da alcuni ritrovamenti archeologici, che sembrano alquanto in accordo tra
+ di loro.
  In particolare, il modello più diffuso sembra essere quello esemplificato
- dallo schiniere ritrovato a Künzing/Straubing.
+ dallo schiniere ritrovato a Künzing/Straubing, la cui forma è conservata
+ anche da quella che sembra essere un'imbottitura per schiniere.
 \end_layout
 
 \begin_layout Section
