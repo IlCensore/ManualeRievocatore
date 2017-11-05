@@ -113,7 +113,7 @@ newthought{Quello del Tardo Impero è un periodo molto interessante della
 
 \end_inset
 
-, ma spesso sottovalutato, in particolare dal grande pubblico.
+, ma spesso sottovalutato, specialmente dal grande pubblico.
  Nei film, nei romanzi, nelle trasmissioni televisive, e più in generale
  nell'immaginario comune, il periodo successivo al regno di Marco Aurelio
  è scarsamente conosciuto e ancor meno frequentato, tanto da essere spesso
@@ -149,14 +149,7 @@ newthought{Con questa pubblicazione si vuole contribuire a diffondere la
  a coloro che sono interessati alla rievocazione storica.
  Questo manuale di rievocazione vuole infatti invogliare i rievocatori esperti
  o gli aspiranti tali a mettersi letteralmente nei panni dei sudditi dell'impera
-tore Costantino, e in particolare in quelli dei suoi soldati, e in questo
- modo a studiare le differenze e le somiglianze tra questo periodo e quelli
- precedenti, in modo da presentare al pubblico un del Tardo Impero, e del
- periodo costantiniano in particolare, rivolgendosi espressamente a coloro
- che sono interessati alla rievocazione storica.
- Questo manuale di rievocazione vuole infatti invogliare i rievocatori esperti
- o gli aspiranti tali a mettersi letteralmente nei panni dei sudditi dell'impera
-tore Costantino, e in particolare in quelli dei suoi soldati, e in questo
+tore Costantino, e segnatamente in quelli dei suoi soldati, e in questo
  modo a studiare le differenze e le somiglianze tra questo periodo e quelli
  precedenti, in modo da presentare al pubblico un'immagine più veritiera
  di questa epoca rivoluzionaria e decisiva.
@@ -4114,17 +4107,89 @@ Camaglio
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Elmi/camaglioVirgilioVaticano.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Soldati troiani vestiti alla romana, miniatura del 
+\emph on
+Vergilius Vaticanus
+\emph default
+, manoscritto del 
+\noun on
+v
+\noun default
+ secolo; si notino le loriche 
+\emph on
+hamatae
+\emph default
+ dei soldati, lunghe fino ai polsi e al ginocchio, e il camaglio in maglia.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Vergiulius-Vaticanus"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 L'iconografia attesta l'uso da parte dei soldati romani del Tardo Impero
  di una sorta di camaglio, ovvero un cappuccio di maglia di ferro che proteggeva
  anche le spalle; tale protezione è attestata nel 
 \noun on
 iii
 \noun default
- secolo e poi di nuovo nel 
+ secolo (affreschi della sinagoga di Dura Europos, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Lorica-hamata-Dura-Europos"
+
+\end_inset
+
+) e poi di nuovo nel 
 \noun on
 v
 \noun default
-, dunque è verosimile che fosse utilizzata anche nel 
+ (miniature del 
+\emph on
+Vergilius Vaticanus
+\emph default
+, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Vergiulius-Vaticanus"
+
+\end_inset
+
+), dunque è verosimile che fosse utilizzata anche nel 
 \noun on
 iv
 \noun default
@@ -4162,6 +4227,43 @@ I ritrovamenti archeologici hanno riportato alla luce squame di dimensioni
  ritiene che le squame molto grandi fossero usate per le protezioni dei
  cavalli nelle unità catafratte, e alcuni studiosi sostengono che quelle
  più piccole fossero utilizzate per armature da parata.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/Squamata2.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Squame di diverse dimensioni provenienti da protezioni per uomini e cavalcature;
+ si noti come le squame siano fissate l'una con quelle adiacenti della stessa
+ fila, e abbiano in alto uno o più fori per cucirle al corpetto in tessuto.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4216,6 +4318,53 @@ Lorica ad anelli
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/loricaHamataDuraEuropos.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Raffigurazione di soldati romani che indossano una 
+\emph on
+lorica hamata
+\emph default
+ lunga fino ai polsi e alle ginocchia, dalla sinagoga di Dura Europos; si
+ noti come alcuni soldati indossano un camaglio di maglia di ferro.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Lorica-hamata-Dura-Europos"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 La lorica ad anelli o 
 \emph on
 hamata
@@ -4235,8 +4384,54 @@ hamata
 \begin_inset space \thinspace{}
 \end_inset
 
-mm di diametro esterno, ma esistono reperti in cui gli anelli sono più piccolo
+mm di diametro interno, ma esistono reperti in cui gli anelli sono più piccolo
  e (raramente) più grandi.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/loricaHamataVimose.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Lorica
+\emph on
+ hamata
+\emph default
+ ritrovata a Vimose, in Danimarca.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Lorica-hamata-Vimose"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4258,9 +4453,54 @@ humeralia
 \end_layout
 
 \begin_layout Standard
+Negli affreschi della sinagoga di Dura Europos (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Lorica-hamata-Dura-Europos"
+
+\end_inset
+
+) sono raffigurati diversi soldati che indossano delle loriche 
+\emph on
+hamatae
+\emph default
+ lunghe fino ai polsi e fino al ginocchio; alcuni di loro indossano anche
+ un cappuccio di maglia (camaglio), probabilmente sopra un berretto imbottito.
+ La lorica di Vimose (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Lorica-hamata-Vimose"
+
+\end_inset
+
+) è un reperto ritrovato nel 
+\emph on
+barbaricum
+\emph default
+ ma di chiara derivazione romana, ed è lunga fino al gomito e alle ginocchia;
+ stesse dimensioni sembrano avere le loriche indossate dai soldati raffigurati
+ nella miniatura dal manoscritto del 
+\noun on
+v
+\noun default
+ secolo noto come 
+\emph on
+Vergilius Vaticanus
+\emph default
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Vergiulius-Vaticanus"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
 Le 
 \emph on
-hamate
+hamatae
 \emph default
  erano generalmente realizzate in ferro, ma talvolta erano presenti decorazioni
  ottenute sostituendo alcune file di anelli di ferro con anelli di bronzo,
@@ -4528,6 +4768,50 @@ TODO
 
 \emph on
 Plumbatae
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Archi/Plumbata.jpg
+	display false
+	width 50text%
+	rotateAngle 270
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Parte metallica di una 
+\emph on
+plumbata
+\emph default
+, con punta e peso in piombo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4942,11 +5226,9 @@ Vergilius Vaticanus
 \end_layout
 
 \begin_layout Subsection
-L'
+
 \emph on
-arcuballista
-\emph default
-, la balestra romana
+Arcuballista
 \end_layout
 
 \begin_layout Standard
@@ -4957,32 +5239,52 @@ status open
 
 
 \backslash
-newthought{Sin a partire dal 
+newthought{A partire dal 
 \backslash
-textsc{ii} secolo i Romani utilizzavano un'arma da lancio nota come 
-\backslash
-emph{manuballista}}
+textsc{iv} secolo, nell'artiglieria romana vi fu un cambiamento di nomenclatura}
 \end_layout
 
 \end_inset
 
-, una versione portatile della 
+: la 
 \emph on
 ballista
 \emph default
-; nel 
-\noun on
-iii
-\noun default
- secolo introdussero una forma primitiva di balestra, nota come 
+, che in epoca repubblicana aveva indicato uno strumento che tramite la
+ torsione di due bracci scagliava un proietto in pietra, passò ad indicare
+ un'arma che scagliava dardi; una versione portatile della 
+\emph on
+ballista
+\emph default
+ fu l'
 \emph on
 arcuballista
 \emph default
-; pur non essendo un'arma particolarmente potente rispetto alla 
-\emph on
-manuballista
-\emph default
-, era semplice da usare e di facile manutenzione.
+,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Vegezio identifica la 
+\backslash
+emph{ballista}, la 
+\backslash
+emph{carroballista} (montata su di un carro), la 
+\backslash
+emph{manuballista} (che poteva essere utilizzata reggendola in mano) o 
+\backslash
+emph{scorpio}, e infine l'
+\backslash
+emph{arcuballista}.}
+\end_layout
+
+\end_inset
+
+ forma primitiva della balestra, che pur non essendo un'arma particolarmente
+ potente, era semplice da usare e di facile manutenzione.
 \end_layout
 
 \begin_layout Standard
@@ -4990,7 +5292,11 @@ L'
 \emph on
 arcuballista
 \emph default
- è nominata da Vegezio,
+ («
+\emph on
+ballista
+\emph default
+ ad arco») è nominata da Vegezio,
 \begin_inset ERT
 status open
 
@@ -5000,7 +5306,7 @@ status open
 \backslash
 sidenote{Vegezio, 
 \backslash
-emph{de Re Militaris}, 2.15, 4.21.}
+emph{de Re Militaris}, 2.15, 4.21--2.}
 \end_layout
 
 \end_inset
@@ -5083,7 +5389,7 @@ A giudicare dalle proporzioni dei rilievi in cui è raffigurata, l'
 \emph on
 arcuballista
 \emph default
- aveva un arco lungo circa 150
+ aveva un arco lungo circa 140
 \begin_inset space \thinspace{}
 \end_inset
 
