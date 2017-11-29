@@ -1163,6 +1163,21 @@ name "sec:Cingulum"
 \end_layout
 
 \begin_layout Standard
+
+\emph on
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+https://finds.org.uk/counties/findsrecordingguides/buckles/#Late_Roman_buckles
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -3230,13 +3245,13 @@ reference "fig:Fibula-a-balestra"
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename Gioielli/Gold_crossbow_fibula_(brooch)_MET_DP107033.jpg
 	display false
-	width 80text%
+	width 100text%
 
 \end_inset
 
@@ -3301,6 +3316,45 @@ TODO
 
 \emph on
 Torc
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Gioielli/Torc.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Torc ritrovato ad Hassleben, in Turingia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4554,7 +4608,7 @@ pedites
 \begin_layout Subsection
 
 \emph on
-Thoracomacus
+Toracomachus
 \end_layout
 
 \begin_layout Standard
@@ -4562,10 +4616,49 @@ Alcune fonti tardoantiche ci rendono testimonianza dell'uso di giubbetti
  imbottiti per attutire i colpi ricevuti: in particolare è descritto il
  
 \emph on
-thoracomacus
+toracomachus
 \emph default
 , un giubbetto imbottito di lana, con un rivestimento in pelle per tenere
  lontana la pioggia, da indossare sotto l'armatura.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/thoracomacus.jpg
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Toracomachus
+\emph default
+ (a destra, in mezzo) raffigurato su di una rilievo funebre.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4682,12 +4775,98 @@ m e gli 0,97
 \end_inset
 
 m di larghezza.
- Era realizzato con tre strati di legno di circa 3
+ Era realizzato con tre strati di doghe di legno di circa 3
 \begin_inset space \thinspace{}
 \end_inset
 
 mm di spessore, incollati l'uno sull'altro con le fibre del legno incrociate
  per migliorare la resistenza ai colpi.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/Scutum-recto.jpg
+	display false
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\emph on
+Scutum
+\emph default
+ romano, da Dura Europos, recto; si noti la ricchissima decorazione.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/Scutum-verso.jpg
+	display false
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Riproduzione del verso di uno 
+\emph on
+scutum
+\emph default
+ romano, da Dura Europos; la parte posteriore dello 
+\emph on
+scutum
+\emph default
+ era probabilmente molto personalizzata.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4699,14 +4878,93 @@ scutum
  altoimperiale, con uno spazio semicircolare sopra l'impugnatura e uno trapezioi
 dale sotto; in questo periodo si diffusero le impugnature metalliche, che
  si rivettavano allo scudo in legno, e in tal caso l'apertura era circolare.
+ La mano era protetta da un umbone metallico semisferico, mentre il bordo
+ dello scudo era rinforzato tramite del cuoio non conciato o, più raramente,
+ una lamina di metallo, cuciti allo scudo stesso.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Protezioni/Scutum-ND.jpg
+	display false
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Raffigurazione degli scudi delle unità sotto il comando del 
+\emph on
+Magister Militum praesentialis
+\emph default
+, secondo la 
+\emph on
+Notitia Dignitatum
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
 La parte anteriore era coperta di pelle o di lino, dipinto con un disegno
- decorativo caratteristico dell'unità di appartenenza del proprietario;
- la mano era protetta da un umbone metallico semisferico, mentre il bordo
- dello scudo era rinforzato tramite del cuoio non conciato o, più raramente,
- una lamina di metallo, cuciti allo scudo stesso.
+ decorativo caratteristico dell'unità di appartenenza del proprietario.
+ Ci sono diverse attestazioni di schemi decorativi tardo romani nell'arte,
+ su statuette e missor
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+^i
+\end_layout
+
+\end_inset
+
+ (come quello di Costanzo 
+\noun on
+ii
+\noun default
+, Valentiniano e Teodosio), ma la testimonianza più importante è costituta
+ dalla 
+\emph on
+Notitia Dignitatum
+\emph default
+: si tratta di un documento medioevale copia di un documento romano della
+ fine del 
+\noun on
+iv
+\noun default
+ – inizi del 
+\noun on
+v
+\noun default
+ secolo, in cui sono elencate le cariche civili e militari dell'Impero;
+ per ogni carica militare sono elencate le unità a disposizione di quel
+ comando, e di molte di quelle unità sono disegnati gli schemi raffigurati
+ sugli scudi.
 \end_layout
 
 \begin_layout Section
