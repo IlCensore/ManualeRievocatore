@@ -1858,6 +1858,7 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename Pantalone-silistra-2.jpg
 	display false
@@ -1955,6 +1956,7 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename SantaMariaMaggiore-ErodeInnocenti--Femoralia.jpg
 	display false
@@ -2110,6 +2112,7 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\align center
 \begin_inset Graphics
 	filename FasciaeCrurales.jpg
 	display false
@@ -4439,7 +4442,7 @@ hamata
 \end_inset
 
 mm di diametro interno, ma esistono reperti in cui gli anelli sono più piccolo
- e (raramente) più grandi.
+ e (in rari casi) più grandi.
 \end_layout
 
 \begin_layout Standard
@@ -5057,23 +5060,33 @@ hasta
 \end_layout
 
 \begin_layout Subsection
-
-\emph on
-Spiculum
-\emph default
- e 
-\emph on
-Verrutum
+Giavellotti
 \end_layout
 
 \begin_layout Standard
-TODO
-\end_layout
-
-\begin_layout Subsection
-
+Nei testi della tarda antichità ci si riferisce con numerosi nomi ai giavellotti
+ in uso ai soldati romani: tra questi nomi si possono citare i 
 \emph on
-Plumbatae
+pila
+\emph default
+, gli 
+\emph on
+iacula
+\emph default
+, i 
+\emph on
+tela
+\emph default
+, i 
+\emph on
+verruta
+\emph default
+, e gli 
+\emph on
+spicula
+\emph default
+; non è però ben chiaro se questi nomi indicassero armi differenti tra loro,
+ e quali fossero queste differenze.
 \end_layout
 
 \begin_layout Standard
@@ -5085,10 +5098,138 @@ status collapsed
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
+	filename Giavellotti/Spicula.jpg
+	display false
+	width 70text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Riproduzioni moderne di punte di 
+\emph on
+spicula
+\emph default
+; si notino i barbigli (
+\emph on
+spicules
+\emph default
+).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Nella sua 
+\emph on
+Epitome rei militaris
+\emph default
+,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Vegezio, 
+\backslash
+emph{De re militaris}, ii.15.}
+\end_layout
+
+\end_inset
+
+ l'autore tardoantico Vegezio fa riferimento allo 
+\emph on
+spiculum
+\emph default
+ come l'evoluzione a lui contemporanea del precedente 
+\emph on
+pilum
+\emph default
+, un giavellotto pesante con manico in legno e punta in ferro di circa 23
+\begin_inset space ~
+\end_inset
+
+cm, come pure al 
+\emph on
+verrutum
+\emph default
+, che dice essere una versione più corta (circa 13
+\begin_inset space ~
+\end_inset
+
+cm) e leggera dello 
+\emph on
+spiculum
+\emph default
+.
+ Celso
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+sidenote{Celso, 
+\backslash
+emph{De medicina}, vii.7.}
+\end_layout
+
+\end_inset
+
+ afferma invece che i barbigli (
+\emph on
+spiculis
+\emph default
+) delle punte di un proietto causano una grave lacerazione se estratti senza
+ precauzioni, da cui si può intuire che uno 
+\emph on
+spiculum
+\emph default
+ avesse una punta con barbigli.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Plumbatae
+\end_layout
+
+\begin_layout Standard
+La 
+\emph on
+plumbata
+\emph default
+ è una tipica arma romana tardoimperiale, costituita da una punta da freccia
+ con un lungo innesto a cannone, montata su di un fusto in legno alla cui
+ estremità opposta sono inseriti degli stabilizzatori, simili a quelli realizzat
+i per le frecce; il nome di quest'arma deriva dalla presenza di un peso
+ in piomoboattaccato alla parte centrale dell'arma stessa.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
 	filename Archi/Plumbata.jpg
 	display false
-	width 50text%
-	rotateAngle 270
+	width 100text%
 
 \end_inset
 
@@ -5103,7 +5244,7 @@ Parte metallica di una
 \emph on
 plumbata
 \emph default
-, con punta e peso in piombo
+, con punta e peso in piombo.
 \end_layout
 
 \end_inset
@@ -5118,18 +5259,6 @@ plumbata
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-La 
-\emph on
-plumbata
-\emph default
- è una tipica arma romana tardoimperiale, costituita da una punta da freccia
- con un lungo innesto a cannone, montata su di un fusto in legno alla cui
- estremità opposta sono inseriti degli stabilizzatori, simili a quelli realizzat
-i per le frecce; il nome di quest'arma deriva dalla presenza di un peso
- in piomoboattaccato alla parte centrale dell'arma stessa.
 \end_layout
 
 \begin_layout Section
@@ -5612,7 +5741,7 @@ status open
 \backslash
 sidenote{Vegezio, 
 \backslash
-emph{de Re Militaris}, 2.15, 4.21--2.}
+emph{De re militaris}, ii.15, iv.21--2.}
 \end_layout
 
 \end_inset
