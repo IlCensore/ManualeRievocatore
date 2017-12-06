@@ -27,7 +27,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "Minion Pro"
+\font_roman "utopia" "Junicode"
 \font_sans "biolinum" "Linux Biolinum O"
 \font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
@@ -490,7 +490,7 @@ newthought{L'abito romano per eccellenza è la tunica.}
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -513,7 +513,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Tunica-tipologia1.jpg
+	filename Abbigliamento/Tunica-tipologia1.jpg
 	display false
 	width 100text%
 
@@ -665,7 +665,7 @@ linea
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -688,7 +688,7 @@ status open
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Tunica-tipologia2.jpg
+	filename Abbigliamento/Tunica-tipologia2.jpg
 	display false
 	width 95col%
 
@@ -900,7 +900,7 @@ auxilia
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -923,7 +923,7 @@ status open
 
 \begin_layout Description
 \begin_inset Graphics
-	filename Tunica-segmentum.png
+	filename Abbigliamento/Tunica-segmentum.png
 	display false
 	width 95col%
 
@@ -1053,11 +1053,11 @@ reference "fig:Tunica-egiziana-segmentum"
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename Orbiculum.jpg
+	filename Abbigliamento/Orbiculum.jpg
 	display false
 	width 100col%
 
@@ -1961,7 +1961,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename SantaMariaMaggiore-ErodeInnocenti--Femoralia.jpg
+	filename Abbigliamento/SantaMariaMaggiore-ErodeInnocenti--Femoralia.jpg
 	display false
 	width 100col%
 
@@ -2117,7 +2117,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename FasciaeCrurales.jpg
+	filename Abbigliamento/FasciaeCrurales.jpg
 	display false
 	width 100col%
 
@@ -2275,7 +2275,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename udones-vindolanda.jpg
+	filename Udones/udones-vindolanda.jpg
 	display false
 	height 3.3cm
 
