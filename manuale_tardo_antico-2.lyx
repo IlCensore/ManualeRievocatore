@@ -27,7 +27,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "EB Garamond"
+\font_roman "utopia" "Minion Pro"
 \font_sans "biolinum" "Linux Biolinum O"
 \font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
@@ -4620,6 +4620,13 @@ manica
 Trophaeum Traiani
 \emph default
  di Adamclisi.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Lorica-manicata"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4642,7 +4649,14 @@ Il nome
 lorica manicata
 \emph default
  è moderno, e serve ad indicare un tipo di protezione a segmenti indossato
- sul braccio destro del legionario.
+ sul braccio destro del legionario (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Lorica-manicata"
+
+\end_inset
+
+).
  L'uso di questa protezione si diffuse durante le campagne daciche di Traiano,
  ma alcune lapidi sembrano testimoniarne l'uso anche verso la fine del 
 \noun on
@@ -4703,6 +4717,13 @@ status open
 Toracomachus
 \emph default
  (a destra, in mezzo) raffigurato su di una rilievo funebre.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Toracomachus"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4718,13 +4739,21 @@ Toracomachus
 \begin_layout Standard
 Non esistono reperti di un 
 \emph on
-thoracomacus
+toracomachus
 \emph default
  né si tratta di un indumento facilmente identificabile nell'iconografia,
- a causa del fatto che erano indossati sotto l'armatura; verosimilmente
- erano di lunghezza differente, in quanto dovevano adattarsi all'armatura
- indossata, dunque erano corti come un corpetto (e magari dotati di una
- o più file di pterugi) se indossati sotto un'
+ a causa del fatto che erano indossati sotto l'armatura (ma si veda Figura
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Toracomachus"
+
+\end_inset
+
+ per un possibile esempio); verosimilmente erano di lunghezza differente,
+ in quanto dovevano adattarsi all'armatura indossata, dunque erano corti
+ come un corpetto (e magari dotati di una o più file di pterugi) se indossati
+ sotto un'
 \emph on
 hamata
 \emph default
@@ -4749,15 +4778,22 @@ ocreae
  da alcuni ritrovamenti archeologici, che sembrano alquanto in accordo tra
  di loro.
  In particolare, il modello più diffuso sembra essere quello esemplificato
- dagli schinieri ritrovati a Künzing e Straubing, la cui forma è confermata
- anche dal ritrovamento di quella che sembra essere un'imbottitura per schiniere.
+ dagli schinieri ritrovati a Künzing e Straubing (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Schiniere"
+
+\end_inset
+
+), la cui forma è confermata anche dal ritrovamento di quella che sembra
+ essere un'imbottitura per schiniere.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -4780,6 +4816,13 @@ Schiniere romano del
 iv
 \noun default
  secolo, tipologia Künzing/Straubing.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Schiniere"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4863,7 +4906,16 @@ status collapsed
 \emph on
 Scutum
 \emph default
- romano, da Dura Europos, recto; si noti la ricchissima decorazione.
+ romano, da Dura Europos, recto; si notino la ricchissima decorazione e
+ l'impugnatura, composta da un'apertura superiore semicircolare e una inferiore
+ trapezioidale.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Scutum-DE-recto"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4884,7 +4936,7 @@ Scutum
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -4930,8 +4982,15 @@ scutum
 \emph default
  tardoimperiale aveva l'impugnatura centrale e orizzontale, come quello
  altoimperiale, con uno spazio semicircolare sopra l'impugnatura e uno trapezioi
-dale sotto; in questo periodo si diffusero le impugnature metalliche, che
- si rivettavano allo scudo in legno, e in tal caso l'apertura era circolare.
+dale sotto (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Scutum-DE-recto"
+
+\end_inset
+
+); in questo periodo si diffusero le impugnature metalliche, che si rivettavano
+ allo scudo in legno, e in tal caso l'apertura era circolare.
  La mano era protetta da un umbone metallico semisferico, mentre il bordo
  dello scudo era rinforzato tramite del cuoio non conciato o, più raramente,
  una lamina di metallo, cuciti allo scudo stesso.
@@ -4968,6 +5027,13 @@ Magister Militum praesentialis
 Notitia Dignitatum
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Scudi-ND"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5006,7 +5072,14 @@ ii
 \emph on
 Notitia Dignitatum
 \emph default
-: si tratta di un documento medioevale copia di un documento romano della
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Scudi-ND"
+
+\end_inset
+
+): si tratta di un documento medioevale copia di un documento romano della
  fine del 
 \noun on
 iv
@@ -5088,15 +5161,22 @@ verruta
 \emph on
 spicula
 \emph default
-; non è però ben chiaro se questi nomi indicassero armi differenti tra loro,
- e quali fossero queste differenze.
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Spicula"
+
+\end_inset
+
+); non è però ben chiaro se questi nomi indicassero armi differenti tra
+ loro, e quali fossero queste differenze.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -5123,6 +5203,13 @@ spicula
 spicules
 \emph default
 ).
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Spicula"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5214,11 +5301,18 @@ La
 \emph on
 plumbata
 \emph default
- è una tipica arma romana tardoimperiale, costituita da una punta da freccia
- con un lungo innesto a cannone, montata su di un fusto in legno alla cui
- estremità opposta sono inseriti degli stabilizzatori, simili a quelli realizzat
-i per le frecce; il nome di quest'arma deriva dalla presenza di un peso
- in piomoboattaccato alla parte centrale dell'arma stessa.
+ (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Plumbata"
+
+\end_inset
+
+) è un'arma tipica del periodo tardoimperiale, costituita da una punta da
+ freccia con un lungo innesto a cannone, montata su di un fusto in legno
+ alla cui estremità opposta sono inseriti degli stabilizzatori, simili a
+ quelli realizzati per le frecce; il nome di quest'arma deriva dalla presenza
+ di un peso in piomoboattaccato alla parte centrale dell'arma stessa.
 \end_layout
 
 \begin_layout Standard
@@ -5248,6 +5342,13 @@ Parte metallica di una
 plumbata
 \emph default
 , con punta e peso in piombo.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Plumbata"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5543,7 +5644,7 @@ Vi erano fondamentalmente due tipi di arco composito in uso presso i Romani,
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -5562,6 +5663,13 @@ status collapsed
 
 \begin_layout Plain Layout
 Arco composito romano (ricostruzione moderna).
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Arco-composito-romano"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5575,8 +5683,14 @@ Arco composito romano (ricostruzione moderna).
 \end_layout
 
 \begin_layout Standard
-L'arco composito romano era un arco da fanteria, simmetrico e lungo circa
- 1,30–1,50
+L'arco composito romano (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Arco-composito-romano"
+
+\end_inset
+
+) era un arco da fanteria, simmetrico e lungo circa 1,30–1,50
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -5589,7 +5703,7 @@ m, con quattro parti in osso, due per parte; fu importato probabilmente
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \align center
@@ -5608,6 +5722,13 @@ status collapsed
 
 \begin_layout Plain Layout
 Arco composito unno (ricostruzione moderna).
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Arco-composito-unno"
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5629,12 +5750,18 @@ iv
 \noun on
 v
 \noun default
- secolo i Romani entrarono in contatto con l'arco unno, un arco composito
- asimmetrico, con sette parti in osso, due per ciascun braccio e tre nell'impugn
-atura; era un arco molto potente, più di quello sarmatico e di quello romano,
- e siccome era asimmetrico, poteva essere anche più grande, risultando in
- una potenza e una gittata decisamente superiore a quella degli archi usati
- dai nemici degli Unni.
+ secolo i Romani entrarono in contatto con l'arco unno (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Arco-composito-unno"
+
+\end_inset
+
+), un arco composito asimmetrico, con sette parti in osso, due per ciascun
+ braccio e tre nell'impugnatura; era un arco molto potente, più di quello
+ sarmatico e di quello romano, e siccome era asimmetrico, poteva essere
+ anche più grande, risultando in una potenza e una gittata decisamente superiore
+ a quella degli archi usati dai nemici degli Unni.
 \end_layout
 
 \begin_layout Standard
