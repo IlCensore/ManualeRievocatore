@@ -16,6 +16,9 @@
 %% distanza tra elementi di una lista
 \usepackage{enumitem}
 \setenumerate{noitemsep}
+
+%paragrafi con una certa forma
+\usepackage{shapepar}
 \end_preamble
 \options usletter
 \use_default_options true
@@ -1860,7 +1863,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename Pantalone-silistra-2.jpg
+	filename Abbigliamento/Pantalone-silistra-2.jpg
 	display false
 	width 100text%
 
@@ -6223,6 +6226,129 @@ url{http://legvi.tripod.com/valentiniani/late-roman-equipment.html}
 \end_inset
 
 >
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Full Width
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+small
+\backslash
+diamondpar{Ai miei compagni di viaggio nel mondo della rievocazione, sperando
+ di fare ancora tanta strada insieme, magari in compagnia di nuovi amici}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Altro/Bishop-Coulston-Dominate_graves-2.jpg
+	lyxscale 30
+	scale 61
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
 \end_layout
 
 \end_body
