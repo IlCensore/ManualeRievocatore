@@ -180,8 +180,8 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Il padrone della Villa del Casale di Piazza Armerina, circondato dai suoi
- soldati.
+Il padrone della Villa del Casale di Piazza Armerina, circondato da due
+ attendenti.
  Indossa una 
 \emph on
 tunica manicata 
@@ -257,7 +257,7 @@ reference "sec:Pileus-pannonicus"
 
 \end_inset
 
-), e il suo 
+), mentre il suo 
 \emph on
 sagum
 \emph default
@@ -5372,7 +5372,119 @@ Spatha
 \end_layout
 
 \begin_layout Standard
-TODO
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+http://zweilawyer.com/2010/04/22/le-armi-del-legionario-la-spatha/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+3) Nydam (200-350 d.C.)
+\end_layout
+
+\begin_layout Standard
+Le 34 monete romane ritrovate sono comprese tra il 69 ed il 217 d.C., ma Oakeshott
+ e altri studiosi concordano sul periodo 200-350.
+ Dal fango di Nydam sono state estratte 106 spade, ben 93 pattern-welded.
+ Questo ci dimostra come la lavorazione dell’acciaio fosse cambiata a favore
+ di un sistema più complesso, che rimarrà in auge fino al IX secolo circa,
+ quando iniziarono ad essere forgiate le spade vichinghe di Uflbert (vedi
+ La Spada Vichinga).
+ Anche la presenza di molti sgusci (anche cinque) sembra testimoniare l’importan
+za di questo strumento per alleggerire la lama (oppure un cambiamento nel
+ gusto estetico di soldati e armaioli).
+\end_layout
+
+\begin_layout Standard
+Sebbene molte delle spade di Nydam siano state ritrovate senza elsa, alcune
+ la possedevano ancora: di legno (coperto d’argento), avorio, osso o bronzo
+ massiccio.
+ L’origine romana della maggior parte dei reperti è testimoniata dalle iscrizion
+i latine presenti sulle lame (una sola invece presenta una runa).
+\end_layout
+
+\begin_layout Standard
+Altra particolarità delle spade di Nydam è la presenza del marchio del fabbro
+ sul codolo o sulla lama.
+ Ce ne sono giunti diversi: stella, mezza luna, uno scorpione, un disegno
+ geometrico.
+ Stranamente, nel periodo compreso fra la fine del XV secolo e l’inizio
+ del XVIII ritornano in uso diversi marchi con lo scorpione.
+ Fra le spade di Nydam non mancano neanche i nomi degli armaioli che le
+ hanno fabbricate: Ricus, Riccim, Ranvici, Cocillus, Tasvit, tutti incisi
+ in piccole depressioni rettangolari ricavate nelle spalle della lama o
+ nel codolo.
+\end_layout
+
+\begin_layout Standard
+Classificare le sottospecie di spatha è molto complicato.
+ Per questo articolo, ho deciso di seguire la sistematizzazione di Giuseppe
+ Cascarino, autore della migliore opera sugli armamenti romani mai edita
+ in Italia (compratela se possibile).
+\end_layout
+
+\begin_layout Standard
+Per quanto riguarda il periodo II- prima metà del IV secolo, conosciamo
+ due tipi principali di spatha:
+\end_layout
+
+\begin_layout Standard
+1.
+ Straubing/Nydam (in uso fino alla prima metà del IV secolo).
+\end_layout
+
+\begin_layout Standard
+Sono le spatha con lama lunga e stretta, rastremata verso la punta, in cui
+ il rapporto fra lunghezza (65-80cm) e larghezza (4.4cm) è di circa 15-17:1,
+ addirittura 23:1 nella variante Nydam.
+ Quest’ultimo tipo è senza dubbio il più particolare, tanto da attirare
+ l’attenzione di E.
+ Oakeshott in molti suoi lavori.
+ E’ una spada che ha delle caratteristiche simili a quelle dello stocco
+ del XVI secolo, compresa la lama sottile rastremata e la sezione romboidale.
+ Osservandola attentamente, si comprende come l’equazione gladio:affondo=spatha:
+fendente non sia affatto veritiera.
+ La famosa variante Nydam ha una lama pattern-welded e una lunghezza totale
+ di 101 cm (la larghezza della lama invece è inferiore ai 4 cm).
+ La guardia massiccia di bronzo presenta due spirali simili a quelle di
+ alcune spade del periodo La Tène.
+\end_layout
+
+\begin_layout Standard
+3.
+ Illerup/Wyhl (seconda metà del III-V secolo)
+\end_layout
+
+\begin_layout Standard
+La lama è meno larga del tipo Lauriacum, ma è comunque più ampia del tipo
+ Straubing/Nydam (in particolare di quest’ultimo).
+ Non c’è rastremazione verso la punta, i due fili scorrono paralleli per
+ tutta la lunghezza della lama.
+ I due esemplari riportati nell’opera di Cascarino sono di grandi dimensioni.
+ Il ritrovamento della variante Illerup ha una lama di 82cm per 4.6cm (lunghezza
+ totale della spada di 94cm), quello della variane Wyhl 81cm per 5.4cm (lunghezza
+ totale 93cm).
+\end_layout
+
+\begin_layout Standard
+4.
+ Osterburken/Kemathen (IV-V secolo)
+\end_layout
+
+\begin_layout Standard
+Lama molto larga, con un rapporto lunghezza-larghezza analogo a quello del
+ tipo Lauriacum.
+ Non è presente alcuna rastremazione, anche in questo caso i due tagli scorrono
+ paralleli fino alla punta triangolare.
+ Qui Cascarino riporta i dati di un solo esemplare (variante Osterburken),
+ ritrovato in Francia, che possiede una lama di 72.5 cm per 6.0cm (lunghezza
+ totale 85cm).
 \end_layout
 
 \begin_layout Section
@@ -6278,6 +6390,16 @@ People often suggest to me that sleeping in a simple ridge tent without
 
 \begin_layout Chapter*
 Bibliografia
+\end_layout
+
+\begin_layout Standard
+Giuseppe Cascarino e Carlo Sansilvestri, 
+\emph on
+L’Esercito Romano.
+ Armamento ed organizzazione.
+ Volume III: dal III secolo alla fine dell’Impero d’Occidente
+\emph default
+, 
 \end_layout
 
 \begin_layout Standard
