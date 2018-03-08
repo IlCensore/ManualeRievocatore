@@ -19,6 +19,9 @@
 
 %paragrafi con una certa forma
 \usepackage{shapepar}
+
+
+\usepackage{geometry}
 \end_preamble
 \options usletter
 \use_default_options true
@@ -5376,7 +5379,7 @@ reference "fig:Plumbata"
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -5429,11 +5432,185 @@ Spatha
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-http://zweilawyer.com/2010/04/22/le-armi-del-legionario-la-spatha/
+
+
+\backslash
+newthought{La 
+\backslash
+emph{spatha} fu l'arma da fianco preferita dal 
+\backslash
+emph{pedes} romano tardoantico;}
+\end_layout
+
+\end_inset
+
+la sua diffusione iniziò nella seconda metà del 
+\noun on
+ii
+\noun default
+ secolo e proseguì per tutto il 
+\noun on
+iii
+\noun default
+ secolo, tanto che nel 
+\noun on
+iv
+\noun default
+ secolo il gladio, l'arma tipica del soldato romano dell'alto impero, era
+ del tutto scomparso.
+ Rispetto al gladio, la 
+\emph on
+spatha 
+\emph default
+è un'arma molto più lunga, in precedenza usata dai cavalieri per poter colpire
+ i fanti.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+https://www.tf.uni-kiel.de/matwis/amat/iss/kap_b/illustr/sb_3_1.html
+\end_layout
+
+\end_inset
+
+La maggior parte delle lame tardoimperiali sono trovate oltre il confine
+ settentrionale dell'Impero, là dove per motivi ambientali (la presenza
+ di torbiere) e culturali (l'uso di inumare i guerrieri con le loro armi)
+ ha permesso la conservazione di numerosi esemplari.
+ Sebbene alcune di queste armi possano senz'altro essere di origine barbarica,
+ molte sono certamente romane, come indicato dalle iscrizioni latine presenti
+ su di esse; verosimilmente erano state oggetto di commercio o di cattura,
+ oppure appartenevano a soldati barbari dell'Impero che se le erano riportate
+ con sé a casa a fine servizio.
+\end_layout
+
+\begin_layout Standard
+Le spade trovate nel 
+\begin_inset Quotes fld
+\end_inset
+
+Nord
+\begin_inset Quotes frd
+\end_inset
+
+ sono classificate in gruppi e sottogruppi temporali, di cui i sottogruppi
+ C2 (fine 
+\noun on
+iii
+\noun default
+-primi anni del 
+\noun on
+iv
+\noun default
+ secolo), C3 (fino al 370 circa) e D1 (dal 370 al 450 circa) sono quelli
+ relativi al periodo di interesse.
+ Le lame sono tipicamente classificate anche per tipologia, ovvero per forma
+ e tecnica di costruzione: tali tipologie prendono il nome dai luoghi in
+ cui sono stati fatti ritrovamenti di reperti che caratterizzano la tipologia.
+ Tra le caratteristiche delle lame, oltre alle dimensioni e al peso, sono
+ la presenza o meno di sgusci (delle depressioni che scorrono longitudinalmente
+ lungo la lama e che servono ad alleggerirla) e la costruzione tramite 
+\emph on
+piling
+\emph default
+ 
+\emph on
+welding
+\emph default
+, ovvero forgiando un pezzo di ferro più grande saldando fra loro sul fuoco
+ dei pezzi più piccoli, oppure tramite 
+\emph on
+pattern welding
+\emph default
+, ovvero combinando accuratamente tipi differenti di ferro, modellandoli
+ e ripiegandoli tra di loro, in modo che alla fine sia possibile evidenziare
+ dei disegni più o meno complessi sulla superficie della lama.
+ Sulla lama possono essere presenti incisioni o incrostazioni in metallo
+ differente: tra le seconde si trovano disegni di stelle, mezze lune, scorpioni,
+ divinità, o disegni geometrici, tra i primi, principalmente, i nomi dei
+ fabbri che le hanno realizzate (Ricus, Riccim, Ranvici, Cocillus, Tasvit),
+ posti all'interno di una depressione nella lama.
+\end_layout
+
+\begin_layout Standard
+Le tipologie diffuse nel periodo C3 (dal 320 al 370 circa) sono le seguenti
+ (si vedano la Figura
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Lame"
+
+\end_inset
+
+ e la Tabella
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Tab-Lame"
+
+\end_inset
+
+):
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Spade/sword_types_overview_large.png
+	display false
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Esempi di lame di 
+\emph on
+spathae
+\emph default
+ del 
+\noun on
+iv
+\noun default
+ secolo; da sinistra a destra, tipologia Nydam-Kragehul (N-K), Snipstad
+ (S), Voien-Hedelisker (V-H), Esbjøl-Sarry (E-S) e Osterburken-Vrasselt
+ (O-V).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Lame"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5442,106 +5619,393 @@ http://zweilawyer.com/2010/04/22/le-armi-del-legionario-la-spatha/
 \end_layout
 
 \begin_layout Standard
-3) Nydam (200-350 d.C.)
+\begin_inset Float margintable
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tipo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Numero
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Percentuale
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N-K
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+S
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+V-H
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+E-S
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+O-V
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12%
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Diffusione varie tipologie di lame nel periodo C3 (320–370 circa)
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Tab-Lame"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Nydam-Kragehul Per lo più C2, 58 esemplari.
+ Leggere.
+ Otto sono state analizzate, e di queste sei sono 
+\emph on
+pattern welded
+\emph default
+, a sezione per lo più simmetrica, con o senza sgusci (massimo due); alcune
+ con incrostazioni o stampi.
+ Principalmente provenienti da Nydam (Danimarca), altrimenti dalla Svezia
+ o dall'Est.
+\end_layout
+
+\begin_layout Description
+Snipstad C2 (6 esemplari) e C3 (3 esemplari).
+ Lunghezza medio-lunga, piuttosto larghe, peso medio.
+ Per lo più da Esbjøl.
+ Lame asimmetriche, da due a sei sgusci per lato; spesso è visibile l'effetto
+ di un 
+\emph on
+pattern welding
+\emph default
+ complesso.
+\end_layout
+
+\begin_layout Description
+Voien-Hedelisker C2-D1, 13 esemplari.
+ Lunghe e strette, appuntite, per lo più leggere.
+ Principalmente da torbiere danesi (Nydam, Esbjoel, Illerup), qualcuna dalla
+ Norvegia e dall'Est.
+ Niente sgusci, realizzate con 
+\emph on
+complex piling
+\emph default
+ o semplice 
+\emph on
+pattern welding
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Description
+Esbjøl-Sarry Per lo più D, 106 esemplari.
+ Appuntite, piuttosto larghe.
+ Per lo più 
+\emph on
+piling
+\emph default
+ semplice e complesso, alcune in 
+\emph on
+pattern welding
+\emph default
+ semplice.
+ Principalmente dalle torbiere danesi, il resto da Norvegia, aree della
+ cultura di Przeworsk e confini dell'Impero.
+ Simmetriche, sei facce, niente sgusci, niente incisioni né incrostazioni.
+\end_layout
+
+\begin_layout Description
+Osterburken-Vrasselt C3--D1, 16 esemplari.
+ Lunghe (intorno agli 80
+\begin_inset space \thinspace{}
+\end_inset
+
+cm in totale) e larghe (rapporto 8/12:1); non decorate e pesanti.
+ Verso le zone meridionali, tutte da torbiere.
+ Simmetriche, spesso semplici (lenticolari) con uno sguscio poco profondo
+ e largo, niente incisioni né incrostazioni; su almeno due lame si vedono
+ gli effetti del 
+\emph on
+pattern welding
+\emph default
+.
+ Non è presente alcuna rastremazione, con i due tagli che scorrono paralleli
+ fino alla punta triangolare.
 \end_layout
 
 \begin_layout Standard
-Le 34 monete romane ritrovate sono comprese tra il 69 ed il 217 d.C., ma Oakeshott
- e altri studiosi concordano sul periodo 200-350.
- Dal fango di Nydam sono state estratte 106 spade, ben 93 pattern-welded.
- Questo ci dimostra come la lavorazione dell’acciaio fosse cambiata a favore
- di un sistema più complesso, che rimarrà in auge fino al IX secolo circa,
- quando iniziarono ad essere forgiate le spade vichinghe di Uflbert (vedi
- La Spada Vichinga).
- Anche la presenza di molti sgusci (anche cinque) sembra testimoniare l’importan
-za di questo strumento per alleggerire la lama (oppure un cambiamento nel
- gusto estetico di soldati e armaioli).
+L'elsa delle 
+\emph on
+spathae
+\emph default
+ del 
+\noun on
+iv
+\noun default
+ secolo ha una caratteristica forma a 
+\begin_inset Quotes fld
+\end_inset
+
+clessidra
+\begin_inset Quotes frd
+\end_inset
+
+, con rigonfiamento centrale e spesso costituita da una serie di anelli
+ di dimensioni variabili fusi insieme.
+ L'elsa è realizzata in legno coperto da una lamina di argento, in avorio
+ o osso, in bronzo (Figura
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Else"
+
+\end_inset
+
+).
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Spade/hilts_large.png
+	display false
+	width 85text%
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-Sebbene molte delle spade di Nydam siano state ritrovate senza elsa, alcune
- la possedevano ancora: di legno (coperto d’argento), avorio, osso o bronzo
- massiccio.
- L’origine romana della maggior parte dei reperti è testimoniata dalle iscrizion
-i latine presenti sulle lame (una sola invece presenta una runa).
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Esempi di else di 
+\emph on
+spathae
+\emph default
+ del 
+\noun on
+iv
+\noun default
+ secolo, con la caratteristica forma a 
+\begin_inset Quotes fld
+\end_inset
+
+clessidra
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Else"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-Altra particolarità delle spade di Nydam è la presenza del marchio del fabbro
- sul codolo o sulla lama.
- Ce ne sono giunti diversi: stella, mezza luna, uno scorpione, un disegno
- geometrico.
- Stranamente, nel periodo compreso fra la fine del XV secolo e l’inizio
- del XVIII ritornano in uso diversi marchi con lo scorpione.
- Fra le spade di Nydam non mancano neanche i nomi degli armaioli che le
- hanno fabbricate: Ricus, Riccim, Ranvici, Cocillus, Tasvit, tutti incisi
- in piccole depressioni rettangolari ricavate nelle spalle della lama o
- nel codolo.
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
-Classificare le sottospecie di spatha è molto complicato.
- Per questo articolo, ho deciso di seguire la sistematizzazione di Giuseppe
- Cascarino, autore della migliore opera sugli armamenti romani mai edita
- in Italia (compratela se possibile).
-\end_layout
+\end_inset
 
-\begin_layout Standard
-Per quanto riguarda il periodo II- prima metà del IV secolo, conosciamo
- due tipi principali di spatha:
-\end_layout
 
-\begin_layout Standard
-1.
- Straubing/Nydam (in uso fino alla prima metà del IV secolo).
-\end_layout
-
-\begin_layout Standard
-Sono le spatha con lama lunga e stretta, rastremata verso la punta, in cui
- il rapporto fra lunghezza (65-80cm) e larghezza (4.4cm) è di circa 15-17:1,
- addirittura 23:1 nella variante Nydam.
- Quest’ultimo tipo è senza dubbio il più particolare, tanto da attirare
- l’attenzione di E.
- Oakeshott in molti suoi lavori.
- E’ una spada che ha delle caratteristiche simili a quelle dello stocco
- del XVI secolo, compresa la lama sottile rastremata e la sezione romboidale.
- Osservandola attentamente, si comprende come l’equazione gladio:affondo=spatha:
-fendente non sia affatto veritiera.
- La famosa variante Nydam ha una lama pattern-welded e una lunghezza totale
- di 101 cm (la larghezza della lama invece è inferiore ai 4 cm).
- La guardia massiccia di bronzo presenta due spirali simili a quelle di
- alcune spade del periodo La Tène.
-\end_layout
-
-\begin_layout Standard
-3.
- Illerup/Wyhl (seconda metà del III-V secolo)
-\end_layout
-
-\begin_layout Standard
-La lama è meno larga del tipo Lauriacum, ma è comunque più ampia del tipo
- Straubing/Nydam (in particolare di quest’ultimo).
- Non c’è rastremazione verso la punta, i due fili scorrono paralleli per
- tutta la lunghezza della lama.
- I due esemplari riportati nell’opera di Cascarino sono di grandi dimensioni.
- Il ritrovamento della variante Illerup ha una lama di 82cm per 4.6cm (lunghezza
- totale della spada di 94cm), quello della variane Wyhl 81cm per 5.4cm (lunghezza
- totale 93cm).
-\end_layout
-
-\begin_layout Standard
-4.
- Osterburken/Kemathen (IV-V secolo)
-\end_layout
-
-\begin_layout Standard
-Lama molto larga, con un rapporto lunghezza-larghezza analogo a quello del
- tipo Lauriacum.
- Non è presente alcuna rastremazione, anche in questo caso i due tagli scorrono
- paralleli fino alla punta triangolare.
- Qui Cascarino riporta i dati di un solo esemplare (variante Osterburken),
- ritrovato in Francia, che possiede una lama di 72.5 cm per 6.0cm (lunghezza
- totale 85cm).
 \end_layout
 
 \begin_layout Section
@@ -6456,7 +6920,32 @@ L’Esercito Romano.
  Armamento ed organizzazione.
  Volume III: dal III secolo alla fine dell’Impero d’Occidente
 \emph default
-, 
+, Il Cerchio, 2009, 
+\noun on
+isbn
+\noun default
+ 978-8884742155.
+\end_layout
+
+\begin_layout Standard
+Helmut Föll, 
+\emph on
+Iron, Steel and Swords
+\emph default
+, <
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.tf.uni-kiel.de/matwis/amat/iss/index.html}
+\end_layout
+
+\end_inset
+
+>
 \end_layout
 
 \begin_layout Standard
@@ -6497,7 +6986,7 @@ isbn
 \end_layout
 
 \begin_layout Standard
-Robert Vermaat, «How to Mate a Late Roman Shield», <
+Robert Vermaat, «How to Make a Late Roman Shield», <
 \begin_inset ERT
 status open
 
@@ -6535,6 +7024,34 @@ url{http://legvi.tripod.com/valentiniani/late-roman-equipment.html}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Spade (III): la Spatha
+\begin_inset Quotes frd
+\end_inset
+
+, 
+\emph on
+Zhistorica
+\emph default
+, 22 aprile 2010, <
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://zweilawyer.com/2010/04/22/le-armi-del-legionario-la-spatha/}
+\end_layout
+
+\end_inset
+
+>
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace vfill*
 \end_inset
 
@@ -6557,6 +7074,13 @@ status open
 
 \backslash
 pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newgeometry{top=1.52in,left=1.27in,right=1.27in,bottom=1.52in}
 \end_layout
 
 \end_inset
@@ -6588,10 +7112,6 @@ diamondpar{Ai miei compagni di viaggio nel mondo della rievocazione, sperando
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -6607,8 +7127,16 @@ diamondpar{Ai miei compagni di viaggio nel mondo della rievocazione, sperando
 \begin_inset Graphics
 	filename Altro/Bishop-Coulston-Dominate_graves-2.jpg
 	lyxscale 30
-	scale 61
+	scale 45
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace vfill*
 \end_inset
 
 
