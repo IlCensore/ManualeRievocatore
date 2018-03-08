@@ -27,7 +27,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "Junicode"
+\font_roman "utopia" "EB Garamond"
 \font_sans "biolinum" "Linux Biolinum O"
 \font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
@@ -2099,20 +2099,30 @@ reference "mar:Soldato-di-Erode"
 
 \end_inset
 
-, manoscritto della Bibliotheque Nationale), sia nei ritrovamenti archeologici:
+; manoscritto della Bibliotheque Nationale), sia nei ritrovamenti archeologici:
  un paio di 
 \emph on
 tibialia
 \emph default
  sono stati ritrovati in una torbiera danese di Sogaards Mose, ancora avvolti
  attorno alla gamba del loro proprietario.
+ Apparentemente le 
+\emph on
+fasciae crurales
+\emph default
+ erano utilizzate in ambito venatorio, indossate sulle gambe nude; i 
+\emph on
+tibialia
+\emph default
+, invece, potevano essere portati sopra i pantaloni ed essere pertinenti
+ alla figura di un soldato.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \align center
@@ -2194,9 +2204,18 @@ Il loro uso in ambito militare è attestato dai rilievi, come quello della
 \emph on
 udones
 \emph default
- aperti sul davanti e sul tallone; è anche testimoniato da una delle lettere
- di soldati romani ritrovata a Vindolanda, dove uno dei soldati chiede l'invio
- di vario materiale personale, tra cui gli 
+ aperti sul davanti e sul tallone, o in mosaici come quello di Santa Maria
+ Maggiore a Roma, in cui sia Erode, sia alcuni suoi soldati indossano degli
+ alti udones bianchi (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Soldato-di-Erode"
+
+\end_inset
+
+); è anche testimoniato da una delle lettere di soldati romani ritrovata
+ a Vindolanda, dove uno dei soldati chiede l'invio di vario materiale personale,
+ tra cui gli 
 \emph on
 udones
 \emph default
@@ -2357,6 +2376,44 @@ name "fig:Udones"
 
 \begin_layout Section
 Calzature
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Scarpe/NW_Europe_shoes1.png
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Alcuni esempi di calzature romane del 
+\noun on
+iv
+\noun default
+ secolo.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5610,8 +5667,8 @@ Nella seconda parte del
 \noun on
 iv
 \noun default
- secolo la spatha torna ad essere indossata tramite attaccandola alla cintura
- alla vita, e il 
+ secolo la spatha torna ad essere indossata attaccata alla cintura, e il
+ 
 \emph on
 balteus
 \emph default
