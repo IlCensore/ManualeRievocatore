@@ -22,16 +22,19 @@
 
 
 \usepackage{geometry}
+
+%\newfontfamily\fonttitolo[SmallCapsFont={Alegreya SC},Ligatures=Discretionary,Contextuals=Swash]{Trajan Pro}
+\newfontfamily\fonttitolo[SmallCapsFont={Alegreya SC},Ligatures=Discretionary,Contextuals=Swash]{Bembo Std}
+\newfontfamily\fontgreco[SmallCapsFont={Alegreya SC},Ligatures=Discretionary,Contextuals=Swash]{Arno Pro}
 \end_preamble
-\options usletter
 \use_default_options true
 \maintain_unincluded_children false
 \language italian
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "EB Garamond"
-\font_sans "biolinum" "Linux Biolinum O"
+\font_roman "utopia" "Bembo Book MT Std"
+\font_sans "biolinum" "Adobe Jenson Pro"
 \font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -39,14 +42,14 @@
 \font_sc true
 \font_osf true
 \font_sf_scale 100 100
-\font_tt_scale 100 100
+\font_tt_scale 100 85
 \graphics default
-\default_output_format pdf5
+\default_output_format pdf4
 \output_sync 0
 \bibtex_command default
 \index_command default
 \float_placement th
-\paperfontsize default
+\paperfontsize 12
 \spacing other 1.2
 \use_hyperref false
 \papersize default
@@ -90,6 +93,338 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newgeometry{top=1.52in,left=1.27in,right=1.27in,bottom=1.52in}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size largest
+\noun on
+Salvatore
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Falco
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+color{Maroon}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+fonttitolo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size giant
+Il Soldato Romano
+\begin_inset Newline newline
+\end_inset
+
+Tardoimperiale
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size largest
+\emph on
+Manuale del Rievocatore
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename Altro/Bishop-Coulston-Dominate_graves-2.jpg
+	lyxscale 30
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Roma
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Cato Philosophus
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+mmxviii
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+\emph on
+Il soldato romano tardoimperiale
+\emph default
+, 
+\emph on
+manuale del rievocatore
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+© 2017–2018 Salvatore Falco
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+Questa opera è stata rilasciata con licenza Creative Commons Attribuzione
+ – Condividi allo stesso modo 3.0 Italia (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{creativecommons.org/licenses/by-sa/3.0/it/}
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+\begin_inset Graphics
+	filename ../../../Libri/HPeimdr/HPeimdr-LyX/by-sa.eps
+	width 1.6162cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size small
+Libro composto con \SpecialChar LyX
+ & 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX
+\end_layout
+
+\end_inset
+
+,
+\begin_inset Newline newline
+\end_inset
+
+ usando Arno Pro, 
+\family sans
+Linux Biolinum
+\family default
+, e 
+\family typewriter
+Fira Mono
+\family default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+restoregeometry
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset toc
@@ -3125,8 +3460,21 @@ m per 1,4
 \begin_inset space \thinspace{}
 \end_inset
 
-m, con quattro decorazioni a forma di `Γ' in prossimità degli angoli, un
- motivo che poi diventerà molto diffuso a partire dal 
+m, con quattro decorazioni a forma di `
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+fontgreco Γ}
+\end_layout
+
+\end_inset
+
+' in prossimità degli angoli, un motivo che poi diventerà molto diffuso
+ a partire dal 
 \noun on
 v
 \noun default
@@ -3865,7 +4213,7 @@ Elmo
 \begin_inset Float marginfigure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -5448,7 +5796,7 @@ emph{pedes} romano tardoantico;}
 
 \end_inset
 
-la sua diffusione iniziò nella seconda metà del 
+ la sua diffusione iniziò nella seconda metà del 
 \noun on
 ii
 \noun default
@@ -5480,10 +5828,10 @@ https://www.tf.uni-kiel.de/matwis/amat/iss/kap_b/illustr/sb_3_1.html
 
 \end_inset
 
-La maggior parte delle lame tardoimperiali sono trovate oltre il confine
- settentrionale dell'Impero, là dove per motivi ambientali (la presenza
- di torbiere) e culturali (l'uso di inumare i guerrieri con le loro armi)
- ha permesso la conservazione di numerosi esemplari.
+La maggior parte delle lame tardoimperiali sono state trovate oltre il confine
+ settentrionale dell'Impero, là dove motivi ambientali (la presenza di torbiere)
+ e culturali (l'uso di inumare i guerrieri con le loro armi) hanno permesso
+ la conservazione di numerosi esemplari.
  Sebbene alcune di queste armi possano senz'altro essere di origine barbarica,
  molte sono certamente romane, come indicato dalle iscrizioni latine presenti
  su di esse; verosimilmente erano state oggetto di commercio o di cattura,
@@ -5540,7 +5888,30 @@ pattern welding
 \end_layout
 
 \begin_layout Standard
-Le tipologie diffuse nel periodo C3 (dal 320 al 370 circa) sono le seguenti
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{
+\end_layout
+
+\end_inset
+
+Le tipologie più diffuse nel periodo d'interesse
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ (corrispondente al sottogruppo C3, dal 320 al 370 circa) sono le seguenti
  (si vedano la Figura
 \begin_inset space ~
 \end_inset
@@ -5869,9 +6240,9 @@ pattern welding
 \begin_layout Description
 Voien-Hedelisker C2-D1, 13 esemplari.
  Lunghe e strette, appuntite, per lo più leggere.
- Principalmente da torbiere danesi (Nydam, Esbjøl, Illerup), qualcuna dalla
- Norvegia e dall'Est.
- Niente sgusci, realizzate con 
+ Provenienti principalmente da torbiere danesi (Nydam, Esbjøl, Illerup),
+ qualcuna dalla Norvegia e dall'Est.
+ Prive di sgusci, furono realizzate con 
 \emph on
 piling
 \emph default
@@ -5897,7 +6268,7 @@ pattern welding
  semplice.
  Principalmente dalle torbiere danesi, il resto da Norvegia, aree della
  cultura di Przeworsk e confini dell'Impero.
- Simmetriche, sei facce, niente sgusci, niente incisioni né incrostazioni.
+ Simmetriche, a sei facce, sono prive di sgusci, incisioni e incrostazioni.
 \end_layout
 
 \begin_layout Description
@@ -5920,15 +6291,23 @@ pattern welding
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{
+\end_layout
+
+\end_inset
+
 L'elsa delle 
 \emph on
 spathae
 \emph default
- del 
-\noun on
-iv
-\noun default
- secolo ha una caratteristica forma a 
+ del iv secolo ha una caratteristica forma a 
 \begin_inset Quotes fld
 \end_inset
 
@@ -5936,10 +6315,21 @@ clessidra
 \begin_inset Quotes frd
 \end_inset
 
-, con rigonfiamento centrale e spesso costituita da una serie di anelli
- di dimensioni variabili fusi insieme.
- L'elsa è realizzata in legno coperto da una lamina di argento, in avorio
- o osso, in bronzo (Figura
+,
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ con rigonfiamento centrale e spesso costituita da una serie di anelli di
+ dimensioni variabili fusi insieme.
+ È realizzata in legno coperto da una lamina di argento, in avorio o osso,
+ in bronzo (Figura
 \begin_inset space ~
 \end_inset
 
@@ -6015,12 +6405,34 @@ Balteus
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{
+\end_layout
+
+\end_inset
+
 Col nome di 
 \emph on
 balteus
 \emph default
  si identifica la cintura che serviva al soldato per portare la spada al
  fianco.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
  Nel corso della storia romana questo supporto è talvolta una vera e propria
  cintura stretta intorno alla vita, mentre in altri periodi diventa una
  bandoliera che va da una spalla al fianco opposto;
@@ -6727,16 +7139,44 @@ http://comitatus.net/romanleathertent.html
 \end_layout
 
 \begin_layout Standard
-I soldati romani in marcia si accampavano spesso all'interno di tende: in
- una lettera del 296, il soldato Paniskos chiede a sua moglie di portare
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newthought{
+\end_layout
+
+\end_inset
+
+I soldati romani in marcia si accampavano all'interno di tende:
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ in una lettera del 296, il soldato Paniskos chiede a sua moglie di portargli
  i finimenti per la sua tenda.
 \end_layout
 
 \begin_layout Standard
 A Deurne, nei Paesi Bassi, parte di un equipaggiamento di un cavaliere romano
- – che includeva anche il famoso elmo di Deurne – era avvolto in un telo
- realizzato con 12 o 16 pannelli di cuoio di capra cuciti insieme, ciascuno
- di 72
+ – che includeva anche il famoso elmo di Deurne (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Elmo-Deurne"
+
+\end_inset
+
+) – era avvolto in un telo realizzato con 12 o 16 pannelli di cuoio di capra
+ cuciti insieme, ciascuno di 72
 \begin_inset space ~
 \end_inset
 
@@ -7092,10 +7532,12 @@ status open
 
 
 \backslash
-small
+diamondpar{
 \backslash
-diamondpar{Ai miei compagni di viaggio nel mondo della rievocazione, sperando
- di fare ancora tanta strada insieme, magari in compagnia di nuovi amici}
+
+\backslash
+Ai miei compagni di viaggio nel mondo della rievocazione, sperando di fare
+ ancora tanta strada insieme, magari in compagnia di nuovi amici}
 \end_layout
 
 \end_inset
