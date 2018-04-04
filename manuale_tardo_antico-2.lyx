@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -7,7 +7,6 @@
 \textclass tufte-book
 \begin_preamble
 \frenchspacing
-\usepackage{microtype}
 \usepackage{url}
 
 
@@ -43,6 +42,8 @@
 \font_osf true
 \font_sf_scale 100 100
 \font_tt_scale 100 85
+\use_microtype true
+\use_dash_ligatures false
 \graphics default
 \default_output_format pdf4
 \output_sync 0
@@ -73,6 +74,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -81,7 +83,10 @@
 \tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language french
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style swiss
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle fancy
@@ -1679,11 +1684,11 @@ reference "fig:fibbia-semplice"
 \end_inset
 
 , a sinistra) è caratterizzata da un 
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 arco
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
  a forma di `
@@ -1734,11 +1739,11 @@ reference "fig:traforata2-Champdolent"
 
 , a sinistra, in una riproduzione moderna di un reperto antico), che talvolta
  crea l'effetto di una fibbia che 
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 ingloba
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
  il primo dei rinforzi a elica (Figura 
@@ -5862,11 +5867,11 @@ La maggior parte delle lame tardoimperiali sono state trovate oltre il confine
 
 \begin_layout Standard
 Le spade trovate nel 
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 Nord
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
  sono classificate in gruppi e sottogruppi temporali, di cui i sottogruppi
@@ -6329,11 +6334,11 @@ L'elsa delle
 spathae
 \emph default
  del iv secolo ha una caratteristica forma a 
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 clessidra
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
 ,
@@ -6392,11 +6397,11 @@ spathae
 iv
 \noun default
  secolo, con la caratteristica forma a 
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 clessidra
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
 .
@@ -6646,11 +6651,11 @@ In combattimento era invece utilizzato l'arco composito, ottenuto prendendo
  un nucleo di legno e incollandovi sopra con cura parti in tendine e in
  corno, fino a produrre una forma ricurva; alle estremità dell'arco erano
  attaccate delle 
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 orecchie
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
  protette da placche di osso, che fungevano da leve per la parte più flessibile
@@ -7009,7 +7014,7 @@ status open
 
 
 \backslash
-sidenote{Vegezio, 
+marginnote{Vegezio, 
 \backslash
 emph{De re militaris}, ii.15, iv.21--2.}
 \end_layout
@@ -7201,7 +7206,101 @@ Ascia
 \end_layout
 
 \begin_layout Standard
-TODO
+Ammiano Marcellino narra
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+marginnote{Ammiano Marcellino, 
+\backslash
+emph{Res Gestae}, xix, 6, 7.}
+\end_layout
+
+\end_inset
+
+ che durante l'assedio di Amida, nel 359, una legione di Galli già parte
+ dell'esercito di Magnenzio guidò un attacco contro il campo persiano, armati
+ di spade e di asce («securibus»); si trattava probabilmente di Germani
+ reclutati sulla frontiera gallica, e non è quindi sorprendente che usassero
+ le scuri come arma, alla maniera germanica.
+ Nel descrivere la battaglia di Adrianopoli, lo stesso Ammiano riferisce
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+marginnote{Ammiano Marcellino, 
+\backslash
+emph{Res Gestae}, xxxi, 13, 3.}
+\end_layout
+
+\end_inset
+
+ che sia i Goti sia i Romani usavano delle asce.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename Altro/Bishop-Coulston-Dominate_graves-2.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Rilievo da Gamzigrad, rafigurante un fante e un cavaliere che regge un'ascia.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Rilievo-Gamzigrad"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Una figura a cavallo con una tunica legata da una cintura, un mantello e
+ un cappello tondo e piatto appare in un rilievo del 
+\noun on
+iv
+\noun default
+ secolo da Gamzigrad in Serbia; l'uomo ha in mano un'ascia a penna singola.
+\end_layout
+
+\begin_layout Standard
+Altre raffigurazioni di asce, sia a penna singola che doppia, compaiono
+ sulle decorazioni della colonna di Arcadio a Costantinopoli e in un rilievo
+ dell'arco di Diocleziano a Roma, ma in entrambi i casi il contesto della
+ raffigurazione fa propendere per armi nemiche catturate, piuttosto che
+ per armi romane.
 \end_layout
 
 \begin_layout Subsection
@@ -7301,19 +7400,19 @@ reference "mar:Elmo-Deurne"
 
 ) – era avvolto in un telo realizzato con 12 o 16 pannelli di cuoio di capra
  cuciti insieme, ciascuno di 72
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm per 52
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm, per un totale di 208
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm per 216 o 285
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 cm; un angolo era rinforzato, come se dovesse tenere un cappio.
@@ -7463,11 +7562,11 @@ url{http://legvi.tripod.com/valentiniani/late-roman-equipment.html}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes fld
+\begin_inset Quotes cld
 \end_inset
 
 Spade (III): la Spatha
-\begin_inset Quotes frd
+\begin_inset Quotes crd
 \end_inset
 
 , 
