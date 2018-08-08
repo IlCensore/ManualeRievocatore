@@ -65,13 +65,13 @@
 \use_package stackrel 1
 \use_package stmaryrd 1
 \use_package undertilde 1
-\cite_engine basic
+\cite_engine natbib
 \cite_engine_type default
 \biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
-\suppress_date false
+\suppress_date true
 \justification true
 \use_refstyle 1
 \use_minted 0
@@ -1521,6 +1521,48 @@ emph{Codice Giustinianeo}, xii, 7}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Cinture/fibbie_iv-v.jpg
+	display false
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Campionario di fibbie del 
+\noun on
+iv
+\noun default
+–
+\noun on
+v
+\noun default
+ secolo
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Storicamente, il 
 \emph on
 cingulum
@@ -1538,7 +1580,7 @@ cingulum
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
+\begin_inset Float marginfigure
 placement h
 wide false
 sideways false
@@ -1757,7 +1799,7 @@ reference "mar:Fibbia-delfino"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float figure
+\begin_inset Float marginfigure
 placement h
 wide false
 sideways false
@@ -1870,19 +1912,6 @@ reference "fig:traforata2-Champdolent"
 \end_layout
 
 \begin_layout Standard
-Questo genere di cintura è per esempio rappresentato nei mosaici della Villa
- del Casale di Piazza Armerina, in cui sono chiaramente visibili i rinforzi
- a elica alternati a elementi tondi (Figura 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "mar:Cingulum-Piazza-Armerina"
-
-\end_inset
-
-).
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float marginfigure
 wide false
 sideways false
@@ -1922,6 +1951,19 @@ name "mar:Cingulum-Piazza-Armerina"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Questo genere di cintura è per esempio rappresentato nei mosaici della Villa
+ del Casale di Piazza Armerina, in cui sono chiaramente visibili i rinforzi
+ a elica alternati a elementi tondi (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "mar:Cingulum-Piazza-Armerina"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Subsection
@@ -2105,7 +2147,7 @@ name "subsec:Pantaloni"
 \end_layout
 
 \begin_layout Standard
-Quella dei pantalonifu una moda tarda che i Romani presero dai Persiani,
+Quella dei pantaloni fu una moda tarda che i Romani presero dai Persiani,
  famosi per indossare quelli che presso i Greci erano noti come 
 \emph on
 anaxyrides
@@ -7455,6 +7497,207 @@ kg se si includono nel conto anche i pali di sostegno, e per tale motivo
  in lino, certamente più leggere e facilmente trasportabili.
 \end_layout
 
+\begin_layout Chapter
+Manovre
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Fulcum
+\emph default
+ contro la cavalleria
+\end_layout
+
+\begin_layout Standard
+Il 
+\emph on
+fulcum
+\emph default
+ prescritto contro la cavalleria
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+
+\size normal
+\emph on
+Strategicon
+\emph default
+, 
+\noun on
+xii.a.7
+\noun default
+.
+\end_layout
+
+\end_inset
+
+ dall'autore dello 
+\size normal
+\emph on
+Strategicon
+\size default
+\emph default
+ è una formazione difensiva statica che serve ad affrontare l'impeto di
+ una carica.
+\end_layout
+
+\begin_layout Standard
+Le
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+Rance, pp.
+\begin_inset space \thinspace{}
+\end_inset
+
+279–80.
+\end_layout
+
+\end_inset
+
+ prime tre file usano i propri scudi per formare un muro.
+ La prima fila si inginocchia, sovrapponendo gli scudi l'uno all'altro;
+ è possibile che gli scudi si tocchino bordo contro umbone.
+ La seconda fila si accuccia dietro la prima, dispondendo gli scudi in modo
+ che poggino sugli umboni della fila davanti.
+ Infine i fanti della terza fila appoggiano i propri scudi sugli umboni
+ della seconda fila.
+ Le prime due file devono fissare le hastae nel terreno, puntandole in avanti,
+ contro la cavalleria che avanza, e si pongono con le spalle contro lo scudo,
+ per reggere l'urto; la terza e la quarta fila invece impugnano le hastae
+ sopramano, in modo da usarle contro i cavalieri nemici come lancia o come
+ giavellotto; dalle file posteriori i fanti leggeri tirano con l'arco.
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Fulcum
+\emph default
+ contro la fanteria
+\end_layout
+
+\begin_layout Standard
+Successivamente,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+
+\size normal
+\emph on
+Strategicon
+\emph default
+, 
+\noun on
+xii.b
+\noun default
+.16.20–38.
+\end_layout
+
+\end_inset
+
+ l'autore dello 
+\size normal
+\emph on
+Strategicon
+\size default
+\emph default
+ introduce un altro tipo di 
+\emph on
+fulcum
+\emph default
+, impiegato stavolta contro la fanteria nemica, per proteggersi dal lancio
+ di frecce, proiettili di fionda, e altre armi da getto; si tratta di uno
+ schieramento dinamico, in quanto permette all'unità di avvicinarsi al nemico
+ per attaccarlo, fornendo comunque un certo grado di protezione prima di
+ arrivare all'impatto.
+\end_layout
+
+\begin_layout Standard
+Arrivati
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+Rance, pp.
+\begin_inset space \thinspace{}
+\end_inset
+
+271–5.
+\end_layout
+
+\end_inset
+
+ a una distanza dal nemico corrispondente a due o tre gittate di arco, il
+ comandante trasmette l'ordine 
+\emph on
+
+\begin_inset Quotes cld
+\end_inset
+
+iunge
+\emph default
+
+\begin_inset Quotes crd
+\end_inset
+
+, e i soldati si serrano lateralmente e da dietro in avanti, stringendo
+ le distanze; il termine usato dall'autore è 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+fontgreco πύκνωσις}
+\end_layout
+
+\end_inset
+
+, 
+\emph on
+pyknosis
+\emph default
+, che indica la riduzione dei ranghi fino a una disposizione in cui a ciascun
+ soldato restano tre piedi di spazio.
+ Nel corso di questa manovra, gli uomini della prima fila si avvicinano
+ l'un l'altro fino a sovrapporre gli scudi, forse persino fino a far toccare
+ i bordi del proprio scudo sull'umbone del soldato vicino.
+ Non appena l'unità arriva a un tiro d'arco dal nemico, viene dato l'ordine
+ 
+\begin_inset Quotes cld
+\end_inset
+
+
+\emph on
+ad fulco
+\emph default
+
+\begin_inset Quotes crd
+\end_inset
+
+, la prima linea usa gli scudi sovrapposti per proteggersi dalle tibie al
+ petto, mentre la seconda linea appoggia gli scudi sugli umboni della prima,
+ proteggendosi dal petto al volto; l'unità avanza, con gli uomini delle
+ file successive che si proteggono dai proietti che giungono dall'altro
+ e al contempo lanciano plumbate, frecce e giavellotti sul nemico.
+ Il testo dello 
+\emph on
+Strategicon
+\emph default
+ non lo dice esplicitamente, ma verosimilmente una volta giunti a ridosso
+ del nemico il 
+\emph on
+fulcum
+\emph default
+ era smantellato per permettere ai soldati di attaccare.
+\end_layout
+
 \begin_layout Chapter*
 Bibliografia
 \end_layout
@@ -7464,7 +7707,15 @@ Giuseppe Cascarino e Carlo Sansilvestri,
 \emph on
 L’Esercito Romano.
  Armamento ed organizzazione.
- Volume III: dal III secolo alla fine dell’Impero d’Occidente
+ Volume 
+\noun on
+iii
+\noun default
+: dal 
+\noun on
+iii
+\noun default
+ secolo alla fine dell’Impero d’Occidente
 \emph default
 , Il Cerchio, 2009, 
 \noun on
@@ -7512,6 +7763,37 @@ status open
 
 \backslash
 url{http://www.academia.edu/212354/The_Roman_Military_Belt}
+\end_layout
+
+\end_inset
+
+>.
+\end_layout
+
+\begin_layout Standard
+Philip Rance, «The 
+\emph on
+Fulcum
+\emph default
+, the late Roman and Byzantine 
+\emph on
+testudo
+\emph default
+: the Germanization of late Roman Tactics?», 
+\emph on
+Greek, Roman and Byzantine Studies
+\emph default
+ 44.3 (2004) 265–326, <
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.academia.edu/3677036/_The_Fulcum_the_late_Roman_and_Byzantine_test
+udo_the_Germanization_of_late_Roman_Tactics_Greek_Roman_and_Byzantine_Studies_44.
+3_2004_265-326}
 \end_layout
 
 \end_inset
