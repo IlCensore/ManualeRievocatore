@@ -32,9 +32,9 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "TeX Gyre Pagella"
+\font_roman "utopia" "Arno Pro"
 \font_sans "biolinum" "Alegreya"
-\font_typewriter "libertine-mono" "Ubuntu Mono"
+\font_typewriter "libertine-mono" "Fira Mono"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -66,7 +66,7 @@
 \use_package stmaryrd 1
 \use_package undertilde 1
 \cite_engine natbib
-\cite_engine_type default
+\cite_engine_type authoryear
 \biblio_style plain
 \use_bibtopic false
 \use_indices false
@@ -684,15 +684,16 @@ status open
 
 
 \backslash
-newthought{L'elemento di base era la 
+newthought{L'elemento di base del vestiario era la 
 \backslash
 emph{tunica manicata}}
 \end_layout
 
 \end_inset
 
-, ovvero una tunica dotata di maniche e lunga fino al ginocchio; in diversi
- colori con una preferenza per il bianco e il rosso, la 
+, ovvero una tunica a maniche lunghe che arrivava fino al ginocchio; in
+ diversi colori, con una preferenza per il bianco per i ranghi più elevati,
+ la 
 \emph on
 tunica manicata
 \emph default
@@ -711,7 +712,7 @@ o
 \end_layout
 
 \begin_layout Standard
-La tunica era legata in vita da una 
+La tunica era legata in vita da un 
 \emph on
 cingulum
 \emph default
@@ -838,7 +839,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Tunica egiziana di tipo 1, con 
+Tunica egiziana del primo tipo, con 
 \emph on
 clavi
 \emph default
@@ -1330,7 +1331,7 @@ clavi
 \emph default
 , 
 \emph on
-orbiculi, tabulae
+orbicula, tabulae
 \emph default
 , 
 \emph on
@@ -1411,7 +1412,7 @@ clavi
  di goccia.
  Gli 
 \emph on
-orbiculi
+orbicula
 \emph default
  erano decorazioni rotonde (Figura 
 \begin_inset CommandInset ref
@@ -1458,8 +1459,8 @@ tunica militaris
 milites
 \emph default
  portavano sotto l'armatura fosse spesso senza decorazioni o con decorazioni
- più semplici, cosa comprensibile se si considera che spesso l'armatura
- copriva gran parte della tunica.
+ più semplici, cosa comprensibile se si considera che l'armatura copriva
+ gran parte della tunica.
 \end_layout
 
 \begin_layout Section
@@ -1491,18 +1492,18 @@ https://finds.org.uk/counties/findsrecordingguides/buckles/#Late_Roman_buckles
 \end_layout
 
 \begin_layout Standard
-La cintura aveva lo scopo di mantenere l'orlo inferiore della tunica al
- di sopra del ginocchio, in modo da migliorare la libertà di movimento;
- è possibile che i civili portassero la tunica sotto il ginocchio o addirittura,
- senza cintura, lunga alle caviglie, e dunque il portare la tunica sopra
- il ginocchio sarebbe stato un ulteriore segno di riconoscimento del militare,
- che aveva dunque necessariamente bisogno di una cintura.
- Privare un soldato della propria cintura militare (
+La cintura militare (
 \emph on
 cingulum militaris
 \emph default
-), e farlo dunque sembrare un civile, era anche una forma di punizione per
- infrazioni minori.
+) aveva lo scopo di mantenere l'orlo inferiore della tunica al di sopra
+ del ginocchio, in modo da migliorare la libertà di movimento; è possibile
+ che i civili portassero la tunica sotto il ginocchio o addirittura, senza
+ cintura, lunga alle caviglie, e dunque il portare la tunica sopra il ginocchio
+ sarebbe stato un ulteriore segno di riconoscimento del militare, che aveva
+ dunque necessariamente bisogno di una cintura.
+ Privare un soldato della propria cintura, e farlo dunque sembrare un civile,
+ era anche una forma di punizione per infrazioni minori.
 \begin_inset ERT
 status open
 
@@ -1524,13 +1525,15 @@ emph{Codice Giustinianeo}, xii, 7}
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\noindent
+\align center
 \begin_inset Graphics
 	filename Cinture/fibbie_iv-v.jpg
 	display false
-	width 80text%
+	width 100text%
 
 \end_inset
 
@@ -1560,23 +1563,6 @@ v
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Storicamente, il 
-\emph on
-cingulum
-\emph default
- romano è sempre stato caratterizzato dalla presenza di fibbie, puntali
- e finimenti in metallo applicati a mo' di riforzo e di decorazione al cuoio
- della cintura.
- I finimenti possono essere in bronzo/ottone, argento, argento niellato,
- argento dorato, oro; le cinture stesse appaiono nei colori naturali del
- cuoio, ma con una certa frequenza sono anche rosse.
- Le cinture romane erano solitamente notevolmente più lunghe della circonferenza
- della vita di chi le indossava; l'estremità libera, solitamente appesantita
- da un puntale, passava nella fibbia e poi si avvolgeva attorno alla cintura,
- andando a pendere in posizione centrale o sulla destra di chi la indossava.
 \end_layout
 
 \begin_layout Standard
@@ -1623,6 +1609,24 @@ name "fig:fibbia-semplice"
 \end_layout
 
 \begin_layout Standard
+Storicamente, il 
+\emph on
+cingulum
+\emph default
+ romano è sempre stato caratterizzato dalla presenza di fibbie, puntali
+ e finimenti in metallo applicati a mo' di riforzo e di decorazione al cuoio
+ della cintura.
+ I finimenti possono essere in bronzo/ottone, argento, argento niellato,
+ argento dorato, oro; le cinture stesse appaiono nei colori naturali del
+ cuoio, ma con una certa frequenza sono anche rosse, talvolta decorate con
+ inserti di colore differente.
+ Le cinture militari erano solitamente notevolmente più lunghe della circonferen
+za della vita di chi le indossava; l'estremità libera, generalmente appesantita
+ da un puntale, passava nella fibbia e poi si avvolgeva attorno alla cintura,
+ andando a pendere in posizione centrale o sulla destra di chi la indossava.
+\end_layout
+
+\begin_layout Standard
 Le cinture tipiche degli inizi del 
 \noun on
 iv
@@ -1635,7 +1639,7 @@ iii
  secolo, mentre la seconda è introdotta proprio all'inizio del secolo, per
  poi divenire alquanto popolare.
  Nella seconda metà del secolo le due tipologie resteranno entrambe in uso,
- anche se cambierà la tipologia di finimenti utilizzati per decorarle.
+ anche se cambierà lo stile di finimenti utilizzati per decorarle.
 \end_layout
 
 \begin_layout Subsection
@@ -1716,8 +1720,7 @@ di tipologia stretta è alto fino a 5
 \begin_inset space \thinspace{}
 \end_inset
 
-cm, e a una estremità ha la fibbia metallica, che può essere semplice o
- traforata.
+cm, e a un'estremità ha la fibbia metallica, che può essere semplice o traforata.
  La fibbia semplice (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1746,7 +1749,7 @@ d
 \noun on
 d
 \noun default
-' e si fissa tramite rivetti all'estremità alta del 
+' e si fissa tramite rivetti a un'estremità del 
 \emph on
 cingulum
 \emph default
@@ -1978,7 +1981,7 @@ Cingulum
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2201,8 +2204,9 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Affresco raffigurante un servo che porta al padrone un pantalone, dotato
- di piedi integrali e passanti attraverso i quali è infilata una cintura.
+Affresco da Silistra, raffigurante un servo che porta al padrone un pantalone
+ dotato di piedi integrali e passanti attraverso i quali è infilata una
+ cintura.
 \begin_inset CommandInset label
 LatexCommand label
 name "mar:Affresco-Durostorum"
@@ -4153,8 +4157,8 @@ uno scudo ovale o tondo, possibilimente a scodella;
 \end_layout
 
 \begin_layout Enumerate
-una lorica di maglia o di squame in bronzo, lunga alle cosce o corta con
- pterugi;
+una lorica di maglia o di squame in bronzo, lunga alle cosce o corta ai
+ fianchi;
 \end_layout
 
 \begin_layout Enumerate
@@ -4183,7 +4187,7 @@ spatha
 \emph on
 thoracomacus
 \emph default
- con una fila di pterugi;
+ da indossare sotto la lorica, con una fila di pterugi;
 \end_layout
 
 \begin_layout Enumerate
@@ -4242,8 +4246,8 @@ uno scudo ovale o tondo, possibilimente a scodella;
 \end_layout
 
 \begin_layout Enumerate
-una lorica di squame in bronzo, corta con più file di pterugi, oppure una
- lorica muscolata in ferro o bronzo;
+una lorica di squame in bronzo corta, oppure una lorica muscolata in ferro
+ o bronzo;
 \end_layout
 
 \begin_layout Enumerate
@@ -4272,7 +4276,7 @@ spatha
 \emph on
 thoracomacus
 \emph default
- con più file di pterugi;
+ da indossare sotto la lorica, con più file di pterugi;
 \end_layout
 
 \begin_layout Enumerate
@@ -5796,7 +5800,7 @@ reference "fig:Plumbata"
  freccia con un lungo innesto a cannone, montata su di un fusto in legno
  alla cui estremità opposta sono inseriti degli stabilizzatori, simili a
  quelli realizzati per le frecce; il nome di quest'arma deriva dalla presenza
- di un peso in piomoboattaccato alla parte centrale dell'arma stessa.
+ di un peso in piomobo attaccato alla parte centrale dell'arma stessa.
 \end_layout
 
 \begin_layout Standard
@@ -7565,9 +7569,16 @@ Rance, pp.
  che poggino sugli umboni della fila davanti.
  Infine i fanti della terza fila appoggiano i propri scudi sugli umboni
  della seconda fila.
- Le prime due file devono fissare le hastae nel terreno, puntandole in avanti,
- contro la cavalleria che avanza, e si pongono con le spalle contro lo scudo,
- per reggere l'urto; la terza e la quarta fila invece impugnano le hastae
+ Le prime due file devono fissare le 
+\emph on
+hastae
+\emph default
+ nel terreno, puntandole in avanti, contro la cavalleria che avanza, e si
+ pongono con le spalle contro lo scudo, per reggere l'urto; la terza e la
+ quarta fila invece impugnano le 
+\emph on
+hastae
+\emph default
  sopramano, in modo da usarle contro i cavalieri nemici come lancia o come
  giavellotto; dalle file posteriori i fanti leggeri tirano con l'arco.
 \end_layout
@@ -7645,8 +7656,8 @@ iunge
 \begin_inset Quotes crd
 \end_inset
 
-, e i soldati si serrano lateralmente e da dietro in avanti, stringendo
- le distanze; il termine usato dall'autore è 
+, e i soldati si stringono dai lati verso il centro e da dietro in avanti,
+ serrando le distanze; il termine usato dall'autore è 
 \begin_inset ERT
 status open
 
