@@ -1,0 +1,1895 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+%% indice lemmi
+\newfontfamily\fontindicelemmi{EB Garamond}
+\newcommand\indicelemmi{
+\begingroup
+\fontindicelemmi
+\char"2767
+\endgroup
+}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "EB Garamond"
+\font_sans "default" "EB Garamond"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 2
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Vademecum del rievocatore tardoimperiale
+\end_layout
+
+\begin_layout Author
+Custodes Urbis
+\end_layout
+
+\begin_layout Address
+Versione 0.2 – 24 ottobre 2018
+\end_layout
+
+\begin_layout Section
+Abbigliamento
+\end_layout
+
+\begin_layout Standard
+L’abbigliamento si può dividere concettualmente in abbigliamento per tutti
+ i giorni e in abbigliamento da battaglia; sebbene vi potessero essere contesti
+ in cui si utilizzavano altri abiti (ad esempio, quando si svolgevano lavori
+ fisici), queste due tipologie sono le principali.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Tunica manicata
+\end_layout
+
+\begin_layout Standard
+La 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space \thinspace{}
+\end_inset
+
+tunica manicata
+\emph default
+ è l’indumento principe della moda maschile del 
+\noun on
+iv
+\noun default
+ secolo.
+ Si tratta di una tunica a ‘
+\noun on
+t
+\noun default
+’ lunga fino al ginocchio e ai polsi; preferibilmente di larga di corpo
+ (che arriva in alcuni casi fino ai gomiti) e stretta di braccio; collo
+ a barchetta.
+ La tunica manicata deve essere realizzata in lana o lino, preferibilmente
+ intessuti a mano (trama a saia, a spina di pesce o a diamanti).
+ I colori possibili sono molti, bianco ottico (riservato agli ufficiali
+ di palazzo), bianco naturale, crema, zafferano, rosso-arancio, rosso più
+ scuro (non troppo intenso), rosa, verde, blu, marrone chiaro e medio; rarissimi
+ e da evitare i casi di tuniche molto scure o addirittura nere.
+ Le decorazioni sono in lana colorata a contrasto e consistono di 
+\emph on
+clavi
+\emph default
+ (strisce verticali), 
+\emph on
+orbicula
+\emph default
+ (decorazioni circolari), 
+\emph on
+tabulae
+\emph default
+ (decorazioni quadrate), 
+\emph on
+segmenta
+\emph default
+ (strisce sui polsi e talvolta sui gomiti), a loro volta ricamati a filo;
+ anche queste possono avere i più svariati colori, sebbene solitamente siano
+ più scuri del colore principale della tunica (controllate i mosaici della
+ Villa del Casale di Piazza Armerina per qualche esempio).
+\end_layout
+
+\begin_layout Standard
+Le migliori tuniche già pronte sono quelle realizzate da Medievaldesign;
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://www.medievaldesign.com}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ il modello «Tunica Romana IV-V secolo» costa € 164 mentre quello «Tunica
+ romana IV-V secolo (ricami a due colori)» costa €189; il primo modello
+ è disponibile con gli orbicula tondi, che sono più corretti per la nostra
+ epoca.
+\end_layout
+
+\begin_layout Standard
+In alternativa è possibile farsi realizzare una tunica da una sarta; è possibile
+ che Medievaldesign venda solo le decorazioni, gliamento per tutti i giorni
+ e in abbigliamento da battaglia; ma anche Valeria Corvina
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/valeria.corvina}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ è in grado di realizzare le decorazioni, su disegno a vostra scelta (contattate
+ci prima di scegliere un disegno, potrebbe non essere adatto), ma anche
+ la tunica per intero.
+\end_layout
+
+\begin_layout Standard
+In generale, scegliete tuniche di colore differente dal bianco o dal rosso,
+ dato che già ne abbiamo diverse di quei colori; a meno che non siate ufficiali,
+ in tal caso la tunica bianca è preferibile (con decorazioni blu scuro o
+ porpora).
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Linea
+\end_layout
+
+\begin_layout Standard
+È possibile indossare una tunica manicata in lino naturale, abbastanza aderente
+ al corpo, al di sotto di ogni altro indumento; la 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+linea
+\emph default
+ è generalmente nascosta, e la sua presenza è quindi opzionale.
+ Va da sé che magliette moderne (t-shirt o maglie interne) non devono essere
+ visibili (e preferibilmente non vanno indossate).
+\end_layout
+
+\begin_layout Subsection
+Pantaloni e fasce crurali
+\end_layout
+
+\begin_layout Standard
+I pantaloni tardoantichi, talvolta chiamati 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+anaxyrides
+\emph default
+, sono comunemente noti come «tipo Thorsberg» o «tipo Damendorf», e hanno
+ i passanti per la cintura e generalmente i piedi integrali.
+ Sono in lana o in lino; i colori sono solitamente scuri (blu scuro, verde
+ scuro, grigio scuro), sebbene alcuni ufficiali portino i pantaloni fulvi
+ e persino bianchi.
+ Questi pantaloni devono essere molto stretti sulla gamba, senza essere
+ attillati.
+ È possibile non portare i pantaloni, e andare a gambe nude; in alternativa
+ si possono portare delle 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+fasce crurali larghe
+\emph default
+, «tipo Sogaards Mose» (sono attestate blu con i lacci rossi); seppur attestati,
+ non sembrano diffusi tra i soldati le 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+fasce crurali strette
+\emph default
+, tipo fasce mollettiere, né i pantaloni corti sotto il ginocchio.
+ I pantaloni «tipo Thorsberg» sono disponibili da Medievaldesign, con piede
+ («Calzoni tipo Thorsberg», €109) oppure senza piede («Thorsberg (senza
+ piede)», €99).
+ Sempre Medievaldesign realizza le fasce crurali tipo Sogaards Mose («Fasce
+ crurali», €29).
+ Alessandra Venditti
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/Alessandra.69}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ ha il modello dei pantaloni tipo Thorsberg e dovrebbe essere in grado di
+ realizzarne un paio a richiesta; è senz'altro in grado di realizzare le
+ fasce crurali tipo Sogaard Mose.
+\end_layout
+
+\begin_layout Subsection
+Scarpe e 
+\emph on
+udones
+\end_layout
+
+\begin_layout Standard
+Le scarpe militari del 
+\noun on
+iv
+\noun default
+ secolo sembrano essere i 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+calcei
+\emph default
+ alti alla caviglia (tipo Ramshaw e tipo Zwammerdam), scarpe basse e chiuse
+ con quattro occhielli, e i 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+campagi
+\emph default
+; di queste i calcei potevano essere chiodati, i campagi mai.
+ È preferibile che le scarpe non abbiano cuciture a macchina visibili.
+ Sono accettabili ma scoraggiate a medio termine le 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+carbatinae
+\emph default
+ (un soldato si poteva permettere scarpe migliori).
+ Le scarpe sono in cuoio di colore naturale, nero o, per gli ufficiali,
+ rosso.
+ È attestato l’uso di 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+udones
+\emph default
+ in pelle e in lana, in quest’ultimo caso anche multicolori.
+\end_layout
+
+\begin_layout Standard
+Le scarpe si possono acquistare da Medievaldesign («Campagi IV-V secolo»
+ a partire da €125; «Stivaletto tipo Ramshaw» e «Stivaletto tipo Zwammerdam»
+ a partire da €139), che fornisce anche gli 
+\emph on
+udones
+\emph default
+ di lana cuciti («Calze (Udones)», €29).
+ Anche Graziano Dal Barco
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/graziano.dalbarco}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ realizza ottime scarpe, anche se ha solo Ramshaw e Zwammerdam a catalogo.
+ Le sorelle Busatta e molti altri vendono gli udones in lana.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Cingulum
+\end_layout
+
+\begin_layout Standard
+La tipologia di 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+cingulum
+\emph default
+ diffusa nella prima metà del IV secolo è quella stretta, con fibbia che
+ è montata a un’estremità della cintura, rinforzata con dei finimenti a
+ elica (da sei a otto) e terminante con un puntale; questi finimenti sono
+ realizzati in lega di rame, argento o oro, e sono estremamente caratteristici
+ (ovvero non è possibile sostituirli con altri differenti).
+ Il 
+\emph on
+cingulum
+\emph default
+ era realizzato con cuoio rosso, nero o naturale.
+ 
+\end_layout
+
+\begin_layout Standard
+Non ci sono siti su cui si possa acquistare una fibbia del tutto soddisfacente
+ a prezzi non da gioielleria; probabilmente la soluzione migliore è quella
+ di contattare un artigiano indiano e passargli la foto del reperto da riprodurr
+e (Suhel Subhani
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/profile.php?id=100009506790901}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ ne ha pronta una tipologia, ma è quella usata da tutti i Custodes e sarebbe
+ opportuno cambiare; è in grado di realizzare una nuova tipologia in meno
+ di due mesi).
+ Al limite è possibile utilizzare temporaneamente una fibbia a ‘
+\noun on
+d
+\noun default
+’ con placca di metallo da rivettare al cuoio (i polacchi di Fabrica Cacti
+ ne hanno realizzate alcune,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/FabricaCacti/photos/a.1158659834311312/116754653008930
+9/}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ ma sono talmente semplici che si possono realizzare a mano).
+ Le fibbie di Celticwebmerchant non vanno bene.
+\end_layout
+
+\begin_layout Subsection
+Berretto
+\end_layout
+
+\begin_layout Standard
+Il berretto caratteristico del tardo impero è il 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+pileus pannonicus
+\emph default
+, un semplice berretto cilindrico, in lana, lino, pelle o pelliccia, solitamente
+ senza decorazioni se non un bordo di colore differente.
+ È possibile indossare berretti di altra foggia, ma prima va verificato
+ il loro uso nel nostro periodo.
+\end_layout
+
+\begin_layout Standard
+Medievaldesign realizza il pileus («Pileus Pannonicus», €35 in lana, €45
+ in pelliccia), ma sicuramente è possibile realizzarlo da soli o con l’aiuto
+ di un sarto.
+\end_layout
+
+\begin_layout Subsection
+Mantello e fibula
+\end_layout
+
+\begin_layout Standard
+Il mantello tipico del soldato romano resta il 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+sagum
+\emph default
+, rettangolare e grande (fino a tre metri per uno e mezzo).
+ Di lana (ma è possibile anche di lino), solitamente è in tinta unita, rosso
+ o fulvo, oppure con una o due strisce di colore differente vicino ai bordi
+ corti (rosse sul mantello fulvo), spesso sfrangiato; alcuni ufficiali indossano
+ un sagum fulvo, con quattro enormi orbiculae decorate a contrasto (blu
+ scuro o porpora).
+ Il mantello da alti ufficiali è la 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+clamide
+\emph default
+, ovale con due 
+\emph on
+tabulae
+\emph default
+ di colore differente.
+ Il mantello si indossa piegato a metà e chiuso sopra la spalla destra da
+ una fibula, quasi sempre del tipo a balestra, in bronzo, argento o oro.
+\end_layout
+
+\begin_layout Standard
+Anche in questo caso Medievaldesign è un buon posto dove acquistare il sagum
+ («Sagum sfrangiato», €159; «Sagum con orbicula», €169; «Clamide ovale»,
+ €159).
+ È però possibile farsi realizzare altrove il sagum rettangolare senza decorazio
+ni, o acquistare il tessuto in lana (possibilmente intessuto a mano).
+\end_layout
+
+\begin_layout Standard
+Per la fibula a balestra bisogna rivolgersi a un orefice (Bernardo Pettorossi
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/bernardo.pettorossi}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ ne realizza in lega di rame e placcate in argento di ottima fattura) o
+ a qualche altro artigiano, italiano o straniero.
+ Attenzione, perché anche le fibule a balestra sono estremamente variabili
+ da periodo a periodo, si consiglia di contattarci prima di fare acquisti.
+\end_layout
+
+\begin_layout Subsection
+Altri indumenti
+\end_layout
+
+\begin_layout Standard
+È accettabile l’uso di 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+sudaria
+\emph default
+, ovvero di sciarpe; ne sono attestate di bianche, strette e lunghe, persino
+ decorate con orbicula.
+ Sembrano di tipo e funzione differente dal focale.
+\end_layout
+
+\begin_layout Standard
+La 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+fascia ventralis
+\emph default
+ è attestata solo molto raramente; il suo uso è accettabile, ma sconsigliato,
+ specie per i militari di truppa.
+\end_layout
+
+\begin_layout Standard
+La 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+penula
+\emph default
+ è scarsamente attestata, più diffuso il 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+cucullus
+\emph default
+ (in pratica la parte superiore della penula, copre le spalle e ha un cappuccio)
+ e 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+l’
+\emph on
+alicula
+\emph default
+ (un cucullus senza cappuccio, chiuso sul davanti).
+\end_layout
+
+\begin_layout Standard
+Medievaldesign vende un cucullus («Cucullus», €39).
+\end_layout
+
+\begin_layout Section
+Panoplia
+\end_layout
+
+\begin_layout Standard
+Quella della panoplia tardoimperiale è una tematica estremamente vasta e
+ la trattazione che segue è estremamente sommaria per questioni di concisione.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Tunica militaris
+\end_layout
+
+\begin_layout Standard
+Apparentemente il soldato romano utilizzava sotto l’armatura una tunica
+ manicata differente da quella di tutti i giorni, oggi detta 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+tunica militaris
+\emph default
+: stando all’iconografia aveva corpo e maniche più attillati di quella normale,
+ nessuna decorazione e colori legati al rango dell’unità in cui militava
+ il soldato, rosso (tendente all’arancione) per i legionari, blu o verde
+ per i membri delle auxilia (i Cornuti Seniores sono un’auxilia palatina),
+ blu per i fanti di marina.
+ Il materiale è sempre lana o lino, lo scollo a barchetta, e decorazioni
+ come detto assenti (tranne in rarissimi casi che sembrano associati a soldati
+ veterani o ufficiali).
+\end_layout
+
+\begin_layout Standard
+La tunica militaris è facilmente realizzabile affidandosi a un sarto.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Toracomachus
+\emph default
+ e 
+\emph on
+globa
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+Toracomachus
+\emph default
+ è il nome con cui è noto nelle fonti antiche il subarmalis.
+ Era realizzato in tessuto, era imbottito e serviva ad attenuare i colpi.
+ Dimensioni e forma non sono noti, anche perché si indossava tipicamente
+ sotto l’armatura ed era da questa nascosta (l’uso del subarmalis senza
+ armatura, specie quando provvisto di pterugi, è dibattuto), quindi andrebbe
+ dimensionato a seconda dell’armatura che si intende indossare.
+ Il De Rebus Bellicis suggerisce di metterci sopra una copertura in pelle
+ (leggera) per impedire che piovendo assorba l’acqua e si appesantisca;
+ questa copertura, detta 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+globa
+\emph default
+ potrebbe essere quella che nelle statue spunta da sotto le loriche sotto
+ forma di una smerlatura spesso decorata.
+\end_layout
+
+\begin_layout Standard
+Alessandra Venditti realizza una tipologia di toracomachus; si consiglia
+ di non farsela fare troppo imbottita e di non farsi mettere gli pterugi,
+ almeno all’inizio (andrebbero realizzati in maniera differente dal progetto
+ che ha Alessandra).
+ La globa è semplicemente una pelle opportunamente ritagliata, che non ha
+ pterugi.
+\end_layout
+
+\begin_layout Subsection
+Balteo
+\end_layout
+
+\begin_layout Standard
+Il 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+balteo
+\emph default
+ degli inizi del 
+\noun on
+iv
+\noun default
+ secolo non è più quello largo decorato con falere e pendenti del 
+\noun on
+iii
+\noun default
+ secolo, ma è stretto e solitamente scarsamente decorato.
+ Col passare del tempo passerà dalla posizione a bandoliera (spalla destra
+ – fianco sinistro) a quella a cinturone (attorno alla vita).
+ È realizzabile con una striscia di cuoio chiusa da una semplice fibbia
+ a `
+\noun on
+d
+\noun default
+'.
+\end_layout
+
+\begin_layout Subsection
+Sottoelmo
+\end_layout
+
+\begin_layout Standard
+Sono state ritrovati diversi berretti che potrebbero essere dei 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+sottoelmi
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Medievaldesign realizza una copia di uno di questi ritrovamenti («Capula
+ (sotto elmo)», €39); il centurione della Legio 
+\noun on
+xxi
+\noun default
+ Rapax ne ha un’altra tipologia, quindi probabilmente Fabrica Cacti può
+ realizzarne una versione.
+\end_layout
+
+\begin_layout Subsection
+Elmo
+\end_layout
+
+\begin_layout Standard
+Ci sono tre tipologie di elmi adatti alla prima metà del 
+\noun on
+iv
+\noun default
+ secolo; i 
+\emph on
+ridgehelm
+\emph default
+ tipo 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+Intercisa, i 
+\emph on
+ridgehelm
+\emph default
+ tipo 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+Berkasovo e una tipologia di 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+spangenhelm
+\emph default
+ (la Deir-el-Medina).
+ I ridgehelm sono realizzati con due quarti di sfera di metallo uniti da
+ una crestina («ridge») a cui sono rivettati: nella tipologia Intercisa
+ un piccolo paranuca e due piccole paragnatidi sono fissate alla semisfera
+ che ne risulta, tramite rivetti o cerniere; nella tipologia Berkasovo sotto
+ la semisfera c’è una fascia orizzontale a cui si attaccano paragnatidi,
+ paranuca e nasale.
+ Gli spangenhelm sono invece formati da una serie di spicchi che sono rivettati
+ insieme e fissati poi a una fascia orizzontale.
+ Gli elmi potevano essere in ferro (Intercisa e Deir), in lega di rame (Intercis
+a/Worms) o in ferro con una copertura in bronzo o argento dorato, talvolta
+ decorati con pietre preziose e semipreziose (Berkasovo).
+ Sull’elmo era possibile montare una cresta in metallo (Intercisa) o un
+ porta-cresta con sopra fissate delle piume o, meno frequentemente, crine
+ di cavallo; è probabile che la presenza di una cresta indicasse un rango
+ militare superiore, ma non ci sono notizie certe a riguardo.
+\end_layout
+
+\begin_layout Standard
+La Deepeeka realizza tre riproduzioni accettabili degli elmi tipo Intercisa,
+ in ferro, due con decorazioni apotropaiche a stampa una con la cresta di
+ metallo; realizza anche riproduzioni di elmi tipo Berkasovo in ottone,
+ di cui un modello è accettabile (il Coblenza, ma solo nella seconda versione)
+ e due non inaccettabili (il Deurne e l’orrendo Berkasovo I).
+ Tali elmi si possono acquistare tramite molti rivenditori di materiale
+ Deepeeka.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Uno che solitamente li ha disponibili a prezzi accettabili è Armae, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http: //www.armae.com/}
+\end_layout
+
+\end_inset
+
+: i tre Intercisa stanno €
+\begin_inset space \thinspace{}
+\end_inset
+
+119 l'uno, il Burgh Castle €
+\begin_inset space \thinspace{}
+\end_inset
+
+139, il Coblenza (in ottone) €
+\begin_inset space \thinspace{}
+\end_inset
+
+229.
+ Anche CelticWebMerchant ha dei prezzi buoni.
+\end_layout
+
+\end_inset
+
+ Ulfberth produce un’accettabile riproduzione dello spangenhelm di Deir-el-Medin
+ah, disponibile da diversi rivenditori.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+CelticWebMerchant incluso, a €
+\begin_inset space \thinspace{}
+\end_inset
+
+160.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Armatura
+\end_layout
+
+\begin_layout Standard
+Le armature più diffuse in epoca tardoantica sono l’
+\emph on
+hamata
+\emph default
+ e la 
+\emph on
+squamata
+\emph default
+.
+ La 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+lorica hamata
+\emph default
+ è generalmente senza humeralia (i rinforzi sulle spalle), ad anelli alternati
+ rivettati e pieni, lunga fino ai gomiti o ai polsi e fino a metà coscia;
+ una versione corta fino alla vita è plausibile per gli ufficiali (da indossare
+ con gli pterugi).
+ La 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+lorica squamata
+\emph default
+ poteva avere squame di ferro (per i soldati semplici) o di ottone (veterani
+ e ufficiali), era lunga fino alle cosce e aveva le maniche; anche questa
+ si può portare corta alla vita per gli ufficiali.
+ Sempre gli ufficiali potevano portare l’equivalente tardoantico della 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+muscolata
+\emph default
+.
+ A protezione della testa è talvolta attestato un 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+camaglio
+\emph default
+, che però non si indossa insieme all’elmo, ma, verosimilmente, su di un
+ cappuccio imbottito.
+ È in dubbio l’uso di protezioni aggiuntive per il collo e le clavicole
+ in maglia o a squame.
+ Sulle gambe si indossavano delle 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+ocreae
+\emph default
+ in metallo, ferro o bronzo, talvolta decorate, talvolta con protezione
+ del ginocchio snodata.
+ L’uso della 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+lorica manicata
+\emph default
+ (la protezione a fasce per il braccio armato) è dibattuta.
+ 
+\end_layout
+
+\begin_layout Standard
+Acquistare una lorica hamata lunga o una squamata tramite i canali ufficiali
+ è estremamente costoso.
+ Contattando direttamente i costruttori indiani è possibile farsi costruire
+ una hamata lunga per €300; è possibile anche ordinare le squame per realizzarsi
+ la lorica squamata su misura.
+ Ocreae in ottone o ferro vanno realizzate (il fornitore che le produceva
+ in precedenza non le fabbrica più), possibilmente nella versione con protezione
+ per il ginocchio (spesso si vedono in giro senza); una possibile alternativa
+ sono gli ocrea venduti da Armae.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.armae.com/en/articles/ac143-iron-leg-armor}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Spatha
+\end_layout
+
+\begin_layout Standard
+L’arma da fianco preferita dal soldato romano tardoimperiale era la 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+spatha
+\emph default
+.
+ Si tratta di un’arma con la lama di 75 – 85
+\begin_inset space \thinspace{}
+\end_inset
+
+cm, a sezione esagonale o quadrangolare, con o senza sgusci, di forma caratteris
+tica a seconda dell’epoca.
+ L’elsa è tipicamente piccola, senza protezione per la mano, realizzata
+ per lo più in materiale organico (anche se rivestimenti in metallo sono
+ noti in alcuni casi).
+ Il fodero aveva l’attaccatura realizzata tramite un ponticello attraverso
+ il quale si faceva passare il balteo; il terminale è tipicamente piatto
+ con tre rivetti dalla testa globulare che spuntano dal fondo.
+ Nel 
+\noun on
+iv
+\noun default
+ secolo il 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+pugio
+\emph default
+ è praticamente scomparso; alcuni soldati portavano con sé un coltello da
+ caccia, anche se il suo uso in battaglia è dubbio.
+\end_layout
+
+\begin_layout Standard
+Tutti i modelli di spatha in commercio sono del periodo sbagliato, ad eccezione
+ del recente modello Feltwell, prodotto da Deepeeka e disponibile da diversi
+ rivenditori.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Armae ce l'ha a €
+\begin_inset space \thinspace{}
+\end_inset
+
+130.
+\end_layout
+
+\end_inset
+
+ Altri modelli di spatha e di coltelli vanno commissionati agli artigiani.
+\end_layout
+
+\begin_layout Subsection
+Armi lunghe e da getto
+\end_layout
+
+\begin_layout Standard
+Armi lunghe e da getto L’arma principale del fante romano è 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+l’
+\emph on
+hasta
+\emph default
+, che detta 
+\emph on
+contus
+\emph default
+ o 
+\emph on
+kontos
+\emph default
+, una lancia da fante lunga, con la lama a foglia, impugnata sotto mano
+ e usata insieme allo scudo.
+ Della panoplia facevano parte anche diversi tipi di giavellotti, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+dall’
+\emph on
+angon
+\emph default
+ con i barbigli sulla punta allo 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+spiculum
+\emph default
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+verrutum
+\emph default
+ e 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+lancea
+\emph default
+.
+ Un’arma da getto tipica del tardo impero è la 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+plumbata
+\emph default
+, una freccia corta appesantita da un piombo, che si lanciava a mano, probabilme
+nte in alto in modo che cadesse all’ingiù sul nemico.
+ Molto diffuso 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+l’
+\emph on
+arco
+\emph default
+, sia semplice sia composito; meno 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+
+\emph default
+l’
+\emph on
+arcuballista
+\emph default
+, un antesignano della balestra.
+ L’uso delle 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+francische
+\emph default
+ (asce da lancio) è scarsamente attestato ma non va escluso.
+\end_layout
+
+\begin_layout Standard
+Le punte di hasta si trovano in commercio, anche se sono generiche (si scelgano
+ quelle più lunghe); angon, spiculum, verrutum e lancea esistono solo su
+ commissione.
+ Le plumbate sono realizzate da Deepeeka e sono disponibili dai soliti rivendito
+ri, mentre l’arcuballista e la francisca vanno commissionati.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Scutum
+\end_layout
+
+\begin_layout Standard
+Lo 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+scutum
+\emph default
+ tardoimperiale può essere ovale o tondo, piatto o a scodella (allo stato
+ attuale non è possibile escludere nessuna delle possibili combinazioni);
+ per uniformità di gruppo si preferiscono gli scudi ovali piatti, ma anche
+ le altre forme sono accettabili.
+ Le dimensioni sono tra i 90 e 100
+\begin_inset space \thinspace{}
+\end_inset
+
+cm di raggio per gli scudi tondi, mentre gli scudi ovali devono avere tra
+ i 92 e i 97
+\begin_inset space \thinspace{}
+\end_inset
+
+cm di diametro minore e tra i 107 e i118
+\begin_inset space \thinspace{}
+\end_inset
+
+cm per l'asse maggiore.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://www.fectio.org.uk/articles/makescutum.htm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ La struttura è a strisce incrociate, orizzontali e verticali; coperto di
+ pelle o di tessuto, col bordo in pelle non conciata cucita.
+ L’impugnatura è centrale e orizzontale, l’umbone è semisferico, anche se
+ si può accettare il modello a punta.
+ La faccia interna dello scudo è dipinta a piacere e dovrebbe recare nome
+ del proprietario e unità di appartenenza; la faccia esterna è decorata
+ con una variante dell’episema dei Cornuti Seniores così come attestato
+ dalla Notitia Dignitatum.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://lukeuedasarson.com/NDcornutiSeniores.html}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
