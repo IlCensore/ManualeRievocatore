@@ -21,8 +21,8 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "EB Garamond"
-\font_sans "default" "EB Garamond"
+\font_roman "default" "Arno Pro"
+\font_sans "default" "Jupiter Pro"
 \font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -97,7 +97,19 @@
 \begin_body
 
 \begin_layout Title
-Vademecum del rievocatore tardoimperiale
+
+\family sans
+\color red
+Fulgentibus Armis
+\family default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size large
+\emph on
+Vademecum del rievocatore romano tardoimperiale
 \end_layout
 
 \begin_layout Author
@@ -105,7 +117,7 @@ Custodes Urbis
 \end_layout
 
 \begin_layout Address
-Versione 0.2 – 24 ottobre 2018
+Versione 0.3 – 2 dicembre 2018
 \end_layout
 
 \begin_layout Section
@@ -1781,7 +1793,8 @@ indicelemmi
 
 francische
 \emph default
- (asce da lancio) è scarsamente attestato ma non va escluso.
+ (asce da lancio) è attestato da Ammiano Marcellino, ma probabilmente non
+ era diffuso.
 \end_layout
 
 \begin_layout Standard
@@ -1839,7 +1852,7 @@ cm di diametro minore e tra i 107 e i118
 
 cm per l'asse maggiore.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -1868,7 +1881,7 @@ url{http://www.fectio.org.uk/articles/makescutum.htm}
  con una variante dell’episema dei Cornuti Seniores così come attestato
  dalla Notitia Dignitatum.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -1888,6 +1901,266 @@ url{http://lukeuedasarson.com/NDcornutiSeniores.html}
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Section
+Ordine di precedenza nell'acquisto dell'equipaggiamento
+\end_layout
+
+\begin_layout Standard
+Una volta ottenuto l'equipaggiamento base si può scegliere una delle tre
+ figure e farsi passo passo quella panoplia; un pedes leggero può avere
+ elementi della panoplia del pedes pesante e quello pesante elementi della
+ panoplia di un ufficiale, ma non l’inverso, se non temporaneamente.
+\end_layout
+
+\begin_layout Subsection
+Equipaggiamento base
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+carbatinae
+\emph default
+ – 
+\emph on
+tunica manicata
+\emph default
+ semplice in lino – 
+\emph on
+cingulum
+\end_layout
+
+\begin_layout Enumerate
+scudo – 
+\emph on
+hasta
+\end_layout
+
+\begin_layout Enumerate
+elmo in ferro
+\end_layout
+
+\begin_layout Subsection
+Pedes leggero
+\end_layout
+
+\begin_layout Standard
+Per chi non vuole o non può portare un'armatura pesante.
+\end_layout
+
+\begin_layout Enumerate
+fasce crurali (se non si intende prendere i pantaloni)
+\end_layout
+
+\begin_layout Enumerate
+calcei o campagi o comunque scarpe che non siano carbatinae, colori naturali
+\end_layout
+
+\begin_layout Enumerate
+arma da getto (plumbatae, verruta, arco, arcuballista, francisca)
+\end_layout
+
+\begin_layout Enumerate
+tunica manicata decorata (lino o preferibilmente lana, colorata, decorazioni
+ copte opzionali, altrimenti clavi e segmentae, larga ai fianchi)
+\end_layout
+
+\begin_layout Enumerate
+sagum color crema o rosso, frange o strisce colorate opzionali, con relativa
+ fibula
+\end_layout
+
+\begin_layout Enumerate
+pileus
+\end_layout
+
+\begin_layout Enumerate
+tunica militaris (decorazioni copte opzionali, clavi e segmenta preferibili)
+ colore verde o blu (dobbiamo decidere)
+\end_layout
+
+\begin_layout Enumerate
+spatha (opzionale)
+\end_layout
+
+\begin_layout Enumerate
+pantaloni scuri (opzionali)
+\end_layout
+
+\begin_layout Enumerate
+linea/camisia (lino bianco, stretta di fianchi, da mettere sotto a tutto,
+ non decorata)
+\end_layout
+
+\begin_layout Subsection
+Pedes pesante
+\end_layout
+
+\begin_layout Standard
+Per chi vuole e può portare un'armatura pesante.
+\end_layout
+
+\begin_layout Enumerate
+pantaloni scuri
+\end_layout
+
+\begin_layout Enumerate
+calcei o campagi o comunque scarpe che non siano carbatinae, colori naturali
+ o neri
+\end_layout
+
+\begin_layout Enumerate
+spatha
+\end_layout
+
+\begin_layout Enumerate
+tunica manicata decorata (lino o lana, colorata o preferibilmente bianca
+ per lino, ma di rosse ne abbiamo già diverse; decorazioni copte opzionali,
+ altrimenti clavi e segmentae opzionali, larga ai fianchi)
+\end_layout
+
+\begin_layout Enumerate
+sagum color crema o rosso, frange o strisce colorate opzionali, con relativa
+ fibula
+\end_layout
+
+\begin_layout Enumerate
+pileus
+\end_layout
+
+\begin_layout Enumerate
+tunica militaris (ha decorazioni se si usa la lorica corta o si è senza
+ lorica, con lorica lunga non servono) colore verde o blu (dobbiamo decidere)
+\end_layout
+
+\begin_layout Enumerate
+subarmalis/thoracomacus (corto con pteryges o lungo senza, compatibile col
+ tipo di armatura che si indosserà)
+\end_layout
+
+\begin_layout Enumerate
+lorica in ferro (corta o preferibilmente lunga)
+\end_layout
+
+\begin_layout Enumerate
+ocrea in ferro
+\end_layout
+
+\begin_layout Enumerate
+linea/camisia (lino bianco, stretta di fianchi, da mettere sotto a tutto,
+ non decorata)
+\end_layout
+
+\begin_layout Standard
+Ufficiale
+\end_layout
+
+\begin_layout Standard
+Vessillifero, draconario, ufficiale comandante.
+\end_layout
+
+\begin_layout Enumerate
+pantaloni scuri
+\end_layout
+
+\begin_layout Enumerate
+calcei o campagi, neri o rossi
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+spatha
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+tunica manicata
+\emph default
+ decorata (lino o lana, bianca con decorazioni copte obbligatorie possibilmente
+ porpora o blu scuro)
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+sagum
+\emph default
+ color crema o rosso, frange o strisce colorate opzionali, oppure 
+\emph on
+chlamys
+\emph default
+, con relativa fibula
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+pileus
+\end_layout
+
+\begin_layout Enumerate
+elmo ricoperto in ottone
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+tunica militaris
+\emph default
+ (ha decorazioni se si usa la lorica corta si è senza lorica, con lorica
+ lunga non servono) colore verde o blu o rosso (dobbiamo decidere)
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+subarmalis/thoracomacus
+\emph default
+ (corto con 
+\emph on
+pteryges
+\emph default
+, almeno due file di 
+\emph on
+pteryges
+\emph default
+ per gli ufficiali, possibilmente bianchi con frange)
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+lorica squamata
+\emph default
+ in ottone o 
+\emph on
+thorax
+\emph default
+ in ferro
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+ocrea
+\emph default
+ in ottone
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+linea/camisia
+\emph default
+ (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
