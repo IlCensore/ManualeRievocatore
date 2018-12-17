@@ -6,6 +6,7 @@
 \origin unavailable
 \textclass article
 \begin_preamble
+\newfontfamily\CapitaleRustica{Rustic Capitals}
 %% indice lemmi
 \newfontfamily\fontindicelemmi{EB Garamond}
 \newcommand\indicelemmi{
@@ -21,8 +22,8 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Arno Pro"
-\font_sans "default" "Jupiter Pro"
+\font_roman "default" "EB Garamond"
+\font_sans "default" "Oxygen-Sans"
 \font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -100,8 +101,31 @@
 
 \family sans
 \color red
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica 
+\end_layout
+
+\end_inset
+
 Fulgentibus Armis
 \family default
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
 
 \begin_inset Newline newline
 \end_inset
@@ -1931,6 +1955,8 @@ tunica manicata
  semplice in lino – 
 \emph on
 cingulum
+\emph default
+ semplice
 \end_layout
 
 \begin_layout Enumerate
@@ -1956,30 +1982,72 @@ fasce crurali (se non si intende prendere i pantaloni)
 \end_layout
 
 \begin_layout Enumerate
-calcei o campagi o comunque scarpe che non siano carbatinae, colori naturali
+calcei o campagi o comunque scarpe che non siano 
+\emph on
+carbatinae
+\emph default
+, colori naturali
 \end_layout
 
 \begin_layout Enumerate
-arma da getto (plumbatae, verruta, arco, arcuballista, francisca)
+arma da getto (
+\emph on
+plumbatae
+\emph default
+, 
+\emph on
+verruta
+\emph default
+, arco, 
+\emph on
+arcuballista
+\emph default
+, 
+\emph on
+francisca
+\emph default
+)
 \end_layout
 
 \begin_layout Enumerate
-tunica manicata decorata (lino o preferibilmente lana, colorata, decorazioni
- copte opzionali, altrimenti clavi e segmentae, larga ai fianchi)
+
+\emph on
+tunica manicata
+\emph default
+ decorata (lino o preferibilmente lana, colorata, decorazioni copte opzionali,
+ altrimenti 
+\emph on
+clavi
+\emph default
+ e 
+\emph on
+segmentae
+\emph default
+, larga ai fianchi)
 \end_layout
 
 \begin_layout Enumerate
-sagum color crema o rosso, frange o strisce colorate opzionali, con relativa
+
+\emph on
+sagum
+\emph default
+ color crema o rosso, frange o strisce colorate opzionali, con relativa
  fibula
 \end_layout
 
 \begin_layout Enumerate
+
+\emph on
 pileus
 \end_layout
 
 \begin_layout Enumerate
-tunica militaris (decorazioni copte opzionali, clavi e segmenta preferibili)
- colore verde o blu (dobbiamo decidere)
+
+\emph on
+tunica militaris
+\emph default
+ (decorazioni copte opzionali, clavi e segmenta preferibili) colore verde
+ o blu (dobbiamo decidere)
 \end_layout
 
 \begin_layout Enumerate
@@ -1991,8 +2059,15 @@ pantaloni scuri (opzionali)
 \end_layout
 
 \begin_layout Enumerate
-linea/camisia (lino bianco, stretta di fianchi, da mettere sotto a tutto,
- non decorata)
+
+\emph on
+linea
+\emph default
+/
+\emph on
+camisia
+\emph default
+ (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
 \end_layout
 
 \begin_layout Subsection
@@ -2008,37 +2083,67 @@ pantaloni scuri
 \end_layout
 
 \begin_layout Enumerate
-calcei o campagi o comunque scarpe che non siano carbatinae, colori naturali
- o neri
+calcei o campagi o comunque scarpe che non siano 
+\emph on
+carbatinae
+\emph default
+, colori naturali o neri
 \end_layout
 
 \begin_layout Enumerate
+
+\emph on
 spatha
 \end_layout
 
 \begin_layout Enumerate
-tunica manicata decorata (lino o lana, colorata o preferibilmente bianca
- per lino, ma di rosse ne abbiamo già diverse; decorazioni copte opzionali,
- altrimenti clavi e segmentae opzionali, larga ai fianchi)
+
+\emph on
+tunica manicata
+\emph default
+ decorata (lino o lana, colorata o preferibilmente bianca per lino, ma di
+ rosse ne abbiamo già diverse; decorazioni copte opzionali, altrimenti clavi
+ e segmentae opzionali, larga ai fianchi)
 \end_layout
 
 \begin_layout Enumerate
-sagum color crema o rosso, frange o strisce colorate opzionali, con relativa
+
+\emph on
+sagum
+\emph default
+ color crema o rosso, frange o strisce colorate opzionali, con relativa
  fibula
 \end_layout
 
 \begin_layout Enumerate
+
+\emph on
 pileus
 \end_layout
 
 \begin_layout Enumerate
-tunica militaris (ha decorazioni se si usa la lorica corta o si è senza
- lorica, con lorica lunga non servono) colore verde o blu (dobbiamo decidere)
+
+\emph on
+tunica militaris
+\emph default
+ (ha decorazioni se si usa la lorica corta o si è senza lorica, con lorica
+ lunga non servono) colore verde o blu (dobbiamo decidere)
 \end_layout
 
 \begin_layout Enumerate
-subarmalis/thoracomacus (corto con pteryges o lungo senza, compatibile col
- tipo di armatura che si indosserà)
+
+\emph on
+subarmalis
+\emph default
+/
+\emph on
+thoracomacus
+\emph default
+ (corto con 
+\emph on
+pteryges
+\emph default
+ o lungo senza, compatibile col tipo di armatura che si indosserà)
 \end_layout
 
 \begin_layout Enumerate
@@ -2046,15 +2151,34 @@ lorica in ferro (corta o preferibilmente lunga)
 \end_layout
 
 \begin_layout Enumerate
-ocrea in ferro
+
+\emph on
+ocrea
+\emph default
+ in ferro
 \end_layout
 
 \begin_layout Enumerate
-linea/camisia (lino bianco, stretta di fianchi, da mettere sotto a tutto,
- non decorata)
+
+\emph on
+linea
+\emph default
+/
+\emph on
+camisia
+\emph default
+ (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
+
+\emph on
+cingulum
+\emph default
+ marrone o nero, con finimenti in bronzo
+\end_layout
+
+\begin_layout Subsection
 Ufficiale
 \end_layout
 
@@ -2160,8 +2284,12 @@ linea/camisia
  (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 
+\emph on
+cingulum
+\emph default
+ nero o rosso con finimenti bronzo o argento
 \end_layout
 
 \end_body
