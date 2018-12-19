@@ -15,15 +15,16 @@
 \char"2767
 \endgroup
 }
+\frenchspacing
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
-\language english
+\language italian
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "EB Garamond"
-\font_sans "default" "Oxygen-Sans"
+\font_roman "default" "Bembo Book MT Std"
+\font_sans "default" "Jupiter Pro"
 \font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -83,7 +84,7 @@
 \paragraph_indentation default
 \is_math_indent 0
 \math_numbering_side default
-\quotes_style english
+\quotes_style french
 \dynamic_quotes 0
 \papercolumns 2
 \papersides 2
@@ -101,31 +102,8 @@
 
 \family sans
 \color red
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\backslash
-CapitaleRustica 
-\end_layout
-
-\end_inset
-
 Fulgentibus Armis
 \family default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
 
 \begin_inset Newline newline
 \end_inset
@@ -137,11 +115,34 @@ Vademecum del rievocatore romano tardoimperiale
 \end_layout
 
 \begin_layout Author
-Custodes Urbis
+
+\family sans
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica Custodes Urbis}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Address
 Versione 0.3 – 2 dicembre 2018
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -545,7 +546,7 @@ Le scarpe si possono acquistare da Medievaldesign («Campagi IV-V secolo»
 udones
 \emph default
  di lana cuciti («Calze (Udones)», €29).
- Anche Graziano Dal Barco
+ Graziano Dal Barco
 \begin_inset Foot
 status open
 
@@ -567,7 +568,30 @@ url{https://www.facebook.com/graziano.dalbarco}
 
 \end_inset
 
- realizza ottime scarpe, anche se ha solo Ramshaw e Zwammerdam a catalogo.
+ realizza ottime scarpe, anche se ha solo Ramshaw e Zwammerdam a catalogo;
+ un'altra possibilità è rivolgersi a Officina Avitiana
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/oficinaavitiana/}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ e verificare se hanno modelli di scarpe tardoimperiali disponibili.
  Le sorelle Busatta e molti altri vendono gli udones in lana.
 \end_layout
 
@@ -1255,7 +1279,7 @@ La Deepeeka realizza tre riproduzioni accettabili degli elmi tipo Intercisa,
  in ferro, due con decorazioni apotropaiche a stampa una con la cresta di
  metallo; realizza anche riproduzioni di elmi tipo Berkasovo in ottone,
  di cui un modello è accettabile (il Coblenza, ma solo nella seconda versione)
- e due non inaccettabili (il Deurne e l’orrendo Berkasovo I).
+ e due non accettabili (il Deurne e l’orrendo Berkasovo I).
  Tali elmi si possono acquistare tramite molti rivenditori di materiale
  Deepeeka.
 \begin_inset Foot
@@ -1473,8 +1497,12 @@ lorica manicata
 Acquistare una lorica hamata lunga o una squamata tramite i canali ufficiali
  è estremamente costoso.
  Contattando direttamente i costruttori indiani è possibile farsi costruire
- una hamata lunga per €300; è possibile anche ordinare le squame per realizzarsi
- la lorica squamata su misura.
+ una hamata lunga per €
+\begin_inset space \thinspace{}
+\end_inset
+
+300; è possibile anche ordinare le squame per realizzarsi la lorica squamata
+ su misura.
  Ocreae in ottone o ferro vanno realizzate (il fornitore che le produceva
  in precedenza non le fabbrica più), possibilmente nella versione con protezione
  per il ginocchio (spesso si vedono in giro senza); una possibile alternativa
@@ -1970,7 +1998,11 @@ elmo in ferro
 \end_layout
 
 \begin_layout Subsection
-Pedes leggero
+
+\emph on
+Pedes
+\emph default
+ leggero
 \end_layout
 
 \begin_layout Standard
@@ -2071,7 +2103,11 @@ camisia
 \end_layout
 
 \begin_layout Subsection
-Pedes pesante
+
+\emph on
+Pedes
+\emph default
+ pesante
 \end_layout
 
 \begin_layout Standard
