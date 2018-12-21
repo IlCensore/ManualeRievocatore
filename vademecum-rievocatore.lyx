@@ -23,8 +23,8 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Bembo Book MT Std"
-\font_sans "default" "Jupiter Pro"
+\font_roman "default" "Cochineal"
+\font_sans "default" "Alegreya"
 \font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -98,22 +98,6 @@
 
 \begin_body
 
-\begin_layout Title
-
-\family sans
-\color red
-Fulgentibus Armis
-\family default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\size large
-\emph on
-Vademecum del rievocatore romano tardoimperiale
-\end_layout
-
 \begin_layout Author
 
 \family sans
@@ -132,8 +116,25 @@ CapitaleRustica Custodes Urbis}
 
 \end_layout
 
+\begin_layout Title
+
+\family sans
+\color red
+Fulgentibus Armis
+\family default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\size large
+\emph on
+\color inherit
+Vademecum del rievocatore romano tardoimperiale
+\end_layout
+
 \begin_layout Address
-Versione 0.3 – 2 dicembre 2018
+Versione 0.4 – 20 dicembre 2018
 \end_layout
 
 \begin_layout Standard
@@ -548,7 +549,7 @@ udones
  di lana cuciti («Calze (Udones)», €29).
  Graziano Dal Barco
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -571,7 +572,7 @@ url{https://www.facebook.com/graziano.dalbarco}
  realizza ottime scarpe, anche se ha solo Ramshaw e Zwammerdam a catalogo;
  un'altra possibilità è rivolgersi a Officina Avitiana
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -592,7 +593,52 @@ url{https://www.facebook.com/oficinaavitiana/}
 \end_inset
 
  e verificare se hanno modelli di scarpe tardoimperiali disponibili.
- Le sorelle Busatta e molti altri vendono gli udones in lana.
+ Più economici e apparentemente altrettanto accettabili sono i calcei disponibil
+i da Kayserstuhl.de (
+\begin_inset Quotes fld
+\end_inset
+
+Spätrömische Legionärsstiefel (3.
+ Jh) Typ I
+\begin_inset Quotes frd
+\end_inset
+
+, € 80, e 
+\begin_inset Quotes fld
+\end_inset
+
+Spätrömische Legionärsstiefel (3.
+ Jh) Typ II
+\begin_inset Quotes frd
+\end_inset
+
+, €90).
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://www.kayserstuhl.de/altertum_gewandung.htm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Mario Rossetti può realizzare calcei per €
+\begin_inset space \thinspace{}
+\end_inset
+
+70 Le sorelle Busatta e molti altri vendono gli udones in lana.
 \end_layout
 
 \begin_layout Subsection
@@ -1256,7 +1302,7 @@ indicelemmi
 
 spangenhelm
 \emph default
- (la Deir-el-Medina).
+ (la Deir-el-Medina/Leiden).
  I ridgehelm sono realizzati con due quarti di sfera di metallo uniti da
  una crestina («ridge») a cui sono rivettati: nella tipologia Intercisa
  un piccolo paranuca e due piccole paragnatidi sono fissate alla semisfera
@@ -1267,7 +1313,7 @@ spangenhelm
  insieme e fissati poi a una fascia orizzontale.
  Gli elmi potevano essere in ferro (Intercisa e Deir), in lega di rame (Intercis
 a/Worms) o in ferro con una copertura in bronzo o argento dorato, talvolta
- decorati con pietre preziose e semipreziose (Berkasovo).
+ decorati con pietre preziose e semipreziose (Berkasovo e Intecisa/Limburg).
  Sull’elmo era possibile montare una cresta in metallo (Intercisa) o un
  porta-cresta con sopra fissate delle piume o, meno frequentemente, crine
  di cavallo; è probabile che la presenza di una cresta indicasse un rango
@@ -1277,13 +1323,87 @@ a/Worms) o in ferro con una copertura in bronzo o argento dorato, talvolta
 \begin_layout Standard
 La Deepeeka realizza tre riproduzioni accettabili degli elmi tipo Intercisa,
  in ferro, due con decorazioni apotropaiche a stampa una con la cresta di
- metallo; realizza anche riproduzioni di elmi tipo Berkasovo in ottone,
- di cui un modello è accettabile (il Coblenza, ma solo nella seconda versione)
- e due non accettabili (il Deurne e l’orrendo Berkasovo I).
+ metallo,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Il più economico è venduto da Via Temporis (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://viatemporis.net/epages/78d591ab-d6c8-4959-831e-d5f70ccf1236.sf/fr_FR/?
+ObjectPath=/Shops/78d591ab-d6c8-4959-831e-d5f70ccf1236/Products/CROM14}
+\end_layout
+
+\end_inset
+
+, €
+\begin_inset space \thinspace{}
+\end_inset
+
+109).
+\end_layout
+
+\end_inset
+
+ e in ottone;
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Casa del recreador lo vende a €
+\begin_inset space \thinspace{}
+\end_inset
+
+295 (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://lacasadelrecreador.com/cascos-romanos/694-casco-intercisa-limburg.html
+}
+\end_layout
+
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+ realizza anche riproduzioni di elmi tipo Berkasovo in ferro (i cosiddetti
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Burgh Castle
+\begin_inset Quotes frd
+\end_inset
+
+ e 
+\begin_inset Quotes fld
+\end_inset
+
+Concesti
+\begin_inset Quotes frd
+\end_inset
+
+, che però sono in realtà lo stesso elmo, con o senza fori per le orecchie)
+ e in ottone, di cui un modello è accettabile (il Coblenza, ma solo nella
+ seconda versione) e due non accettabili (il Deurne e l’orrendo Berkasovo
+ I).
  Tali elmi si possono acquistare tramite molti rivenditori di materiale
  Deepeeka.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Uno che solitamente li ha disponibili a prezzi accettabili è Armae, 
@@ -1320,14 +1440,89 @@ url{http: //www.armae.com/}
  Ulfberth produce un’accettabile riproduzione dello spangenhelm di Deir-el-Medin
 ah, disponibile da diversi rivenditori.
 \begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Tra cui Res Bellica (
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-CelticWebMerchant incluso, a €
+
+
+\backslash
+url{https://www.res-bellica.com/shop/elmo-tipo-deir-el-medineh/}
+\end_layout
+
+\end_inset
+
+, €
 \begin_inset space \thinspace{}
 \end_inset
 
-160.
+133) e Casa del recreador (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://lacasadelrecreador.com/cascos-romanos/126-casco-spangenhelm-425067345
+4266.html}
+\end_layout
+
+\end_inset
+
+, €
+\begin_inset space \thinspace{}
+\end_inset
+
+135).
+\end_layout
+
+\end_inset
+
+ L'elmo più economico è probabilmente la riproduzione del Leiden.
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Res Bellica ha una versione accettabile a €
+\begin_inset space \thinspace{}
+\end_inset
+
+80 (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.res-bellica.com/shop/spangenhelm-tipo-leiden/}
+\end_layout
+
+\end_inset
+
+) e una più corretta a €
+\begin_inset space \thinspace{}
+\end_inset
+
+140 (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.res-bellica.com/shop/spangenhelm-tipo-leiden-2/}
+\end_layout
+
+\end_inset
+
+).
 \end_layout
 
 \end_inset
@@ -1976,25 +2171,74 @@ Equipaggiamento base
 \emph on
 carbatinae
 \emph default
- – 
+: Res Bellica, €
+\begin_inset space \thinspace{}
+\end_inset
+
+70, o farsele a mano; alternativamente per la stessa cifra Mario Rossetti
+ fa i campagi, che sono di livello superiore a quello base;
+\end_layout
+
+\begin_layout Enumerate
+
 \emph on
 tunica manicata
 \emph default
- semplice in lino – 
+ semplice in lino: Alessandra Venditti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+55;
+\end_layout
+
+\begin_layout Enumerate
+
 \emph on
 cingulum
 \emph default
- semplice
+ semplice in cuoio;
 \end_layout
 
 \begin_layout Enumerate
-scudo – 
+scudo: ovale, 95
+\begin_inset space \thinspace{}
+\end_inset
+
+x
+\begin_inset space \thinspace{}
+\end_inset
+
+110
+\begin_inset space \thinspace{}
+\end_inset
+
+cm, umbone semisferico, bordo in pelle, Mario Rossetti lo può realizzare,
+ €
+\begin_inset space \thinspace{}
+\end_inset
+
+120, non verniciato;
+\end_layout
+
+\begin_layout Enumerate
+
 \emph on
 hasta
+\emph default
+: punta in metallo da diversi fornitori (Medievalcraft, Kayserstuhl, o Fucina
+ del Drago per i romani);
 \end_layout
 
 \begin_layout Enumerate
-elmo in ferro
+elmo in ferro: il Leiden (€
+\begin_inset space \thinspace{}
+\end_inset
+
+80 da Res Bellica) o l'Intecisa Augst (€109 da Via Temporis, €
+\begin_inset space \thinspace{}
+\end_inset
+
+115 da Res Bellica).
 \end_layout
 
 \begin_layout Subsection
@@ -2010,35 +2254,26 @@ Per chi non vuole o non può portare un'armatura pesante.
 \end_layout
 
 \begin_layout Enumerate
-fasce crurali (se non si intende prendere i pantaloni)
+fasce crurali (se non si intende prendere i pantaloni), in vendita da diversi
+ artigiani, Mikhail Starikov ne produce di diversi colori, tessute a mano
+ e colorate naturalmente, circa €
+\begin_inset space \thinspace{}
+\end_inset
+
+35;
 \end_layout
 
 \begin_layout Enumerate
-calcei o campagi o comunque scarpe che non siano 
+calcei (da Mario Rossetti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+70) o campagi (sentire Officina Avitiana) o comunque scarpe che non siano
+ 
 \emph on
 carbatinae
 \emph default
-, colori naturali
-\end_layout
-
-\begin_layout Enumerate
-arma da getto (
-\emph on
-plumbatae
-\emph default
-, 
-\emph on
-verruta
-\emph default
-, arco, 
-\emph on
-arcuballista
-\emph default
-, 
-\emph on
-francisca
-\emph default
-)
+, in colori naturali;
 \end_layout
 
 \begin_layout Enumerate
@@ -2055,7 +2290,47 @@ clavi
 \emph on
 segmentae
 \emph default
-, larga ai fianchi)
+, larga ai fianchi).
+ Per la tunica non decorata rivolgersi ad Alessandra Venditti, dopo aver
+ concordato con noi un colore accettabile.
+ L'opzione più economica per la tunica decorata è il modello IV-V secolo
+ di Medievaldesign, €
+\begin_inset space \thinspace{}
+\end_inset
+
+164;
+\end_layout
+
+\begin_layout Enumerate
+una o più armi da getto: 
+\emph on
+plumbatae
+\emph default
+ (corte €
+\begin_inset space \thinspace{}
+\end_inset
+
+23 da Kayserstuhl, lunghe €
+\begin_inset space \thinspace{}
+\end_inset
+
+35 da Kayserstuhl), 
+\emph on
+verruta
+\emph default
+ (€
+\begin_inset space \thinspace{}
+\end_inset
+
+45 da Casa del recreador ), arco, 
+\emph on
+arcuballista
+\emph default
+, 
+\emph on
+francisca
+\emph default
+;
 \end_layout
 
 \begin_layout Enumerate
@@ -2064,13 +2339,15 @@ segmentae
 sagum
 \emph default
  color crema o rosso, frange o strisce colorate opzionali, con relativa
- fibula
+ fibula: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
 
 \emph on
 pileus
+\emph default
+: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2079,15 +2356,28 @@ pileus
 tunica militaris
 \emph default
  (decorazioni copte opzionali, clavi e segmenta preferibili) colore verde
- o blu (dobbiamo decidere)
+ o blu (dobbiamo decidere): sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
-spatha (opzionale)
+
+\emph on
+spatha
+\emph default
+ (opzionale): modello Feltwell, €
+\begin_inset space \thinspace{}
+\end_inset
+
+110 da Kayserstuhl;
 \end_layout
 
 \begin_layout Enumerate
-pantaloni scuri (opzionali)
+pantaloni scuri (opzionali): sentire Alessandra Venditti, oppure Medievaldesign
+ (€
+\begin_inset space \thinspace{}
+\end_inset
+
+109);
 \end_layout
 
 \begin_layout Enumerate
@@ -2099,7 +2389,8 @@ linea
 \emph on
 camisia
 \emph default
- (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
+ (opzionale, lino bianco, stretta di fianchi, da mettere sotto a tutto,
+ non decorata): sentire Alessandra Venditti.
 \end_layout
 
 \begin_layout Subsection
@@ -2115,31 +2406,63 @@ Per chi vuole e può portare un'armatura pesante.
 \end_layout
 
 \begin_layout Enumerate
-pantaloni scuri
-\end_layout
-
-\begin_layout Enumerate
-calcei o campagi o comunque scarpe che non siano 
-\emph on
-carbatinae
-\emph default
-, colori naturali o neri
-\end_layout
-
-\begin_layout Enumerate
-
-\emph on
-spatha
-\end_layout
-
-\begin_layout Enumerate
 
 \emph on
 tunica manicata
 \emph default
  decorata (lino o lana, colorata o preferibilmente bianca per lino, ma di
  rosse ne abbiamo già diverse; decorazioni copte opzionali, altrimenti clavi
- e segmentae opzionali, larga ai fianchi)
+ e segmentae opzionali, larga ai fianchi).
+ Per la tunica non decorata rivolgersi ad Alessandra Venditti, dopo aver
+ concordato con noi un colore accettabile.
+ L'opzione più economica per la tunica decorata è il modello IV-V secolo
+ di Medievaldesign, €
+\begin_inset space \thinspace{}
+\end_inset
+
+164;
+\end_layout
+
+\begin_layout Enumerate
+pantaloni scuri: sentire Alessandra Venditti, oppure Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+109);
+\end_layout
+
+\begin_layout Enumerate
+calcei (da Mario Rossetti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+70) o campagi (sentire Officina Avitiana, altrimenti Medievaldesign) o comunque
+ scarpe che non siano 
+\emph on
+carbatinae
+\emph default
+, in colori naturali;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+cingulum
+\emph default
+ marrone o nero, con finimenti in bronzo.
+ I finimenti sono prodotti da Suhel Subani;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+spatha
+\emph default
+: modello Feltwell, €
+\begin_inset space \thinspace{}
+\end_inset
+
+110 da Kayserstuhl;
 \end_layout
 
 \begin_layout Enumerate
@@ -2148,13 +2471,15 @@ tunica manicata
 sagum
 \emph default
  color crema o rosso, frange o strisce colorate opzionali, con relativa
- fibula
+ fibula: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
 
 \emph on
 pileus
+\emph default
+: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2163,7 +2488,8 @@ pileus
 tunica militaris
 \emph default
  (ha decorazioni se si usa la lorica corta o si è senza lorica, con lorica
- lunga non servono) colore verde o blu (dobbiamo decidere)
+ lunga non servono) colore verde o blu (dobbiamo decidere): sentire Alessandra
+ Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2179,11 +2505,31 @@ thoracomacus
 \emph on
 pteryges
 \emph default
- o lungo senza, compatibile col tipo di armatura che si indosserà)
+ o lungo senza, compatibile col tipo di armatura che si indosserà): sentire
+ Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
-lorica in ferro (corta o preferibilmente lunga)
+lorica, 
+\emph on
+hamata
+\emph default
+ o 
+\emph on
+squamata
+\emph default
+, in ferro (corta o preferibilmente lunga).
+ Una hamata lunga è venduta da Zubair Qureshi a €
+\begin_inset space \thinspace{}
+\end_inset
+
+300, ma state col fiato addosso al venditore.
+ Una squamata corta può essere ordinata a Hyria—Opus Manuum Artificis per
+ circa €
+\begin_inset space \thinspace{}
+\end_inset
+
+500 (da contrattare);
 \end_layout
 
 \begin_layout Enumerate
@@ -2191,7 +2537,31 @@ lorica in ferro (corta o preferibilmente lunga)
 \emph on
 ocrea
 \emph default
- in ferro
+ in ferro: semplici €
+\begin_inset space \thinspace{}
+\end_inset
+
+40 da Armae, con ginocchiera €
+\begin_inset space \thinspace{}
+\end_inset
+
+60 da Armae;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+manica
+\emph default
+ in ferro: tipo Mainz €
+\begin_inset space \thinspace{}
+\end_inset
+
+50 da Armae, tipo Carlisle €
+\begin_inset space \thinspace{}
+\end_inset
+
+125 da Casa del recreador;
 \end_layout
 
 \begin_layout Enumerate
@@ -2203,15 +2573,8 @@ linea
 \emph on
 camisia
 \emph default
- (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
-\end_layout
-
-\begin_layout Enumerate
-
-\emph on
-cingulum
-\emph default
- marrone o nero, con finimenti in bronzo
+ (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata):
+ sentire Alessandra Venditti.
 \end_layout
 
 \begin_layout Subsection
@@ -2223,26 +2586,47 @@ Vessillifero, draconario, ufficiale comandante.
 \end_layout
 
 \begin_layout Enumerate
-pantaloni scuri
+
+\emph on
+tunica manicata
+\emph default
+ decorata (lino o lana, bianca con decorazioni copte obbligatorie, preferibilmen
+te porpora o blu scuro), preferibilmente molto larga ai fianchi: il modello
+ IV-V secolo di Medievaldesign viene €
+\begin_inset space \thinspace{}
+\end_inset
+
+164;
 \end_layout
 
 \begin_layout Enumerate
-calcei o campagi, neri o rossi
+pantaloni scuri, oppure fulvi o bianchi (per il comandante).
+ Sentire Alessandra Venditti, oppure Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+109);
+\end_layout
+
+\begin_layout Enumerate
+calcei o campagi, neri o rossi: Medievaldesign oppure Graziano dal Barco
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+cingulum
+\emph default
+ nero o rosso con finimenti bronzo o argento.
+ I finimenti sono prodotti da Suhel Subani;
 \end_layout
 
 \begin_layout Enumerate
 
 \emph on
 spatha
-\end_layout
-
-\begin_layout Enumerate
-
-\emph on
-tunica manicata
 \emph default
- decorata (lino o lana, bianca con decorazioni copte obbligatorie possibilmente
- porpora o blu scuro)
+: Pier Paolo Sierchovich la realizza artigianalmente;
 \end_layout
 
 \begin_layout Enumerate
@@ -2250,11 +2634,11 @@ tunica manicata
 \emph on
 sagum
 \emph default
- color crema o rosso, frange o strisce colorate opzionali, oppure 
+ color crema o rosso, con frange e/o strisce colorate, oppure 
 \emph on
 chlamys
 \emph default
-, con relativa fibula
+, con relativa fibula;
 \end_layout
 
 \begin_layout Enumerate
@@ -2264,7 +2648,7 @@ pileus
 \end_layout
 
 \begin_layout Enumerate
-elmo ricoperto in ottone
+elmo ricoperto in ottone: sentire i fratelli Pustelak, Adam Maziar
 \end_layout
 
 \begin_layout Enumerate
@@ -2272,8 +2656,8 @@ elmo ricoperto in ottone
 \emph on
 tunica militaris
 \emph default
- (ha decorazioni se si usa la lorica corta si è senza lorica, con lorica
- lunga non servono) colore verde o blu o rosso (dobbiamo decidere)
+ (ha decorazioni se si usa la lorica corta, con lorica lunga non servono)
+ colore verde o blu o rosso: sentire Alessandra Venditti.
 \end_layout
 
 \begin_layout Enumerate
@@ -2289,7 +2673,8 @@ pteryges
 \emph on
 pteryges
 \emph default
- per gli ufficiali, possibilmente bianchi con frange)
+ per gli ufficiali, possibilmente bianchi con frange): sentire Alessandra
+ Venditti.
 \end_layout
 
 \begin_layout Enumerate
@@ -2301,7 +2686,12 @@ lorica squamata
 \emph on
 thorax
 \emph default
- in ferro
+ in ferro: una squamata corta può essere ordinata a Hyria—Opus Manuum Artificis
+ per circa €
+\begin_inset space \thinspace{}
+\end_inset
+
+500 (da contrattare), la thorax in ferro è realizzata dai fratelli Pustelak;
 \end_layout
 
 \begin_layout Enumerate
@@ -2309,7 +2699,15 @@ thorax
 \emph on
 ocrea
 \emph default
- in ottone
+ in ottone: semplici da Casa del recreador e Kayserstuhl, €
+\begin_inset space \thinspace{}
+\end_inset
+
+90, migliori da Res Bellica (€
+\begin_inset space \thinspace{}
+\end_inset
+
+168);
 \end_layout
 
 \begin_layout Enumerate
@@ -2317,15 +2715,8 @@ ocrea
 \emph on
 linea/camisia
 \emph default
- (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata)
-\end_layout
-
-\begin_layout Enumerate
-
-\emph on
-cingulum
-\emph default
- nero o rosso con finimenti bronzo o argento
+ (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata):
+ sentire Alessandra Venditti.
 \end_layout
 
 \end_body
