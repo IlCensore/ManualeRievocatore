@@ -134,7 +134,7 @@ Vademecum del rievocatore romano tardoimperiale
 \end_layout
 
 \begin_layout Address
-Versione 0.4 – 20 dicembre 2018
+Versione 0.4 – 21 dicembre 2018
 \end_layout
 
 \begin_layout Standard
@@ -402,8 +402,12 @@ indicelemmi
 
 fasce crurali strette
 \emph default
-, tipo fasce mollettiere, né i pantaloni corti sotto il ginocchio.
- I pantaloni «tipo Thorsberg» sono disponibili da Medievaldesign, con piede
+, tipo fasce mollettiere, né i pantaloni corti sotto il ginocchio da soli,
+ ma solo in congiunzione con le fasce crurali larghe.
+\end_layout
+
+\begin_layout Standard
+I pantaloni «tipo Thorsberg» sono disponibili da Medievaldesign, con piede
  («Calzoni tipo Thorsberg», €109) oppure senza piede («Thorsberg (senza
  piede)», €99).
  Sempre Medievaldesign realizza le fasce crurali tipo Sogaards Mose («Fasce
@@ -1232,9 +1236,13 @@ Ci sono tre tipologie di elmi adatti alla prima metà del
 iv
 \noun default
  secolo; i 
-\emph on
+\begin_inset Quotes fld
+\end_inset
+
 ridgehelm
-\emph default
+\begin_inset Quotes frd
+\end_inset
+
  tipo 
 \begin_inset ERT
 status open
@@ -1254,12 +1262,16 @@ indicelemmi
 \begin_inset space ~
 \end_inset
 
+Intercisa
+\emph default
+, i 
+\begin_inset Quotes fld
+\end_inset
 
-\emph default
-Intercisa, i 
-\emph on
 ridgehelm
-\emph default
+\begin_inset Quotes frd
+\end_inset
+
  tipo 
 \begin_inset ERT
 status open
@@ -1279,9 +1291,9 @@ indicelemmi
 \begin_inset space ~
 \end_inset
 
-
+Berkasovo
 \emph default
-Berkasovo e una tipologia di 
+ e una tipologia di 
 \begin_inset ERT
 status open
 
@@ -1322,8 +1334,8 @@ a/Worms) o in ferro con una copertura in bronzo o argento dorato, talvolta
 
 \begin_layout Standard
 La Deepeeka realizza tre riproduzioni accettabili degli elmi tipo Intercisa,
- in ferro, due con decorazioni apotropaiche a stampa una con la cresta di
- metallo,
+ in ferro, due con decorazioni apotropaiche a stampa e una con la cresta
+ di metallo,
 \begin_inset Foot
 status collapsed
 
@@ -1527,7 +1539,13 @@ url{https://www.res-bellica.com/shop/spangenhelm-tipo-leiden-2/}
 
 \end_inset
 
+ Per elmi di livello superiore ci si può rivolgere ad alcuni artigiani europei:
+ Kvetun Armory realizza elmi Intercisa in ferro, con cresta metallica, a
+ €
+\begin_inset space \thinspace{}
+\end_inset
 
+250; i fratelli Pustelak realizzano ottimi elmi a prezzi più alti.
 \end_layout
 
 \begin_layout Subsection
@@ -1535,15 +1553,7 @@ Armatura
 \end_layout
 
 \begin_layout Standard
-Le armature più diffuse in epoca tardoantica sono l’
-\emph on
-hamata
-\emph default
- e la 
-\emph on
-squamata
-\emph default
-.
+Le armature più diffuse in epoca tardoantica sono l’hamata e la squamata.
  La 
 \begin_inset ERT
 status open
@@ -1593,7 +1603,7 @@ lorica squamata
  poteva avere squame di ferro (per i soldati semplici) o di ottone (veterani
  e ufficiali), era lunga fino alle cosce e aveva le maniche; anche questa
  si può portare corta alla vita per gli ufficiali.
- Sempre gli ufficiali potevano portare l’equivalente tardoantico della 
+ Sempre gli ufficiali potevano portare la 
 \begin_inset ERT
 status open
 
@@ -1612,9 +1622,13 @@ indicelemmi
 \begin_inset space ~
 \end_inset
 
-muscolata
+thorax
 \emph default
-.
+, l’equivalente tardoantico della
+\emph on
+ 
+\emph default
+muscolata.
  A protezione della testa è talvolta attestato un 
 \begin_inset ERT
 status open
@@ -1813,7 +1827,8 @@ Armae ce l'ha a €
 
 \end_inset
 
- Altri modelli di spatha e di coltelli vanno commissionati agli artigiani.
+ Altri modelli di spatha e di coltelli vanno commissionati agli artigiani,
+ tra cui possiamo citare Pierpaolo Sierchovic.
 \end_layout
 
 \begin_layout Subsection
@@ -1821,7 +1836,7 @@ Armi lunghe e da getto
 \end_layout
 
 \begin_layout Standard
-Armi lunghe e da getto L’arma principale del fante romano è 
+L’arma principale del fante romano è 
 \begin_inset ERT
 status open
 
@@ -1846,16 +1861,8 @@ l’
 \emph on
 hasta
 \emph default
-, che detta 
-\emph on
-contus
-\emph default
- o 
-\emph on
-kontos
-\emph default
-, una lancia da fante lunga, con la lama a foglia, impugnata sotto mano
- e usata insieme allo scudo.
+, che detta contus o kontos, una lancia da fante lunga, con la lama a foglia,
+ impugnata sotto mano e usata insieme allo scudo.
  Della panoplia facevano parte anche diversi tipi di giavellotti, 
 \begin_inset ERT
 status open
@@ -2234,7 +2241,7 @@ elmo in ferro: il Leiden (€
 \begin_inset space \thinspace{}
 \end_inset
 
-80 da Res Bellica) o l'Intecisa Augst (€109 da Via Temporis, €
+80 da Res Bellica) o, meglio, l'Intecisa Augst (€109 da Via Temporis, €
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -2250,7 +2257,8 @@ Pedes
 \end_layout
 
 \begin_layout Standard
-Per chi non vuole o non può portare un'armatura pesante.
+Per chi non vuole o non può portare un'armatura pesante; è dotato di armi
+ da getto.
 \end_layout
 
 \begin_layout Enumerate
@@ -2338,8 +2346,8 @@ francisca
 \emph on
 sagum
 \emph default
- color crema o rosso, frange o strisce colorate opzionali, con relativa
- fibula: sentire Alessandra Venditti;
+ fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
+ sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2470,8 +2478,8 @@ spatha
 \emph on
 sagum
 \emph default
- color crema o rosso, frange o strisce colorate opzionali, con relativa
- fibula: sentire Alessandra Venditti;
+ fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
+ sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2523,7 +2531,7 @@ squamata
 \begin_inset space \thinspace{}
 \end_inset
 
-300, ma state col fiato addosso al venditore.
+300, ma state col fiato sul collo del venditore.
  Una squamata corta può essere ordinata a Hyria—Opus Manuum Artificis per
  circa €
 \begin_inset space \thinspace{}
@@ -2626,7 +2634,7 @@ cingulum
 \emph on
 spatha
 \emph default
-: Pier Paolo Sierchovich la realizza artigianalmente;
+: Pier Paolo Sierchovic la realizza artigianalmente;
 \end_layout
 
 \begin_layout Enumerate
@@ -2634,7 +2642,7 @@ spatha
 \emph on
 sagum
 \emph default
- color crema o rosso, con frange e/o strisce colorate, oppure 
+ fulvo o rosso, con frange e/o strisce colorate, oppure 
 \emph on
 chlamys
 \emph default
@@ -2645,10 +2653,12 @@ chlamys
 
 \emph on
 pileus
+\emph default
+;
 \end_layout
 
 \begin_layout Enumerate
-elmo ricoperto in ottone: sentire i fratelli Pustelak, Adam Maziar
+elmo ricoperto in ottone: sentire i fratelli Pustelak, Adam Maziar;
 \end_layout
 
 \begin_layout Enumerate
@@ -2657,7 +2667,7 @@ elmo ricoperto in ottone: sentire i fratelli Pustelak, Adam Maziar
 tunica militaris
 \emph default
  (ha decorazioni se si usa la lorica corta, con lorica lunga non servono)
- colore verde o blu o rosso: sentire Alessandra Venditti.
+ colore verde o blu o rosso: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2674,7 +2684,7 @@ pteryges
 pteryges
 \emph default
  per gli ufficiali, possibilmente bianchi con frange): sentire Alessandra
- Venditti.
+ Venditti;
 \end_layout
 
 \begin_layout Enumerate
