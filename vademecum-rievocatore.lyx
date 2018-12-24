@@ -6,7 +6,12 @@
 \origin unavailable
 \textclass article
 \begin_preamble
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{fontspec}
+\renewcommand{\LettrineFontHook}{\fontfamily{Rustic Capitals}\fontsize{10}{12}\selectfont} 
 \newfontfamily\CapitaleRustica{Rustic Capitals}
+%\newfontfamily\CapitaleRustica{Adobe Jenson Pro}
+
 %% indice lemmi
 \newfontfamily\fontindicelemmi{EB Garamond}
 \newcommand\indicelemmi{
@@ -18,13 +23,16 @@
 \frenchspacing
 \end_preamble
 \use_default_options true
+\begin_modules
+initials
+\end_modules
 \maintain_unincluded_children false
 \language italian
 \language_package default
 \inputencoding auto
 \fontencoding global
 \font_roman "default" "Cochineal"
-\font_sans "default" "Alegreya"
+\font_sans "default" "Adobe Jenson Pro"
 \font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -101,6 +109,10 @@
 \begin_layout Author
 
 \family sans
+Custodes Urbis
+\end_layout
+
+\begin_layout Title
 \begin_inset ERT
 status open
 
@@ -108,33 +120,112 @@ status open
 
 {
 \backslash
-CapitaleRustica Custodes Urbis}
+CapitaleRustica
+\backslash
+fontsize{0.9cm}{1.32cm}
+\backslash
+selectfont 
 \end_layout
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Title
-
-\family sans
 \color red
 Fulgentibus Armis
-\family default
+\color inherit
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\color red
 
 \begin_inset Newline newline
 \end_inset
 
 
+\family sans
 \size large
 \emph on
 \color inherit
-Vademecum del rievocatore romano tardoimperiale
+Vademecum del rievocatore militare romano tardoimperiale
 \end_layout
 
 \begin_layout Address
-Versione 0.4 – 21 dicembre 2018
+Versione 0.4 – 24 dicembre 2018
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica 
+\end_layout
+
+\end_inset
+
+Q
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+uesto
+\end_layout
+
+\end_inset
+
+ documento è una breve raccolta di indicazioni per ricostruire la figura
+ di un 
+\emph on
+pedes
+\emph default
+, un soldato di fanteria dell'esercito romano del Tardo impero; in particolare
+ questo vademecum, compilato a uso degli associati dei Custodes Urbis, è
+ pensato per un soldato degli 
+\emph on
+auxilia palatina
+\emph default
+ dei 
+\emph on
+Cornuti seniores
+\emph default
+, e mira a ricostruire abbigliamento e panoplia delgli anni '10 e '20 del
+ 
+\noun on
+iv
+\noun default
+ secolo.
 \end_layout
 
 \begin_layout Standard
@@ -150,8 +241,50 @@ LatexCommand tableofcontents
 Abbigliamento
 \end_layout
 
-\begin_layout Standard
-L’abbigliamento si può dividere concettualmente in abbigliamento per tutti
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica 
+\end_layout
+
+\end_inset
+
+L
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+'abbigliamento
+\end_layout
+
+\end_inset
+
+ del soldato si può dividere concettualmente in abbigliamento per tutti
  i giorni e in abbigliamento da battaglia; sebbene vi potessero essere contesti
  in cui si utilizzavano altri abiti (ad esempio, quando si svolgevano lavori
  fisici), queste due tipologie sono le principali.
@@ -228,7 +361,7 @@ segmenta
 \begin_layout Standard
 Le migliori tuniche già pronte sono quelle realizzate da Medievaldesign;
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -259,7 +392,7 @@ In alternativa è possibile farsi realizzare una tunica da una sarta; è possibi
  che Medievaldesign venda solo le decorazioni, gliamento per tutti i giorni
  e in abbigliamento da battaglia; ma anche Valeria Corvina
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -357,7 +490,7 @@ anaxyrides
  scuro, grigio scuro), sebbene alcuni ufficiali portino i pantaloni fulvi
  e persino bianchi.
  Questi pantaloni devono essere molto stretti sulla gamba, senza essere
- attillati.
+ attillati, cercando di non far produrre pieghe.
  È possibile non portare i pantaloni, e andare a gambe nude; in alternativa
  si possono portare delle 
 \begin_inset ERT
@@ -380,8 +513,9 @@ indicelemmi
 
 fasce crurali larghe
 \emph default
-, «tipo Sogaards Mose» (sono attestate blu con i lacci rossi); seppur attestati,
- non sembrano diffusi tra i soldati le 
+, «tipo Sogaards Mose» (sono attestate blu con i lacci rossi), preferibilmente
+ indossate sopra dei pantaloni lunghi appena sotto il ginocchio; seppur
+ attestate, non sembrano molto diffuse tra i soldati le 
 \begin_inset ERT
 status open
 
@@ -402,8 +536,7 @@ indicelemmi
 
 fasce crurali strette
 \emph default
-, tipo fasce mollettiere, né i pantaloni corti sotto il ginocchio da soli,
- ma solo in congiunzione con le fasce crurali larghe.
+, tipo fasce mollettiere, e il loro uso deve essere quindi molto limitato.
 \end_layout
 
 \begin_layout Standard
@@ -517,8 +650,8 @@ indicelemmi
 carbatinae
 \emph default
  (un soldato si poteva permettere scarpe migliori).
- Le scarpe sono in cuoio di colore naturale, nero o, per gli ufficiali,
- rosso.
+ Le scarpe sono in cuoio di colore naturale, o ancora meglio marrone scuro;
+ scarpe nere o, più raramente, rosse sono attestate per gli ufficiali.
  È attestato l’uso di 
 \begin_inset ERT
 status open
@@ -540,7 +673,8 @@ indicelemmi
 
 udones
 \emph default
- in pelle e in lana, in quest’ultimo caso anche multicolori.
+ in pelle e in tessuto, cuciti aderenti al piede, o in lana, in quest’ultimo
+ caso anche multicolori, realizzati con tecnica nålebinding.
 \end_layout
 
 \begin_layout Standard
@@ -597,8 +731,8 @@ url{https://www.facebook.com/oficinaavitiana/}
 \end_inset
 
  e verificare se hanno modelli di scarpe tardoimperiali disponibili.
- Più economici e apparentemente altrettanto accettabili sono i calcei disponibil
-i da Kayserstuhl.de (
+ Più economici e apparentemente accettabili sono i calcei disponibili da
+ Kayserstuhl.de (
 \begin_inset Quotes fld
 \end_inset
 
@@ -642,7 +776,8 @@ url{http://www.kayserstuhl.de/altertum_gewandung.htm}
 \begin_inset space \thinspace{}
 \end_inset
 
-70 Le sorelle Busatta e molti altri vendono gli udones in lana.
+70.
+ Le sorelle Busatta e molti altri vendono gli udones in lana.
 \end_layout
 
 \begin_layout Subsection
@@ -673,16 +808,18 @@ indicelemmi
 
 cingulum
 \emph default
- diffusa nella prima metà del IV secolo è quella stretta, con fibbia che
- è montata a un’estremità della cintura, rinforzata con dei finimenti a
- elica (da sei a otto) e terminante con un puntale; questi finimenti sono
+ militare diffusa nella prima metà del IV secolo è quella stretta, con fibbia
+ che è montata a un’estremità della cintura, rinforzata con dei finimenti
+ a elica (da sei a otto) e terminante con un puntale; questi finimenti sono
  realizzati in lega di rame, argento o oro, e sono estremamente caratteristici
  (ovvero non è possibile sostituirli con altri differenti).
  Il 
 \emph on
 cingulum
 \emph default
- era realizzato con cuoio rosso, nero o naturale.
+ era normalmente realizzato con cuoio naturale o preferibilmente marrone
+ scuro (era scurito tramite inceratura o bollitura), ma gli ufficiali e
+ i veterani sono incoraggiati a usare cuoio rosso.
  
 \end_layout
 
@@ -775,8 +912,8 @@ pileus pannonicus
 \emph default
 , un semplice berretto cilindrico, in lana, lino, pelle o pelliccia, solitamente
  senza decorazioni se non un bordo di colore differente.
- È possibile indossare berretti di altra foggia, ma prima va verificato
- il loro uso nel nostro periodo.
+ È possibile indossare berretti di altra foggia, come il pileus a punta
+ e il berretto frigio, ma prima va verificato il loro uso nel nostro periodo.
 \end_layout
 
 \begin_layout Standard
@@ -811,13 +948,16 @@ indicelemmi
 
 sagum
 \emph default
-, rettangolare e grande (fino a tre metri per uno e mezzo).
- Di lana (ma è possibile anche di lino), solitamente è in tinta unita, rosso
- o fulvo, oppure con una o due strisce di colore differente vicino ai bordi
+, rettangolare e grande (fino a tre metri per uno e mezzo); indicativamente
+ deve essere largo quanto le braccia distese e alto a sufficienza per coprire
+ dalle spalle a metà caviglia (eventualmente può essere piegato a metà nel
+ senso della lunghezza).
+ In lana (più raramente in lino), solitamente è in tinta unita, rosso o
+ fulvo, oppure con una o due strisce di colore differente vicino ai bordi
  corti (rosse sul mantello fulvo), spesso sfrangiato; alcuni ufficiali indossano
  un sagum fulvo, con quattro enormi orbiculae decorate a contrasto (blu
  scuro o porpora).
- Il mantello da alti ufficiali è la 
+ Il mantello tipico degli alti ufficiali è la 
 \begin_inset ERT
 status open
 
@@ -858,7 +998,7 @@ ni, o acquistare il tessuto in lana (possibilmente intessuto a mano).
 \begin_layout Standard
 Per la fibula a balestra bisogna rivolgersi a un orefice (Bernardo Pettorossi
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -880,7 +1020,7 @@ url{https://www.facebook.com/bernardo.pettorossi}
 
  ne realizza in lega di rame e placcate in argento di ottima fattura) o
  a qualche altro artigiano, italiano o straniero.
- Attenzione, perché anche le fibule a balestra sono estremamente variabili
+ Attenzione, perché anche lo stile delle fibule a balestra cambia drasticamente
  da periodo a periodo, si consiglia di contattarci prima di fare acquisti.
 \end_layout
 
@@ -1021,9 +1161,51 @@ Medievaldesign vende un cucullus («Cucullus», €39).
 Panoplia
 \end_layout
 
-\begin_layout Standard
-Quella della panoplia tardoimperiale è una tematica estremamente vasta e
- la trattazione che segue è estremamente sommaria per questioni di concisione.
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica 
+\end_layout
+
+\end_inset
+
+Q
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+uella
+\end_layout
+
+\end_inset
+
+ della panoplia tardoimperiale è una tematica estremamente vasta e la trattazion
+e che segue è estremamente sommaria per questioni di concisione.
 \end_layout
 
 \begin_layout Subsection
@@ -2088,9 +2270,10 @@ indicelemmi
 scutum
 \emph default
  tardoimperiale può essere ovale o tondo, piatto o a scodella (allo stato
- attuale non è possibile escludere nessuna delle possibili combinazioni);
- per uniformità di gruppo si preferiscono gli scudi ovali piatti, ma anche
- le altre forme sono accettabili.
+ attuale non è possibile escludere nessuna delle possibili combinazioni),
+ ma non cilindrici, ovvero curvi lungo una sola direzione (tipo lo scutum
+ imperiale, per intenderci); per uniformità di gruppo si preferiscono gli
+ scudi ovali piatti, ma anche le altre forme sono accettabili.
  Le dimensioni sono tra i 90 e 100
 \begin_inset space \thinspace{}
 \end_inset
@@ -2135,7 +2318,7 @@ url{http://www.fectio.org.uk/articles/makescutum.htm}
  con una variante dell’episema dei Cornuti Seniores così come attestato
  dalla Notitia Dignitatum.
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -2162,15 +2345,57 @@ url{http://lukeuedasarson.com/NDcornutiSeniores.html}
 Ordine di precedenza nell'acquisto dell'equipaggiamento
 \end_layout
 
-\begin_layout Standard
-Una volta ottenuto l'equipaggiamento base si può scegliere una delle tre
- figure e farsi passo passo quella panoplia; un pedes leggero può avere
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica 
+\end_layout
+
+\end_inset
+
+U
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+na
+\end_layout
+
+\end_inset
+
+ volta ottenuto l'equipaggiamento da tirone, si può scegliere una delle
+ tre figure e farsi passo passo quella panoplia; un pedes leggero può avere
  elementi della panoplia del pedes pesante e quello pesante elementi della
  panoplia di un ufficiale, ma non l’inverso, se non temporaneamente.
 \end_layout
 
 \begin_layout Subsection
-Equipaggiamento base
+Equipaggiamento da tirone
 \end_layout
 
 \begin_layout Enumerate
@@ -2241,11 +2466,24 @@ elmo in ferro: il Leiden (€
 \begin_inset space \thinspace{}
 \end_inset
 
-80 da Res Bellica) o, meglio, l'Intecisa Augst (€109 da Via Temporis, €
+80 da Res Bellica) o, meglio, l'Intecisa Augst (€
 \begin_inset space \thinspace{}
 \end_inset
 
-115 da Res Bellica).
+109 da Via Temporis, €
+\begin_inset space \thinspace{}
+\end_inset
+
+115 da Res Bellica);
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+sagum
+\emph default
+: va bene anche semplice, in lana, colori naturali; da chiudere con fibula
+ a omega.
 \end_layout
 
 \begin_layout Subsection
@@ -2355,7 +2593,11 @@ sagum
 \emph on
 pileus
 \emph default
-: sentire Alessandra Venditti;
+: Alessandra Venditti oppure Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+35);
 \end_layout
 
 \begin_layout Enumerate
@@ -2457,7 +2699,7 @@ carbatinae
 \emph on
 cingulum
 \emph default
- marrone o nero, con finimenti in bronzo.
+ marrone scuro, con finimenti in bronzo.
  I finimenti sono prodotti da Suhel Subani;
 \end_layout
 
@@ -2487,7 +2729,11 @@ sagum
 \emph on
 pileus
 \emph default
-: sentire Alessandra Venditti;
+: Alessandra Venditti oppure Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+35);
 \end_layout
 
 \begin_layout Enumerate
@@ -2617,7 +2863,8 @@ pantaloni scuri, oppure fulvi o bianchi (per il comandante).
 \end_layout
 
 \begin_layout Enumerate
-calcei o campagi, neri o rossi: Medievaldesign oppure Graziano dal Barco
+calcei o campagi, neri, oppure rossi per il comandante: Medievaldesign oppure
+ Graziano dal Barco
 \end_layout
 
 \begin_layout Enumerate
@@ -2625,7 +2872,7 @@ calcei o campagi, neri o rossi: Medievaldesign oppure Graziano dal Barco
 \emph on
 cingulum
 \emph default
- nero o rosso con finimenti bronzo o argento.
+ rosso con finimenti bronzo o argento.
  I finimenti sono prodotti da Suhel Subani;
 \end_layout
 
@@ -2634,7 +2881,8 @@ cingulum
 \emph on
 spatha
 \emph default
-: Pier Paolo Sierchovic la realizza artigianalmente;
+: Pier Paolo Sierchovic la realizza artigianalmente, non economico ma molto,
+ molto bravo;
 \end_layout
 
 \begin_layout Enumerate
@@ -2654,7 +2902,11 @@ chlamys
 \emph on
 pileus
 \emph default
-;
+: Alessandra Venditti oppure Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+35);
 \end_layout
 
 \begin_layout Enumerate
@@ -2727,6 +2979,60 @@ linea/camisia
 \emph default
  (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata):
  sentire Alessandra Venditti.
+\end_layout
+
+\begin_layout Section
+Equipaggiamento sconsigliato o non ammesso
+\end_layout
+
+\begin_layout Description
+Borse È preferibile non portare borse o bisacce, a meno che non si ricopra
+ un ruolo particolare e si necessiti di quel preciso contenitore (per esempio,
+ faretre per chi usa le plumbate, porta-tavolette per il domesticus, eccetera).
+ Quando non è possibile lasciare oggetti moderni in luoghi sicuri, si preferisca
+no borse con chiusura a cordoncino non più grandi di un pugno, da tenere
+ legate alla cintura, o, se si opta per borse a tascapane da agganciare
+ alla cintura, che siano in cuoio e con i finimenti del periodo; in ogni
+ caso devono essere tenute nascoste dal mantello (per quanto possibile non
+ devono apparire nelle foto).
+\end_layout
+
+\begin_layout Description
+Guanti,
+\begin_inset space ~
+\end_inset
+
+protezioni
+\begin_inset space ~
+\end_inset
+
+per
+\begin_inset space ~
+\end_inset
+
+polsi
+\begin_inset space ~
+\end_inset
+
+e
+\begin_inset space ~
+\end_inset
+
+avambracci Non sono normalmente accettati.
+ l'unica eccezione è in occasione di un combattimento: si possono indossare
+ guanti in cuoio spesso, semplici e non moderni, e protezioni per polso
+ e avambraccio, da indossare rigorosamente sotto le maniche della tunica;
+ entrambi vanno tolti subito dopo il combattimento.
+\end_layout
+
+\begin_layout Description
+Pelliccia L'unico indumento in pelliccia ammesso è il pileus pannonicus.
+ Altri indumenti o pezzi di equipaggiamento di pelliccia non sono accettati.
+\end_layout
+
+\begin_layout Description
+Tessuti Gli unici tessuti accettati sono lino, lana e seta cruda.
+ I tessuti neri, anche se usati come decorazioni, non sono accettati.
 \end_layout
 
 \end_body
