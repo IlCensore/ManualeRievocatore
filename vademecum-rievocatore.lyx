@@ -159,7 +159,7 @@ Vademecum del rievocatore militare romano tardoimperiale
 \end_layout
 
 \begin_layout Address
-Versione 0.4 – 24 dicembre 2018
+Versione 0.4 – 27 dicembre 2018
 \end_layout
 
 \begin_layout Initial
@@ -1155,6 +1155,116 @@ alicula
 
 \begin_layout Standard
 Medievaldesign vende un cucullus («Cucullus», €39).
+\end_layout
+
+\begin_layout Subsection
+Nota sui colori
+\end_layout
+
+\begin_layout Standard
+Lino e lana sono fibre naturali, che quando filate e tessute danno una certa
+ varietà di colori, appunto, naturali, che vanno dal grigio, al nocciola
+ chiaro al bianco sporco; tutti gli altri colori devono essere ottenuti
+ tramite un processo di tintura, che prevede l'uso di un colorante naturale
+ (di origine vegetale, minerale o animale) e di un fissante (mordente).
+ Siamo abituati ai tessuti del nostro mondo, in cui i coloranti sintetici
+ sono ampiamente disponibili ed economici, ma la realtà dell'epoca antica
+ era che colorare un tessuto richiedeva tempo e coloranti più o meno costosi
+ (basti pensare al costo della porpora), in grado di dare una paletta di
+ colori ampia ma non arbitraria come quella attuale.
+ Pertanto nella scelta dei colori bisogna tenere conto dell'evidenza dei
+ resti materiali e iconografici, ma anche del costo dell'operazione di tintura
+ e dei colori ottenibili.
+\end_layout
+
+\begin_layout Standard
+Fermo restando le indicazioni date in precedenza sui possibili colori per
+ le varie parti dell'abbigliamento, presentiamo qui di seguito una progressione
+ dei colori ottenibili tramite tintura secondo un costo crescente; la scelta
+ del colore dovrà quindi tenere conto anche del rango sociale e della disponibil
+ità economica del personaggio ricostruito.
+ Va da sé che il colore più costoso poteva essere più frequentemente usato
+ per le decorazioni di una tunica piuttosto che come suo colore 
+\begin_inset Quotes fld
+\end_inset
+
+base
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+Colori naturali
+\emph default
+: il tessuto in lino non trattato può variare da un grigio medio a un color
+ sabbia, a un marrone molto chiaro a un bianco sporco; la lana può variare
+ dal bruno al bianco sporco, oltre ad avere le tonalità del grigio.
+ In linea di principio era possibile selezionare lane particolarmente bianche,
+ ma il tessuto che ne derivava era solitamente molto costoso;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+giallo, verde muschio
+\emph default
+: sono colorazioni vegetali relativamente economiche, ma che tendevano a
+ scolorire rapidamente (specie se usate col lino);
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+lino sbiancato, da rosa a rosso chiaro, russet (marrone rossastro), grigio-blu
+\emph default
+: il rosso in questione è un rosso tendente all'arancione;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+rossi e blu più forti
+\emph default
+: richiedevano una quantità di colorante maggiore ed erano più costosi;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+viola
+\emph default
+: era ottenuto combinando colorante rosso e blu, e pertanto era alquanto
+ costoso.
+ Poteva essere usato per sostituire il più costoso e ricercato porpora;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+verde brillante
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+rosso cremisi
+\emph default
+;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+porpora
+\emph default
+: come colore principale era riservato agli alti ufficiali, se non esclusivament
+e all'imperatore.
 \end_layout
 
 \begin_layout Section
@@ -2483,7 +2593,17 @@ elmo in ferro: il Leiden (€
 sagum
 \emph default
 : va bene anche semplice, in lana, colori naturali; da chiudere con fibula
- a omega.
+ a omega;
+\end_layout
+
+\begin_layout Enumerate
+fasce crurali (fintanto che non si prendono i pantaloni), in vendita da
+ diversi artigiani, Mikhail Starikov ne produce di diversi colori, tessute
+ a mano e colorate naturalmente, circa €
+\begin_inset space \thinspace{}
+\end_inset
+
+35.
 \end_layout
 
 \begin_layout Subsection
@@ -2497,16 +2617,6 @@ Pedes
 \begin_layout Standard
 Per chi non vuole o non può portare un'armatura pesante; è dotato di armi
  da getto.
-\end_layout
-
-\begin_layout Enumerate
-fasce crurali (se non si intende prendere i pantaloni), in vendita da diversi
- artigiani, Mikhail Starikov ne produce di diversi colori, tessute a mano
- e colorate naturalmente, circa €
-\begin_inset space \thinspace{}
-\end_inset
-
-35;
 \end_layout
 
 \begin_layout Enumerate
@@ -2548,6 +2658,33 @@ segmentae
 \end_layout
 
 \begin_layout Enumerate
+pantaloni scuri: sentire Alessandra Venditti, oppure Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+109);
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+cingulum
+\emph default
+ marrone scuro, con finimenti in bronzo.
+ I finimenti sono prodotti da Suhel Subani;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+sagum
+\emph default
+ fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
+ sentire Alessandra Venditti per il sagum, come fibula va bene una a omega,
+ ma sarebbe meglio a balestra (le realizza Bernardo Pettorossi);
+\end_layout
+
+\begin_layout Enumerate
 una o più armi da getto: 
 \emph on
 plumbatae
@@ -2577,15 +2714,6 @@ arcuballista
 francisca
 \emph default
 ;
-\end_layout
-
-\begin_layout Enumerate
-
-\emph on
-sagum
-\emph default
- fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
- sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2622,15 +2750,6 @@ spatha
 \end_layout
 
 \begin_layout Enumerate
-pantaloni scuri (opzionali): sentire Alessandra Venditti, oppure Medievaldesign
- (€
-\begin_inset space \thinspace{}
-\end_inset
-
-109);
-\end_layout
-
-\begin_layout Enumerate
 
 \emph on
 linea
@@ -2653,6 +2772,19 @@ Pedes
 
 \begin_layout Standard
 Per chi vuole e può portare un'armatura pesante.
+\end_layout
+
+\begin_layout Enumerate
+calcei (da Mario Rossetti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+70) o campagi (sentire Officina Avitiana, altrimenti Medievaldesign) o comunque
+ scarpe che non siano 
+\emph on
+carbatinae
+\emph default
+, in colori naturali;
 \end_layout
 
 \begin_layout Enumerate
@@ -2682,25 +2814,22 @@ pantaloni scuri: sentire Alessandra Venditti, oppure Medievaldesign (€
 \end_layout
 
 \begin_layout Enumerate
-calcei (da Mario Rossetti, €
-\begin_inset space \thinspace{}
-\end_inset
-
-70) o campagi (sentire Officina Avitiana, altrimenti Medievaldesign) o comunque
- scarpe che non siano 
-\emph on
-carbatinae
-\emph default
-, in colori naturali;
-\end_layout
-
-\begin_layout Enumerate
 
 \emph on
 cingulum
 \emph default
  marrone scuro, con finimenti in bronzo.
  I finimenti sono prodotti da Suhel Subani;
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+sagum
+\emph default
+ fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
+ sentire Alessandra Venditti per il sagum, come fibula va bene una a omega,
+ ma sarebbe meglio a balestra (le realizza Bernardo Pettorossi);
 \end_layout
 
 \begin_layout Enumerate
@@ -2716,12 +2845,19 @@ spatha
 \end_layout
 
 \begin_layout Enumerate
+elmo in ferro o ottone: tipologia Burgh Castle (Armae €
+\begin_inset space \thinspace{}
+\end_inset
 
-\emph on
-sagum
-\emph default
- fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
- sentire Alessandra Venditti;
+139) o Deir el-Medina (Celticwebmerchant €
+\begin_inset space \thinspace{}
+\end_inset
+
+144), oppure Coblenza (Armae €
+\begin_inset space \thinspace{}
+\end_inset
+
+229);
 \end_layout
 
 \begin_layout Enumerate
@@ -2840,13 +2976,18 @@ Vessillifero, draconario, ufficiale comandante.
 \end_layout
 
 \begin_layout Enumerate
+calcei o campagi, neri, oppure rossi per il comandante: Medievaldesign oppure
+ Graziano dal Barco
+\end_layout
+
+\begin_layout Enumerate
 
 \emph on
 tunica manicata
 \emph default
- decorata (lino o lana, bianca con decorazioni copte obbligatorie, preferibilmen
-te porpora o blu scuro), preferibilmente molto larga ai fianchi: il modello
- IV-V secolo di Medievaldesign viene €
+ decorata (bianca, con decorazioni copte preferibilmente porpora o blu scuro),
+ possibilmente molto larga ai fianchi: il modello IV-V secolo di Medievaldesign
+ viene €
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -2860,11 +3001,6 @@ pantaloni scuri, oppure fulvi o bianchi (per il comandante).
 \end_inset
 
 109);
-\end_layout
-
-\begin_layout Enumerate
-calcei o campagi, neri, oppure rossi per il comandante: Medievaldesign oppure
- Graziano dal Barco
 \end_layout
 
 \begin_layout Enumerate
