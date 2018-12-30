@@ -6,11 +6,23 @@
 \origin unavailable
 \textclass article
 \begin_preamble
-\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[x11names]{xcolor}
 \usepackage{fontspec}
-\renewcommand{\LettrineFontHook}{\fontfamily{Rustic Capitals}\fontsize{10}{12}\selectfont} 
 \newfontfamily\CapitaleRustica{Rustic Capitals}
+%\newfontfamily\CapitaleRustica{Arno Pro}
+\renewcommand{\LettrineFontHook}{\CapitaleRustica\color{Red3}} 
 %\newfontfamily\CapitaleRustica{Adobe Jenson Pro}
+
+
+%\newfontfamily\titleFont{\color{Red3}\CapitaleRustica\fontsize{0.9cm}{1.32cm}}
+
+%% colore sezioni
+%\usepackage{xcolor}
+\usepackage{sectsty}
+\subsectionfont{\color{Red3}}  % sets colour of chapters
+\sectionfont{\color{Red3}}  % sets colour of sections
+
+
 
 %% indice lemmi
 \newfontfamily\fontindicelemmi{EB Garamond}
@@ -31,8 +43,8 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Cochineal"
-\font_sans "default" "Adobe Jenson Pro"
+\font_roman "default" "Arno Pro"
+\font_sans "default" "Arno Pro"
 \font_typewriter "default" "FreeMono"
 \font_math "auto" "auto"
 \font_default_family default
@@ -120,6 +132,8 @@ status open
 
 {
 \backslash
+color{Red3}
+\backslash
 CapitaleRustica
 \backslash
 fontsize{0.9cm}{1.32cm}
@@ -129,11 +143,7 @@ selectfont
 
 \end_inset
 
-
-\color red
 Fulgentibus Armis
-\color inherit
-
 \begin_inset ERT
 status open
 
@@ -159,7 +169,28 @@ Vademecum del rievocatore militare romano tardoimperiale
 \end_layout
 
 \begin_layout Address
-Versione 0.4 – 27 dicembre 2018
+Versione 0.5 – 29 dicembre 2018
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+0.5 – Nella sequenza di armi da prendere per fante leggero, precisato che
+ va scelto tra uno o due 
+\emph on
+verruta
+\emph default
+ e l'arco.
+ Aggiunto il riferimento ad Alessandra Venditti per la 
+\emph on
+linea
+\emph default
+.
+ Aggiunti alcuni prezzi.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Initial
@@ -167,30 +198,7 @@ Versione 0.4 – 27 dicembre 2018
 status open
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\backslash
-CapitaleRustica 
-\end_layout
-
-\end_inset
-
 Q
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -220,7 +228,7 @@ auxilia palatina
 \emph on
 Cornuti seniores
 \emph default
-, e mira a ricostruire abbigliamento e panoplia delgli anni '10 e '20 del
+, e mira a ricostruire abbigliamento e panoplia degli anni '10 e '20 del
  
 \noun on
 iv
@@ -246,30 +254,7 @@ Abbigliamento
 status open
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\backslash
-CapitaleRustica 
-\end_layout
-
-\end_inset
-
 L
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -456,6 +441,14 @@ linea
  è generalmente nascosta, e la sua presenza è quindi opzionale.
  Va da sé che magliette moderne (t-shirt o maglie interne) non devono essere
  visibili (e preferibilmente non vanno indossate).
+\end_layout
+
+\begin_layout Standard
+Alessandra Venditti è in grado di realizzare una linea per €
+\begin_inset space \thinspace{}
+\end_inset
+
+55.
 \end_layout
 
 \begin_layout Subsection
@@ -1276,30 +1269,7 @@ Panoplia
 status open
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\backslash
-CapitaleRustica 
-\end_layout
-
-\end_inset
-
 Q
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -2120,7 +2090,15 @@ Armae ce l'ha a €
 \end_inset
 
  Altri modelli di spatha e di coltelli vanno commissionati agli artigiani,
- tra cui possiamo citare Pierpaolo Sierchovic.
+ tra cui Pierpaolo 
+\begin_inset Quotes fld
+\end_inset
+
+Rusticus
+\begin_inset Quotes frd
+\end_inset
+
+ Sierchovic.
 \end_layout
 
 \begin_layout Subsection
@@ -2201,7 +2179,7 @@ indicelemmi
 
 spiculum
 \emph default
-, 
+, al 
 \begin_inset ERT
 status open
 
@@ -2222,7 +2200,7 @@ indicelemmi
 
 verrutum
 \emph default
- e 
+ e alla 
 \begin_inset ERT
 status open
 
@@ -2346,7 +2324,52 @@ francische
 \begin_layout Standard
 Le punte di hasta si trovano in commercio, anche se sono generiche (si scelgano
  quelle più lunghe); angon, spiculum, verrutum e lancea esistono solo su
- commissione.
+ commissione: Spadanera le realizza sia in maniera industriale sia artigianale.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/spadanera1}
+\end_layout
+
+\end_inset
+
+: 
+\emph on
+verrutum
+\emph default
+ industriale €
+\begin_inset space \thinspace{}
+\end_inset
+
+20, a forgia €
+\begin_inset space \thinspace{}
+\end_inset
+
+60; 
+\emph on
+angon
+\emph default
+ industriale €
+\begin_inset space \thinspace{}
+\end_inset
+
+25, a forgia €
+\begin_inset space \thinspace{}
+\end_inset
+
+75.
+\end_layout
+
+\end_inset
+
  Le plumbate sono realizzate da Deepeeka e sono disponibili dai soliti rivendito
 ri, mentre l’arcuballista e la francisca vanno commissionati.
 \end_layout
@@ -2393,7 +2416,7 @@ cm di raggio per gli scudi tondi, mentre gli scudi ovali devono avere tra
 \begin_inset space \thinspace{}
 \end_inset
 
-cm di diametro minore e tra i 107 e i118
+cm di diametro minore e tra i 107 e i 118
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -2428,7 +2451,7 @@ url{http://www.fectio.org.uk/articles/makescutum.htm}
  con una variante dell’episema dei Cornuti Seniores così come attestato
  dalla Notitia Dignitatum.
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -2451,6 +2474,10 @@ url{http://lukeuedasarson.com/NDcornutiSeniores.html}
 
 \end_layout
 
+\begin_layout Standard
+Sia Mario Rossetti sia Fabio Mastrogiovanni possono realizzarli per voi.
+\end_layout
+
 \begin_layout Section
 Ordine di precedenza nell'acquisto dell'equipaggiamento
 \end_layout
@@ -2460,30 +2487,7 @@ Ordine di precedenza nell'acquisto dell'equipaggiamento
 status open
 
 \begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-{
-\backslash
-CapitaleRustica 
-\end_layout
-
-\end_inset
-
 U
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -2554,12 +2558,12 @@ x
 \begin_inset space \thinspace{}
 \end_inset
 
-cm, umbone semisferico, bordo in pelle, Mario Rossetti lo può realizzare,
- €
+cm, umbone semisferico, bordo in pelle, Mario Rossetti e Fabio Mastrogiovanni
+ lo possono realizzare, €
 \begin_inset space \thinspace{}
 \end_inset
 
-120, non verniciato;
+120, senza episema;
 \end_layout
 
 \begin_layout Enumerate
@@ -2604,6 +2608,15 @@ fasce crurali (fintanto che non si prendono i pantaloni), in vendita da
 \end_inset
 
 35.
+ Alternativamente 
+\emph on
+udones
+\emph default
+ (sentire le sorelle Busatta, circa €
+\begin_inset space \thinspace{}
+\end_inset
+
+30).
 \end_layout
 
 \begin_layout Subsection
@@ -2681,11 +2694,31 @@ sagum
 \emph default
  fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
  sentire Alessandra Venditti per il sagum, come fibula va bene una a omega,
- ma sarebbe meglio a balestra (le realizza Bernardo Pettorossi);
+ ma sarebbe meglio a balestra (le realizza Bernardo Pettorossi, €
+\begin_inset space \thinspace{}
+\end_inset
+
+60);
 \end_layout
 
 \begin_layout Enumerate
-una o più armi da getto: 
+una o più armi da getto: scegliere tra 
+\emph on
+verruta 
+\emph default
+o
+\emph on
+ angon
+\emph default
+ (rispettivamente €
+\begin_inset space \thinspace{}
+\end_inset
+
+20 e €
+\begin_inset space \thinspace{}
+\end_inset
+
+25 da Spadanera) e arco, opzionalmente delle 
 \emph on
 plumbatae
 \emph default
@@ -2697,19 +2730,11 @@ plumbatae
 \begin_inset space \thinspace{}
 \end_inset
 
-35 da Kayserstuhl), 
-\emph on
-verruta
-\emph default
- (€
-\begin_inset space \thinspace{}
-\end_inset
-
-45 da Casa del recreador ), arco, 
+35 da Kayserstuhl), più raramente 
 \emph on
 arcuballista
 \emph default
-, 
+ o 
 \emph on
 francisca
 \emph default
@@ -2759,7 +2784,11 @@ linea
 camisia
 \emph default
  (opzionale, lino bianco, stretta di fianchi, da mettere sotto a tutto,
- non decorata): sentire Alessandra Venditti.
+ non decorata): Alessandra Venditti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+55.
 \end_layout
 
 \begin_layout Subsection
@@ -2829,7 +2858,20 @@ sagum
 \emph default
  fulvo o rosso, frange o strisce colorate opzionali, con relativa fibula:
  sentire Alessandra Venditti per il sagum, come fibula va bene una a omega,
- ma sarebbe meglio a balestra (le realizza Bernardo Pettorossi);
+ ma sarebbe meglio a balestra (le realizza Bernardo Pettorossi, €
+\begin_inset space \thinspace{}
+\end_inset
+
+60);
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+hasta
+\emph default
+: punta in metallo da diversi fornitori (Medievalcraft, Kayserstuhl, o Fucina
+ del Drago per i romani);
 \end_layout
 
 \begin_layout Enumerate
@@ -2964,7 +3006,11 @@ linea
 camisia
 \emph default
  (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata):
- sentire Alessandra Venditti.
+ Alessandra Venditti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+55.
 \end_layout
 
 \begin_layout Subsection
@@ -2976,8 +3022,11 @@ Vessillifero, draconario, ufficiale comandante.
 \end_layout
 
 \begin_layout Enumerate
-calcei o campagi, neri, oppure rossi per il comandante: Medievaldesign oppure
- Graziano dal Barco
+calcei o campagi, neri, oppure rossi per il comandante: Medievaldesign (€
+\begin_inset space \thinspace{}
+\end_inset
+
+130 circa, a seconda del modello) oppure Graziano dal Barco;
 \end_layout
 
 \begin_layout Enumerate
@@ -3009,7 +3058,11 @@ pantaloni scuri, oppure fulvi o bianchi (per il comandante).
 cingulum
 \emph default
  rosso con finimenti bronzo o argento.
- I finimenti sono prodotti da Suhel Subani;
+ I finimenti sono prodotti da Suhel Subani (€
+\begin_inset space \thinspace{}
+\end_inset
+
+50 circa);
 \end_layout
 
 \begin_layout Enumerate
@@ -3030,7 +3083,15 @@ sagum
 \emph on
 chlamys
 \emph default
-, con relativa fibula;
+, con relativa fibula (Bernardo Pettorossi, €
+\begin_inset space \thinspace{}
+\end_inset
+
+60 in lega di rame, €
+\begin_inset space \thinspace{}
+\end_inset
+
+75 argentata);
 \end_layout
 
 \begin_layout Enumerate
@@ -3046,7 +3107,8 @@ pileus
 \end_layout
 
 \begin_layout Enumerate
-elmo ricoperto in ottone: sentire i fratelli Pustelak, Adam Maziar;
+elmo ricoperto in ottone: sentire i fratelli Pustelak o Adam Maziar (nell'ordine
+ delle diverse centiania di euro);
 \end_layout
 
 \begin_layout Enumerate
@@ -3114,7 +3176,11 @@ ocrea
 linea/camisia
 \emph default
  (lino bianco, stretta di fianchi, da mettere sotto a tutto, non decorata):
- sentire Alessandra Venditti.
+ Alessandra Venditti, €
+\begin_inset space \thinspace{}
+\end_inset
+
+55.
 \end_layout
 
 \begin_layout Section
