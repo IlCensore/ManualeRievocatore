@@ -1,0 +1,1047 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[x11names]{xcolor}
+\usepackage{fontspec}
+
+\newfontfamily\CapitaleRustica{Rustic Capitals}
+\renewcommand{\LettrineFontHook}{\CapitaleRustica\color{Red3}} 
+
+%% colore sezioni
+%\usepackage{xcolor}
+\usepackage{sectsty}
+\subsectionfont{\color{Red3}}  % sets colour of chapters
+\sectionfont{\color{Red3}}  % sets colour of sections
+\end_preamble
+\use_default_options true
+\begin_modules
+initials
+\end_modules
+\maintain_unincluded_children false
+\language italian
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "Arno Pro"
+\font_sans "default" "Arno Pro"
+\font_typewriter "default" "TeX Gyre Pagella"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style french
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Red3}
+\backslash
+CapitaleRustica
+\backslash
+fontsize{0.9cm}{1.32cm}
+\backslash
+selectfont 
+\end_layout
+
+\end_inset
+
+Saturnali
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\family sans
+\size large
+\emph on
+Rito a Saturno dei Custodes Urbis
+\end_layout
+
+\begin_layout Initial
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Il
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 3
+status open
+
+\begin_layout Plain Layout
+ rito
+\end_layout
+
+\end_inset
+
+ sarà celebrato dall’ufficiale in comando, assistito dal camillo; il vessillifer
+o terrà il vessillo dell'unità vicino all'«altare»; un civile (lo schiavo
+ dell’ufficiale?) si occuperà di spiegare il rito al pubblico; i restanti
+ Custodes formano i partecipanti al rito.
+\end_layout
+
+\begin_layout Standard
+Durante il normale servizio di guardia, al suono del 
+\emph on
+cornu
+\emph default
+, tutti i Custodes si recheranno nella stanza del comandante (per chi ha
+ partecipato all’Appia Day, la stanza-alloggio di Furius) e lasceranno lungo
+ il muro le lance e gli scudi, con l’episema rivolto verso il centro della
+ stanza.
+ Chi ha l’elmo lo toglierà e lo metterà in terra vicino lo scudo.
+\end_layout
+
+\begin_layout Standard
+Al centro della stanza ci saranno il tavolo con gli oggetti per il rituale,
+ incluso il 
+\emph on
+foculum
+\emph default
+, un piccolo braciere con i carboni accesi; sulla sinistra (per gli spettatori)
+ ci sarà il vessillifero con il vessillo; dietro al tavolo, di fronte agli
+ spettatori, il camillo; sulla destra l’officiante,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+A capo scoperto, in quanto i riti a Saturno si celebravano secondo il rito
+ greco, oppure con corona di spighe, attributo di Saturno.
+\end_layout
+
+\end_inset
+
+ con dietro tutti i soldati, i quali, preso il loro posto, toglieranno il
+ pileo (o il berretto frigio).
+\end_layout
+
+\begin_layout Standard
+Nel frattempo in mezzo al pubblico si disporrà il presentatore che, mentre
+ i soldati prendono posto, spiegherà il motivo per cui ci si sta radunando
+ e parlerà brevemente del culto dei Saturnali e del culto Saturno.
+ Quando tutti i soldati e l'altare sono pronti, il circitor uscirà a chiamare
+ l'ufficiale e il vessillifero, e inviterà tutti a fare silenzio.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float figure
+placement bh
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename Saturnali-01.png
+	display false
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\size small
+V: vessillifero; C: camillo; O: officiante; P: pedes; L: persona che spiega
+ il rito al pubblico
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Rituale
+\end_layout
+
+\begin_layout Subsection*
+
+\emph on
+Adoratio
+\end_layout
+
+\begin_layout Standard
+Il presentatore spiega al pubblico che il rito sta per cominciare, e che
+ il gesto che apre il rito è l’
+\emph on
+adoratio
+\emph default
+ rivolto alla divinità: il gesto, che consiste nel portarsi la mano destra
+ alla bocca, baciare indice e pollice e poi «lanciare» il bacio verso il
+ simulacro della divinità, sarà ripetuto ogni volta che viene invocato Saturno.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Il camillo suona il tintinnabulo con cui sancisce l’inizio del rito.
+ L’officiante compie il gesto dell’adoratio rivolto alla raffigurazione
+ di Saturno.
+\end_layout
+
+\begin_layout Subsection*
+
+\emph on
+Praefatio
+\end_layout
+
+\begin_layout Standard
+Il presentatore spiega al pubblico che si passa alla 
+\emph on
+praefatio
+\emph default
+, durante la quale l’officiante invoca Saturno con il gesto dell’
+\emph on
+adoratio
+\emph default
+, offrendo poi incenso e vino; al termine della 
+\emph on
+praefatio
+\emph default
+, l’officiante si purificherà lavandosi mani e volto.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+L'officiante alza entrambe le mani in posizione orante; i soldati, che si
+ trovano dietro all’orante, alzano solo la mano destra in segno di orazione,
+ ponendo la sinistra all'altezza del cingulum; il vessillifero alza il vessillo.
+ L’officiante recita le seguenti formule:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Saturne 
+\family default
+\series default
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+(
+\emph on
+adoratio
+\emph default
+).
+
+\family typewriter
+\series bold
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+te hoc ferto obmouendo bonas preces precor, uti sies uolens propitius mihi
+ centuriaque mea mactus hoc ferto.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+ (getta un grano di incenso sul 
+\emph on
+foculum
+\emph default
+)
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Saturne
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+ (
+\emph on
+adoratio
+\emph default
+).
+
+\family typewriter
+\series bold
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+macte isto ture esto, macte uino inferio esto.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+ 
+\family default
+\series default
+(versa una goccia di vino sul 
+\emph on
+foculum
+\emph default
+)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Officiante e soldati abbassano le mani; il vessillifero poggia il vessillo.
+ Il camillo avvicina una bacinella d’acqua all’officiante, il quale si lava
+ mani, viso e fronte.
+\end_layout
+
+\begin_layout Subsection*
+
+\emph on
+Praecatio
+\end_layout
+
+\begin_layout Standard
+Il presentatore spiega al pubblico che si passa alla 
+\emph on
+praecatio
+\emph default
+, ovvero la parte centrale del rito, durante il quale l’officiante invoca
+ la benevolenza di Saturno; i partecipanti al rito faranno poi benedire
+ dalla divinità i piccoli doni che hanno portato con sé.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+L'officiante alza entrambe le mani in posizione orante; i soldati, che si
+ trovano dietro all’orante, alzano solo la mano destra in segno di orazione,
+ ponendo la sinistra all'altezza del cingulum; il vessillifero alza il vessillo.
+ L’officiante recita le seguenti formule:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Saturne pater
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+ (
+\emph on
+adoratio
+\emph default
+)
+\family typewriter
+\series bold
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+esto fito uolens propitius mihi et centuria mea.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Saturno opulento
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+ 
+\family default
+\series default
+(
+\emph on
+adoratio
+\emph default
+)
+\family typewriter
+\series bold
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+incluto, supremo, ualido, uiripotenti, Opes, spes bonas, copias commodanti;
+ lubens disque omnibus ago gratias uitulorque merito, quia meo amico amiciter
+ hanc copiam danunt, argenti mutui ut ei egenti optem adferam.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+L’officiante si dispone di fianco al vessillo, che viene poggiato dal vessillife
+ro.
+ Uno per uno, i soldati si avvicinano all’altare, prendono un grano di incenso
+ e lo bruciano sul turibolo recitando a bassa voce:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Saturne pater
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+ 
+\family default
+\series default
+(
+\emph on
+adoratio
+\emph default
+)
+\family typewriter
+\series bold
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+esto fito uolens propitius mihi.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Poi prendono doni che hanno portato con sé (biscotti, monete, stautette
+ e cose simili) e li pongono davanti al simulacro di Saturno.
+ Finita l’offerta, girano dietro al camillo e tornano al proprio posto.
+ Il presentatore indossa il pileus.
+\end_layout
+
+\begin_layout Subsection*
+
+\emph on
+Piaculum
+\end_layout
+
+\begin_layout Standard
+Il presentatore spiega al pubblico che si è giunti a 
+\emph on
+piaculum
+\emph default
+, ovvero la formula di chiusura con cui l’officiante chiede alla divinità
+ invocata di perdonare ogni eventuale errore che avesse commesso durante
+ rito.
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+L'officiante recita la seguente formula:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Iuppiter Pater
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+ (
+\emph on
+a\SpecialChar softhyphen
+do\SpecialChar softhyphen
+ra\SpecialChar softhyphen
+tio
+\emph default
+)
+\family typewriter
+\series bold
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+et uos Dii Inuocati
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+ 
+\family default
+\series default
+\size small
+(
+\emph on
+adoratio
+\emph default
+)
+\family typewriter
+\series bold
+\size default
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Saturne
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+ 
+\family default
+\series default
+(
+\emph on
+adoratio
+\emph default
+)
+\family typewriter
+\series bold
+, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+si quidquam fuit uobis ingratum in stipe a me, oblata, accipite hoc piaculum.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+ (brucia un grano di incenso)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+L’officiante, rivolto ai soldati e al vessillifero, esclama:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Iò Saturnalia, ilicet, iò saturnalia, ilicet!
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Il vessillifero, i soldati, il camillo e il presentatore rispondono:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Iò Saturnalia!
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family typewriter
+\series bold
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Epilogo
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+La cerimonia è terminata.
+ Il presentatore e un soldato offrono le noci al pubblico, gli altri Custodes
+ si recano dal pubblico per augurare loro «Iò Saturnalia!» I Custodes si
+ scambiano degli abbracci e i doni, mangiando un biscotto tutti insieme.
+\end_layout
+
+\begin_layout Section*
+Allestimento
+\end_layout
+
+\begin_layout Itemize
+Corona di spighe
+\end_layout
+
+\begin_layout Itemize
+Tintinnabulo 
+\end_layout
+
+\begin_layout Itemize
+Statuetta o pinax (tavola dipinta) con immagine Saturno 
+\end_layout
+
+\begin_layout Itemize
+Foculum 
+\end_layout
+
+\begin_layout Itemize
+Carboni 
+\end_layout
+
+\begin_layout Itemize
+Recipiente per incenso 
+\end_layout
+
+\begin_layout Itemize
+Incenso 
+\end_layout
+
+\begin_layout Itemize
+Recipiente per il vino (+vino) 
+\end_layout
+
+\begin_layout Itemize
+Patera 
+\end_layout
+
+\begin_layout Itemize
+Bacinella d'acqua 
+\end_layout
+
+\begin_layout Itemize
+Asciugamani 
+\end_layout
+
+\begin_layout Itemize
+Statuette di creta (una per ogni celebrante) o altro dono (p.es.
+ monete) 
+\end_layout
+
+\begin_layout Itemize
+Altare (un tavolo su cavalletti)
+\end_layout
+
+\begin_layout Itemize
+Corone floreali e drappi rossi sui muri della stanza 
+\end_layout
+
+\begin_layout Itemize
+Candele/lucerne 
+\end_layout
+
+\begin_layout Itemize
+Biscotti/dolci da mangiare (celebranti) 
+\end_layout
+
+\begin_layout Itemize
+Noci (da regalare al pubblico) dentro due cestini 
+\end_layout
+
+\begin_layout Itemize
+Tavoletta in legno con rito 
+\end_layout
+
+\end_body
+\end_document
