@@ -43,9 +43,9 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Arno Pro"
-\font_sans "default" "Arno Pro"
-\font_typewriter "default" "FreeMono"
+\font_roman "default" "Bembo Book MT Std"
+\font_sans "default" "Bembo Book MT Std"
+\font_typewriter "default" "Bembo Book MT Std"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -136,7 +136,7 @@ color{Red3}
 \backslash
 CapitaleRustica
 \backslash
-fontsize{0.9cm}{1.32cm}
+fontsize{0.8cm}{1.32cm}
 \backslash
 selectfont 
 \end_layout
@@ -186,6 +186,7 @@ linea
 \emph default
 .
  Aggiunti alcuni prezzi.
+ Presentazione minimale delle quattro figure base.
 \end_layout
 
 \end_inset
@@ -317,10 +318,30 @@ t
  a barchetta.
  La tunica manicata deve essere realizzata in lana o lino, preferibilmente
  intessuti a mano (trama a saia, a spina di pesce o a diamanti).
- I colori possibili sono molti, bianco ottico (riservato agli ufficiali
- di palazzo), bianco naturale, crema, zafferano, rosso-arancio, rosso più
- scuro (non troppo intenso), rosa, verde, blu, marrone chiaro e medio; rarissimi
- e da evitare i casi di tuniche molto scure o addirittura nere.
+ I colori possibili sono molti,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Si veda sezione 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:1.9Nota-sui-colori"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ per una scelta ragionata.
+\end_layout
+
+\end_inset
+
+ bianco ottico (riservato agli ufficiali di palazzo), bianco naturale, crema,
+ zafferano, rosso-arancio, rosso più scuro (non troppo intenso), rosa, verde,
+ blu, marrone chiaro e medio; rarissimi e da evitare i casi di tuniche molto
+ scure o addirittura nere.
  Le decorazioni sono in lana colorata a contrasto e consistono di 
 \emph on
 clavi
@@ -366,10 +387,17 @@ url{http://www.medievaldesign.com}
 
 \end_inset
 
- il modello «Tunica Romana IV-V secolo» costa € 164 mentre quello «Tunica
- romana IV-V secolo (ricami a due colori)» costa €189; il primo modello
- è disponibile con gli orbicula tondi, che sono più corretti per la nostra
- epoca.
+ il modello «Tunica Romana IV-V secolo» costa €
+\begin_inset space \thinspace{}
+\end_inset
+
+164 mentre quello «Tunica romana IV-V secolo (ricami a due colori)» costa
+ €
+\begin_inset space \thinspace{}
+\end_inset
+
+189; il primo modello è disponibile con gli orbicula tondi, che sono più
+ corretti per la nostra epoca.
 \end_layout
 
 \begin_layout Standard
@@ -534,10 +562,21 @@ fasce crurali strette
 
 \begin_layout Standard
 I pantaloni «tipo Thorsberg» sono disponibili da Medievaldesign, con piede
- («Calzoni tipo Thorsberg», €109) oppure senza piede («Thorsberg (senza
- piede)», €99).
+ («Calzoni tipo Thorsberg», €
+\begin_inset space \thinspace{}
+\end_inset
+
+109) oppure senza piede («Thorsberg (senza piede)», €
+\begin_inset space \thinspace{}
+\end_inset
+
+99).
  Sempre Medievaldesign realizza le fasce crurali tipo Sogaards Mose («Fasce
- crurali», €29).
+ crurali», €
+\begin_inset space \thinspace{}
+\end_inset
+
+29).
  Alessandra Venditti
 \begin_inset Foot
 status collapsed
@@ -672,12 +711,24 @@ udones
 
 \begin_layout Standard
 Le scarpe si possono acquistare da Medievaldesign («Campagi IV-V secolo»
- a partire da €125; «Stivaletto tipo Ramshaw» e «Stivaletto tipo Zwammerdam»
- a partire da €139), che fornisce anche gli 
+ a partire da €
+\begin_inset space \thinspace{}
+\end_inset
+
+125; «Stivaletto tipo Ramshaw» e «Stivaletto tipo Zwammerdam» a partire
+ da €
+\begin_inset space \thinspace{}
+\end_inset
+
+139), che fornisce anche gli 
 \emph on
 udones
 \emph default
- di lana cuciti («Calze (Udones)», €29).
+ di lana cuciti («Calze (Udones)», €
+\begin_inset space \thinspace{}
+\end_inset
+
+29).
  Graziano Dal Barco
 \begin_inset Foot
 status collapsed
@@ -730,20 +781,34 @@ url{https://www.facebook.com/oficinaavitiana/}
 \end_inset
 
 Spätrömische Legionärsstiefel (3.
- Jh) Typ I
+\begin_inset space \thinspace{}
+\end_inset
+
+Jh) Typ I
 \begin_inset Quotes frd
 \end_inset
 
-, € 80, e 
+, €
+\begin_inset space \thinspace{}
+\end_inset
+
+80, e 
 \begin_inset Quotes fld
 \end_inset
 
 Spätrömische Legionärsstiefel (3.
- Jh) Typ II
+\begin_inset space \thinspace{}
+\end_inset
+
+Jh) Typ II
 \begin_inset Quotes frd
 \end_inset
 
-, €90).
+, €
+\begin_inset space \thinspace{}
+\end_inset
+
+90).
 \begin_inset Foot
 status collapsed
 
@@ -801,11 +866,15 @@ indicelemmi
 
 cingulum
 \emph default
- militare diffusa nella prima metà del IV secolo è quella stretta, con fibbia
- che è montata a un’estremità della cintura, rinforzata con dei finimenti
- a elica (da sei a otto) e terminante con un puntale; questi finimenti sono
- realizzati in lega di rame, argento o oro, e sono estremamente caratteristici
- (ovvero non è possibile sostituirli con altri differenti).
+ militare diffusa nella prima metà del 
+\noun on
+iv
+\noun default
+ secolo è quella stretta, con fibbia che è montata a un’estremità della
+ cintura, rinforzata con dei finimenti a elica (da sei a otto) e terminante
+ con un puntale; questi finimenti sono realizzati in lega di rame, argento
+ o oro, e sono estremamente caratteristici (ovvero non è possibile sostituirli
+ con altri differenti).
  Il 
 \emph on
 cingulum
@@ -910,8 +979,15 @@ pileus pannonicus
 \end_layout
 
 \begin_layout Standard
-Medievaldesign realizza il pileus («Pileus Pannonicus», €35 in lana, €45
- in pelliccia), ma sicuramente è possibile realizzarlo da soli o con l’aiuto
+Medievaldesign realizza il pileus («Pileus Pannonicus», €
+\begin_inset space \thinspace{}
+\end_inset
+
+35 in lana, €
+\begin_inset space \thinspace{}
+\end_inset
+
+45 in pelliccia), ma sicuramente è possibile realizzarlo da soli o con l’aiuto
  di un sarto.
 \end_layout
 
@@ -982,8 +1058,19 @@ tabulae
 
 \begin_layout Standard
 Anche in questo caso Medievaldesign è un buon posto dove acquistare il sagum
- («Sagum sfrangiato», €159; «Sagum con orbicula», €169; «Clamide ovale»,
- €159).
+ («Sagum sfrangiato», €
+\begin_inset space \thinspace{}
+\end_inset
+
+159; «Sagum con orbicula», €
+\begin_inset space \thinspace{}
+\end_inset
+
+169; «Clamide ovale», €
+\begin_inset space \thinspace{}
+\end_inset
+
+159).
  È però possibile farsi realizzare altrove il sagum rettangolare senza decorazio
 ni, o acquistare il tessuto in lana (possibilmente intessuto a mano).
 \end_layout
@@ -1147,11 +1234,22 @@ alicula
 \end_layout
 
 \begin_layout Standard
-Medievaldesign vende un cucullus («Cucullus», €39).
+Medievaldesign vende un cucullus («Cucullus», €
+\begin_inset space \thinspace{}
+\end_inset
+
+39).
 \end_layout
 
 \begin_layout Subsection
 Nota sui colori
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:1.9Nota-sui-colori"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2322,9 +2420,9 @@ francische
 \end_layout
 
 \begin_layout Standard
-Le punte di hasta si trovano in commercio, anche se sono generiche (si scelgano
- quelle più lunghe); angon, spiculum, verrutum e lancea esistono solo su
- commissione: Spadanera le realizza sia in maniera industriale sia artigianale.
+Le punte di hasta commerciali sono generiche (si scelgano quelle più lunghe);
+ sono disponibili su commissione, come pure angon, spiculum, verrutum e
+ lancea: Spadanera le realizza sia in maniera industriale sia artigianale.
 \begin_inset Foot
 status open
 
@@ -2371,7 +2469,17 @@ angon
 \end_inset
 
  Le plumbate sono realizzate da Deepeeka e sono disponibili dai soliti rivendito
-ri, mentre l’arcuballista e la francisca vanno commissionati.
+ri, mentre l’arcuballista e la francisca vanno commissionate.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Maurizio Mastrogiovanni ha già realizzato un'arcuballista.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -2403,10 +2511,10 @@ indicelemmi
 scutum
 \emph default
  tardoimperiale può essere ovale o tondo, piatto o a scodella (allo stato
- attuale non è possibile escludere nessuna delle possibili combinazioni),
- ma non cilindrici, ovvero curvi lungo una sola direzione (tipo lo scutum
- imperiale, per intenderci); per uniformità di gruppo si preferiscono gli
- scudi ovali piatti, ma anche le altre forme sono accettabili.
+ attuale non è possibile escludere nessuna combinazione), ma non cilindrico,
+ ovvero curvo lungo una sola direzione (tipo lo scutum imperiale, per intenderci
+); per uniformità di gruppo si preferiscono gli scudi ovali piatti, ma anche
+ le altre forme sono accettabili.
  Le dimensioni sono tra i 90 e 100
 \begin_inset space \thinspace{}
 \end_inset
@@ -2503,13 +2611,41 @@ na
 \end_inset
 
  volta ottenuto l'equipaggiamento da tirone, si può scegliere una delle
- tre figure e farsi passo passo quella panoplia; un pedes leggero può avere
- elementi della panoplia del pedes pesante e quello pesante elementi della
- panoplia di un ufficiale, ma non l’inverso, se non temporaneamente.
+ tre figure e farsi passo passo quella panoplia; un 
+\emph on
+pedes
+\emph default
+ leggero può avere elementi della panoplia del 
+\emph on
+pedes
+\emph default
+ pesante e quello pesante elementi della panoplia di un ufficiale, ma non
+ l’inverso, se non temporaneamente.
 \end_layout
 
 \begin_layout Subsection
 Equipaggiamento da tirone
+\end_layout
+
+\begin_layout Standard
+Per tirone qui si intende il ruolo che si ricopre appena entrati nei Custodes,
+ quando non è ancora potuto acquistare tutto l'equipaggiamento necessario
+ per una delle figure successive: questo equipaggiamento permette di partecipare
+ agli eventi del gruppo e di schierarsi in combattimento, ma va inteso come
+ passo iniziale verso una delle tre figure successive (
+\emph on
+pedes
+\emph default
+ leggero, 
+\emph on
+pedes
+\emph default
+ pesante e ufficiale); il trittico scarpe – tunica semplice – cingulum è
+ veramente il minimo indispensabile.
+ Molto del seguente materiale può essere poi riciclato successivamente;
+ può essere opportuno saltare le carbatine e prendere direttamente i calcei,
+ o non prendere le fasce crurali o gli udones e andare direttamente sui
+ pantaloni.
 \end_layout
 
 \begin_layout Enumerate
@@ -2628,17 +2764,49 @@ Pedes
 \end_layout
 
 \begin_layout Standard
-Per chi non vuole o non può portare un'armatura pesante; è dotato di armi
- da getto.
+Il 
+\emph on
+pedes 
+\emph default
+leggero è un fante che combatte con scudo e armi da getto: una o più 
+\emph on
+verruta
+\emph default
+ e/o 
+\emph on
+angon
+\emph default
+ portati in una faretra; oppure arco; più raramente 
+\emph on
+arcuballista
+\emph default
+ o due o tre 
+\emph on
+francische
+\emph default
+.
+ Quando schierato in formazione può portare scudo e hasta, ma più probabilmente
+ sarà schierato dalla quinta fila in poi e userà le sue armi da getto per
+ coprire le prime file.
+ È una figura adatta a chi non vuole o può portare l'armatura, richiede
+ però un addestramento continuo nell'uso delle armi da getto, da affiancarsi
+ a quello sul movimento in ordine chiuso e aperto.
 \end_layout
 
 \begin_layout Enumerate
-calcei (da Mario Rossetti, €
+calcei (Mario Rossetti, €
 \begin_inset space \thinspace{}
 \end_inset
 
-70) o campagi (sentire Officina Avitiana) o comunque scarpe che non siano
- 
+70, oppure Kayserstuhl.de, €
+\begin_inset space \thinspace{}
+\end_inset
+
+80) o campagi (sentire Officina Avitiana, altrimenti Medievaldesign, €
+\begin_inset space \thinspace{}
+\end_inset
+
+125) o comunque scarpe che non siano 
 \emph on
 carbatinae
 \emph default
@@ -2746,7 +2914,8 @@ francisca
 \emph on
 pileus
 \emph default
-: Alessandra Venditti oppure Medievaldesign (€
+: a cono, pannonico o (meno frequentemente) frigio, Alessandra Venditti
+ oppure Medievaldesign (€
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -2759,7 +2928,7 @@ pileus
 tunica militaris
 \emph default
  (decorazioni copte opzionali, clavi e segmenta preferibili) colore verde
- o blu (dobbiamo decidere): sentire Alessandra Venditti;
+ o blu: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -2800,16 +2969,51 @@ Pedes
 \end_layout
 
 \begin_layout Standard
-Per chi vuole e può portare un'armatura pesante.
+Il 
+\emph on
+pedes
+\emph default
+ pesante è l'erede del legionario altoimperiale: armato di 
+\emph on
+hasta
+\emph default
+, scudo e 
+\emph on
+spatha
+\emph default
+, indossa armatura, elmo più avvolgente, e se possibile 
+\emph on
+ocrea
+\emph default
+ e 
+\emph on
+manica
+\emph default
+; costituisce le prime file dello schieramento, regge l'impatto dell'assalto
+ nemico e deve avere la forza per sfondare le linee nemiche.
+ Deve essere addestrato nel combattimento corpo a corpo e nelle manovre
+ in ordine chiuso e aperto, oltre all'uso delle 
+\emph on
+plumbate
+\emph default
+.
+ È una figura adatta a chi vuole e può portare un'armatura pesante.
 \end_layout
 
 \begin_layout Enumerate
-calcei (da Mario Rossetti, €
+calcei (Mario Rossetti, €
 \begin_inset space \thinspace{}
 \end_inset
 
-70) o campagi (sentire Officina Avitiana, altrimenti Medievaldesign) o comunque
- scarpe che non siano 
+70, oppure Kayserstuhl.de, €
+\begin_inset space \thinspace{}
+\end_inset
+
+80) o campagi (sentire Officina Avitiana, altrimenti Medievaldesign, €
+\begin_inset space \thinspace{}
+\end_inset
+
+125) o comunque scarpe che non siano 
 \emph on
 carbatinae
 \emph default
@@ -2899,7 +3103,12 @@ elmo in ferro o ottone: tipologia Burgh Castle (Armae €
 \begin_inset space \thinspace{}
 \end_inset
 
-229);
+229).
+ In alternativa 
+\emph on
+camaglio
+\emph default
+, da indossare su berretto imbottito: sentire Zubair Qureshi o Suhel Subhani;
 \end_layout
 
 \begin_layout Enumerate
@@ -2907,7 +3116,8 @@ elmo in ferro o ottone: tipologia Burgh Castle (Armae €
 \emph on
 pileus
 \emph default
-: Alessandra Venditti oppure Medievaldesign (€
+: a cono, pannonico o (meno frequentemente) frigio Alessandra Venditti oppure
+ Medievaldesign (€
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -2920,8 +3130,7 @@ pileus
 tunica militaris
 \emph default
  (ha decorazioni se si usa la lorica corta o si è senza lorica, con lorica
- lunga non servono) colore verde o blu (dobbiamo decidere): sentire Alessandra
- Venditti;
+ lunga non servono) colore verde o blu: sentire Alessandra Venditti;
 \end_layout
 
 \begin_layout Enumerate
@@ -3018,7 +3227,18 @@ Ufficiale
 \end_layout
 
 \begin_layout Standard
-Vessillifero, draconario, ufficiale comandante.
+Vessillifero, draconario, ufficiali e comandante sono le figure di spicco
+ dell'unità, devono quindi avere un equipaggiamento completo e ricco: le
+ vesti devono essere realizzate in tessuti di eccellente qualità e molto
+ ben decorate, la gioielleria deve essere ricca e abbondante, armi e armatura
+ di livello superiore; tutto deve far capire che sono una spanna sopra al
+ resto dei soldati, sebbene alcuni veterani possano indossare elementi dell'equi
+paggiamento di qualità comparabile a quella degli ufficiali.
+\end_layout
+
+\begin_layout Standard
+Quello che segue è un elenco minimale dell'equipaggiamento necessario, che
+ può essere ovviamente arricchito.
 \end_layout
 
 \begin_layout Enumerate
@@ -3079,7 +3299,7 @@ spatha
 \emph on
 sagum
 \emph default
- fulvo o rosso, con frange e/o strisce colorate, oppure 
+ fulvo, con frange, strisce colorate, orbicula, oppure 
 \emph on
 chlamys
 \emph default
@@ -3099,7 +3319,8 @@ chlamys
 \emph on
 pileus
 \emph default
-: Alessandra Venditti oppure Medievaldesign (€
+: rigorosamente pannonico, preferibilmente fulvo, da Alessandra Venditti
+ oppure Medievaldesign (€
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -3108,7 +3329,7 @@ pileus
 
 \begin_layout Enumerate
 elmo ricoperto in ottone: sentire i fratelli Pustelak o Adam Maziar (nell'ordine
- delle diverse centiania di euro);
+ delle diverse centinaia di euro);
 \end_layout
 
 \begin_layout Enumerate
@@ -3116,7 +3337,7 @@ elmo ricoperto in ottone: sentire i fratelli Pustelak o Adam Maziar (nell'ordine
 \emph on
 tunica militaris
 \emph default
- (ha decorazioni se si usa la lorica corta, con lorica lunga non servono)
+ (decorazioni obbligatorie se si usa la lorica corta, maniche con le pieghe)
  colore verde o blu o rosso: sentire Alessandra Venditti;
 \end_layout
 
@@ -3125,16 +3346,21 @@ tunica militaris
 \emph on
 subarmalis/thoracomacus
 \emph default
- (corto con 
+ (corto con due file di 
 \emph on
 pteryges
 \emph default
-, almeno due file di 
+, possibilmente bianchi con frange, non separati ma a formare una manica):
+ Alessandra Venditti è in grado di realizzarlo, ma consultarsi con noi per
+ il modello, che è differente da quello standard;
+\end_layout
+
+\begin_layout Enumerate
+
 \emph on
-pteryges
+globa
 \emph default
- per gli ufficiali, possibilmente bianchi con frange): sentire Alessandra
- Venditti;
+;
 \end_layout
 
 \begin_layout Enumerate
@@ -3188,18 +3414,38 @@ Equipaggiamento sconsigliato o non ammesso
 \end_layout
 
 \begin_layout Description
-Borse È preferibile non portare borse o bisacce, a meno che non si ricopra
- un ruolo particolare e si necessiti di quel preciso contenitore (per esempio,
+
+\emph on
+Borse
+\emph default
+ È preferibile non portare borse o bisacce, a meno che non si ricopra un
+ ruolo particolare e si necessiti di quel preciso contenitore (per esempio,
  faretre per chi usa le plumbate, porta-tavolette per il domesticus, eccetera).
  Quando non è possibile lasciare oggetti moderni in luoghi sicuri, si preferisca
 no borse con chiusura a cordoncino non più grandi di un pugno, da tenere
  legate alla cintura, o, se si opta per borse a tascapane da agganciare
  alla cintura, che siano in cuoio e con i finimenti del periodo; in ogni
- caso devono essere tenute nascoste dal mantello (per quanto possibile non
- devono apparire nelle foto).
+ caso devono essere tenute nascoste dal mantello (non devono apparire nelle
+ foto).
 \end_layout
 
 \begin_layout Description
+
+\emph on
+Gioielleria
+\emph default
+ È incoraggiato ricostruire gioielleria (bracciali, anelli, fibule, torc
+ e pendenti vari), ma se un particolare modello non è attestato per il 
+\noun on
+iv/v
+\noun default
+ secolo, si abbia cura di occultarlo opportunamente in caso di bisogno (in
+ altre parole, non devono apparire nelle foto).
+\end_layout
+
+\begin_layout Description
+
+\emph on
 Guanti,
 \begin_inset space ~
 \end_inset
@@ -3220,7 +3466,9 @@ e
 \begin_inset space ~
 \end_inset
 
-avambracci Non sono normalmente accettati.
+avambracci
+\emph default
+ Non sono normalmente accettati.
  l'unica eccezione è in occasione di un combattimento: si possono indossare
  guanti in cuoio spesso, semplici e non moderni, e protezioni per polso
  e avambraccio, da indossare rigorosamente sotto le maniche della tunica;
@@ -3228,12 +3476,20 @@ avambracci Non sono normalmente accettati.
 \end_layout
 
 \begin_layout Description
-Pelliccia L'unico indumento in pelliccia ammesso è il pileus pannonicus.
+
+\emph on
+Pelliccia
+\emph default
+ L'unico indumento in pelliccia ammesso è il pileus pannonicus.
  Altri indumenti o pezzi di equipaggiamento di pelliccia non sono accettati.
 \end_layout
 
 \begin_layout Description
-Tessuti Gli unici tessuti accettati sono lino, lana e seta cruda.
+
+\emph on
+Tessuti
+\emph default
+ Gli unici tessuti accettati sono lino, lana e seta cruda.
  I tessuti neri, anche se usati come decorazioni, non sono accettati.
 \end_layout
 
