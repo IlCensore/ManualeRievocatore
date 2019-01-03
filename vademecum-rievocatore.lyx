@@ -8,9 +8,12 @@
 \begin_preamble
 \usepackage[x11names]{xcolor}
 \usepackage{fontspec}
-\newfontfamily\CapitaleRustica{Rustic Capitals}
+%\newfontfamily\CapitaleRustica{Rustic Capitals}
+\newfontfamily\CapitaleRustica{RusticusStd}
+\newfontfamily\FontIniziali{EB Garamond}
 %\newfontfamily\CapitaleRustica{Arno Pro}
-\renewcommand{\LettrineFontHook}{\CapitaleRustica\color{Red3}} 
+%\renewcommand{\LettrineFontHook}{\CapitaleRustica\color{Red3}} 
+\renewcommand{\LettrineFontHook}{\FontIniziali\color{Red3}} 
 %\newfontfamily\CapitaleRustica{Adobe Jenson Pro}
 
 
@@ -43,9 +46,9 @@ initials
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "Bembo Book MT Std"
-\font_sans "default" "Bembo Book MT Std"
-\font_typewriter "default" "Bembo Book MT Std"
+\font_roman "default" "EB Garamond"
+\font_sans "default" "EB Garamond"
+\font_typewriter "default" "EB Garamond"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -121,7 +124,35 @@ initials
 \begin_layout Author
 
 \family sans
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+CapitaleRustica
+\backslash
+fontsize{0.6cm}{0.4cm}
+\backslash
+selectfont 
+\end_layout
+
+\end_inset
+
 Custodes Urbis
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Title
@@ -136,7 +167,7 @@ color{Red3}
 \backslash
 CapitaleRustica
 \backslash
-fontsize{0.8cm}{1.32cm}
+fontsize{1.7cm}{1.7cm}
 \backslash
 selectfont 
 \end_layout

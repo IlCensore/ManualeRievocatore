@@ -7,6 +7,7 @@
 \textclass article
 \begin_preamble
 \usepackage[x11names]{xcolor}
+\usepackage{graphicx}
 \usepackage{fontspec}
 
 %\newfontfamily\CapitaleRustica{Rustic Capitals}
@@ -21,6 +22,39 @@
 \usepackage{sectsty}
 \subsectionfont{\color{Red3}}  % sets colour of chapters
 \sectionfont{\color{Red3}}  % sets colour of sections
+
+
+
+\usepackage{graphicx}
+\usepackage{dblfloatfix}
+\usepackage[strict]{changepage}
+
+\newlength{\rpghmargin}
+\newcommand*{\pagepicture}[2]{%
+    \checkoddpage
+    \ifoddpage
+%        \setlength{\rpghmargin}{\dimexpr 1in+\hoffset+\oddsidemargin+32pt \relax}
+        \setlength{\rpghmargin}{\dimexpr 1in+\hoffset+\oddsidemargin \relax}
+    \else
+        \setlength{\rpghmargin}{\dimexpr 1in+\hoffset+\evensidemargin-25pt \relax}
+
+    \fi
+    \begin{figure*}[#1!]
+        \centering
+        \if #1t
+            \vspace*{-\dimexpr1in+\voffset+\topmargin+\headheight+\headsep \relax}
+        \fi
+
+         \makebox[\paperwidth][l]{
+            \hskip-\rpghmargin \relax
+            \includegraphics[width=\paperwidth]{#2}
+        }
+        \if #1b
+            \vspace*{-\dimexpr\paperheight-\textheight-1in+12pt-\voffset-\topmargin-\headheight-\headsep\relax}
+        \fi
+
+    \end{figure*}
+}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -87,7 +121,7 @@ initials
 \dynamic_quotes 0
 \papercolumns 1
 \papersides 1
-\paperpagestyle default
+\paperpagestyle plain
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -96,6 +130,22 @@ initials
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Title
 \begin_inset ERT
@@ -109,14 +159,18 @@ color{Red3}
 \backslash
 CapitaleRustica
 \backslash
-fontsize{1.6cm}{1.32cm}
+fontsize{1.8cm}{1.32cm}
 \backslash
 selectfont 
 \end_layout
 
 \end_inset
 
-Saturnalia
+
+\emph on
+Summe Deus
+\emph default
+
 \begin_inset ERT
 status open
 
@@ -135,97 +189,155 @@ status open
 \family sans
 \size large
 \emph on
-Rito a Saturno dei Custodes Urbis
+Riti religiosi di 
+\noun on
+iv
+\noun default
+ secolo in ambito militare
 \end_layout
 
-\begin_layout Standard
-Il rito sarà celebrato dall’ufficiale in comando, assistito dal camillo;
- il vessillifero terrà il vessillo dell'unità vicino all'«altare»; un civile
- (lo schiavo dell’ufficiale?) si occuperà di spiegare il rito al pubblico;
- i restanti Custodes formano i partecipanti al rito.
-\end_layout
+\begin_layout Author
 
-\begin_layout Standard
-Durante il normale servizio di guardia, al suono del 
-\emph on
-cornu
-\emph default
-, tutti i Custodes si recheranno nella stanza del comandante (per chi ha
- partecipato all’Appia Day, la stanza-alloggio di Furius) e lasceranno lungo
- il muro le lance e gli scudi, con l’episema rivolto verso il centro della
- stanza.
- Chi ha l’elmo lo toglierà e lo metterà in terra vicino lo scudo.
-\end_layout
-
-\begin_layout Standard
-Al centro della stanza ci saranno il tavolo con gli oggetti per il rituale,
- incluso il 
-\emph on
-foculum
-\emph default
-, un piccolo braciere con i carboni accesi; sulla sinistra (per gli spettatori)
- ci sarà il vessillifero con il vessillo; dietro al tavolo, di fronte agli
- spettatori, il camillo; sulla destra l’officiante,
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-A capo scoperto, in quanto i riti a Saturno si celebravano secondo il rito
- greco, oppure con corona di spighe, attributo di Saturno.
-\end_layout
-
-\end_inset
-
- con dietro tutti i soldati, i quali, preso il loro posto, toglieranno il
- pileo (o il berretto frigio).
-\end_layout
-
-\begin_layout Standard
-Nel frattempo in mezzo al pubblico si disporrà il presentatore che, mentre
- i soldati prendono posto, spiegherà il motivo per cui ci si sta radunando
- e parlerà brevemente del culto dei Saturnali e del culto Saturno.
- Quando tutti i soldati e l'altare sono pronti, il circitor uscirà a chiamare
- l'ufficiale e il vessillifero, e inviterà tutti a fare silenzio.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Float figure
-placement bh
-wide false
-sideways false
+\family sans
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename Saturnali-01.png
-	display false
-	width 80text%
+
+{
+\backslash
+CapitaleRustica
+\backslash
+fontsize{0.6cm}{0.4cm}
+\backslash
+selectfont 
+\end_layout
+
+\end_inset
+
+Custodes Urbis
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\family sans
+}
+\end_layout
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Plain Layout
-\noindent
-\align center
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
 
-\size small
-V: vessillifero; C: camillo; O: officiante; P: pedes; L: persona che spiega
- il rito al pubblico
+
 \end_layout
 
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagepicture{b}{invocazione_campus_ergenus_313.jpg}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
 \end_inset
 
 
 \end_layout
 
 \begin_layout Section*
-Rituale
+
+\emph on
+Saturnali
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{
+\backslash
+textit{Saturnali}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Allestimento
+\end_layout
+
+\begin_layout Standard
+Tintinnabulo; statuetta o 
+\emph on
+pinax
+\emph default
+ (tavola dipinta) con immagine Saturno; 
+\emph on
+foculum
+\emph default
+ e carboni; recipiente per incenso, incenso; recipiente per il vino, vino;
+ patera, bacinella d'acqua, asciugamani; statuette di creta (una per ogni
+ celebrante) o altro dono (per esempio monete, dolci); altare (anche un
+ tavolo su cavalletti); corone floreali e drappi rossi sui muri della stanza;
+ candele e/o lucerne; biscotti e altri dolci da mangiare (per i celebranti);
+ noci (da regalare al pubblico) dentro due cestini; tavoletta in legno con
+ rito.
 \end_layout
 
 \begin_layout Subsection*
@@ -434,7 +546,7 @@ foculum
 \emph on
 Officiante e soldati abbassano le mani; il vessillifero poggia il vessillo.
  Il camillo avvicina una bacinella d’acqua all’officiante, il quale si lava
- mani, viso e fronte.
+ mani e viso.
 \end_layout
 
 \begin_layout Subsection*
@@ -921,81 +1033,215 @@ La cerimonia è terminata.
  scambiano degli abbracci e i doni, mangiando un biscotto tutti insieme.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
-Allestimento
+Invocazione della protezione della divinità prima della battaglia
 \end_layout
 
-\begin_layout Itemize
-Corona di spighe
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Invocazione della protezione della divinità
+ prima della battaglia}
 \end_layout
 
-\begin_layout Itemize
-Tintinnabulo 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Itemize
-Statuetta o pinax (tavola dipinta) con immagine Saturno 
+\begin_layout Standard
+Breve rito religioso militare, costituito da un’invocazione alla divinità
+ (lasciata volontariamente anonima, potrebbe essere il Sole Invitto o Cristo)
+ da parte dell’esercito schierato a battaglia e guidato dal generale.
+ I gesti e il testo dell’invocazione sono ripresi dal 
+\emph on
+De Mortibus Persecutorum
+\emph default
+ di Lattanzio,
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+46.10 – 47.1
 \end_layout
 
-\begin_layout Itemize
-Foculum 
+\end_inset
+
+ secondo cui sarebbe la preghiera inviata a Licinio prima della battaglia
+ di 
+\emph on
+Campus Serenus
+\emph default
+ (313).
 \end_layout
 
-\begin_layout Itemize
-Carboni 
+\begin_layout Standard
+
+\emph on
+I soldati vengono schierati a battaglia.
+ Prima dello scontro, depongono [a terra] gli scudi, sciolgono [e appoggiano
+ sugli scudi] e poi, imitando l’esempio dei loro praepositi, levano le braccia
+ al cielo.
+ Per tre volte l’imperatore (l’ufficiale in grado più alto) recita le seguenti
+ parole, e i soldati ripetono la preghiera:
 \end_layout
 
-\begin_layout Itemize
-Recipiente per incenso 
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
 \end_layout
 
-\begin_layout Itemize
-Incenso 
+\end_inset
+
+Summe deus, te rogamus, sancte deus, te rogamus.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
-\begin_layout Itemize
-Recipiente per il vino (+vino) 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Itemize
-Patera 
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
 \end_layout
 
-\begin_layout Itemize
-Bacinella d'acqua 
+\end_inset
+
+Omnem iustitiam tibi commendamus, salutem nostram tibi commendamus, imperium
+ nostrum tibi com\SpecialChar softhyphen
+men\SpecialChar softhyphen
+da\SpecialChar softhyphen
+mus.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
-\begin_layout Itemize
-Asciugamani 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Itemize
-Statuette di creta (una per ogni celebrante) o altro dono (p.es.
- monete) 
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
 \end_layout
 
-\begin_layout Itemize
-Altare (un tavolo su cavalletti)
+\end_inset
+
+Per te uiuimus, per te uictores et felices existimus.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
-\begin_layout Itemize
-Corone floreali e drappi rossi sui muri della stanza 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Itemize
-Candele/lucerne 
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
 \end_layout
 
-\begin_layout Itemize
-Biscotti/dolci da mangiare (celebranti) 
+\end_inset
+
+Summe, sancte deus, preces nostras exaudi; bracchia nostra ad te ten\SpecialChar softhyphen
+di\SpecialChar softhyphen
+mus,
+ exaudi sancte, summe deus.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
 \end_layout
 
-\begin_layout Itemize
-Noci (da regalare al pubblico) dentro due cestini 
+\end_inset
+
+
 \end_layout
 
-\begin_layout Itemize
-Tavoletta in legno con rito 
+\begin_layout Standard
+
+\emph on
+Al termine della terza invocazione, i soldati sono pieni di coraggio, allacciano
+ gli elmi, raccolgono gli scudi e si lanciano all’assalto del nemico.
+\end_layout
+
+\begin_layout Standard
+È possibile modificare il rito in modo che il celebrante pronunci la prima
+ frase («
+\emph on
+Summe deus \SpecialChar ldots
+ te rogamus
+\emph default
+»), ripetuta poi in coro dai soldati; il celebrante pronuncerà poi le frasi
+ successive, fermandosi alla fine di ciascuna per permettere a tutti i soldati
+ di ripetere l'invocazione iniziale.
 \end_layout
 
 \end_body
