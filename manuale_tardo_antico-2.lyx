@@ -4853,6 +4853,39 @@ A differenza di un elmo, il camaglio protegge dai tagli ma non dalle botte,
 Armatura
 \end_layout
 
+\begin_layout Standard
+Le armature romane, dette 
+\emph on
+loriche
+\emph default
+, utilizzate nel 
+\noun on
+iv
+\noun default
+ secolo ricadono in quattro tipologie: la lorica 
+\emph on
+squamata
+\emph default
+, composta da squame di metallo fissate a un supporto; la lorica 
+\emph on
+hamata
+\emph default
+, composta da una maglia di anelli di ferro, rivettati e interi a file alternate
+; la lorica 
+\emph on
+muscolata
+\emph default
+, composta da due valve di forma anatomica; la lorica 
+\emph on
+segmentata
+\emph default
+, ottenuta unendo tra loro delle fasce di ferro che girano attorno al corpo.
+ Di queste quelle maggiormente diffuse tra i soldati sono le prime due,
+ lunghe tra metà coscia e ginocchio e tra metà bicipite e gomito o polso,
+ mentre gli ufficiali indossavano le prime tre tipologie, tipicamente corte
+ ai fianchi e senza maniche.
+\end_layout
+
 \begin_layout Subsection
 Lorica squamata
 \end_layout
@@ -4946,13 +4979,14 @@ Una lorica
 \emph on
 squamata
 \emph default
- tardoimperiale poteva essere lunga fino al ginocchio e avere delle maniche,
- per fornire una protezione più ampia al 
+ tardoimperiale poteva essere lunga fino al ginocchio e avere delle maniche
+ tubolari fino a metà bicipite, per fornire una protezione più ampia al
+ 
 \emph on
 miles
 \emph default
- che la indossava; alternativamente poteva essere corta fino a sotto la
- vita, con delle protezioni per la parte superiore delle braccia.
+ che la indossava; alternativamente poteva essere corta fino ai fianchi,
+ opzionalmente con delle protezioni per la parte superiore delle braccia.
  Le squame potevano essere in ferro o in bronzo, con o senza nervatura centrale,
  e generalmente erano arrotondate nella parte inferiore.
 \end_layout
@@ -5260,7 +5294,11 @@ pedites
 \begin_layout Subsection
 
 \emph on
-Toracomachus
+Toracomachus 
+\emph default
+e 
+\emph on
+globa
 \end_layout
 
 \begin_layout Standard
@@ -5347,6 +5385,31 @@ squamata
 \emph default
  corte alla vita, mentre dovevano essere probabilmente lunghi al gomito
  o al polso e alla coscia quando indossati sotto armature più lunghe.
+\end_layout
+
+\begin_layout Standard
+Secondo il 
+\emph on
+De Rebus Bellicis
+\emph default
+, sopra il 
+\emph on
+toracomachus
+\emph default
+ andava indossata la 
+\emph on
+globa
+\emph default
+, realizzata in pelle, che aveva lo scopo di proteggere il 
+\emph on
+toracomachus
+\emph default
+ dalla pioggia; è possibile che alla 
+\emph on
+globa
+\emph default
+ appartengano le smerlature che si vedono spuntare talvolta sotto alle armature
+ corte.
 \end_layout
 
 \begin_layout Subsection
@@ -5643,8 +5706,8 @@ status open
 
 \end_inset
 
- era coperta di pelle o di lino, dipinto con un disegno decorativo caratteristic
-o dell'unità di appartenenza del proprietario.
+ era dipinta con un disegno decorativo caratteristico dell'unità di appartenenza
+ del proprietario.
  Ci sono diverse attestazioni di schemi decorativi tardo romani nell'arte,
  su statuette e missor
 \begin_inset ERT
