@@ -131,8 +131,6 @@ status open
 
 {
 \backslash
-CapitaleRustica
-\backslash
 fontsize{0.6cm}{0.4cm}
 \backslash
 selectfont 
@@ -1815,14 +1813,36 @@ a/Worms) o in ferro con una copertura in bronzo o argento dorato, talvolta
  decorati con pietre preziose e semipreziose (Berkasovo e Intecisa/Limburg).
  Sull’elmo era possibile montare una cresta in metallo (Intercisa) o un
  porta-cresta con sopra fissate delle piume o, meno frequentemente, crine
- di cavallo; è probabile che la presenza di una cresta indicasse un rango
- militare superiore, ma non ci sono notizie certe a riguardo.
+ di cavallo;
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+La nota stele di Leponzio potrebbe raffigurare uno spangenhelm con cresta
+ a crine di cavallo che ricade in due code laterali (cfr.
+ Vermaat, Robert M.
+ (2018) «A Late Roman Infantryman – the Lepontius Relief», in 
+\emph on
+Ancient Warfare 
+\noun on
+xii
+\noun default
+-2
+\emph default
+, pp.
+ 50-2).
+\end_layout
+
+\end_inset
+
+ è probabile che la presenza di una cresta indicasse un rango militare superiore
+, ma non ci sono notizie certe a riguardo.
 \end_layout
 
 \begin_layout Standard
 La Deepeeka realizza tre riproduzioni accettabili degli elmi tipo Intercisa,
- in ferro, due con decorazioni apotropaiche a stampa e una con la cresta
- di metallo,
+ in ferro (due con decorazioni apotropaiche a stampa e una con la cresta
+ di metallo)
 \begin_inset Foot
 status collapsed
 
@@ -2088,10 +2108,10 @@ indicelemmi
 
 lorica squamata
 \emph default
- poteva avere squame di ferro (per i soldati semplici) o di ottone (veterani
- e ufficiali), era lunga fino alle cosce e aveva le maniche; anche questa
- si può portare corta alla vita per gli ufficiali.
- Sempre gli ufficiali potevano portare la 
+ può avere squame di ferro (per i soldati semplici) o di ottone (veterani
+ e ufficiali), è lunga fino alle cosce e ha le maniche; anche questa si
+ può portare corta alla vita per gli ufficiali.
+ Sempre gli ufficiali possono portare la 
 \begin_inset ERT
 status open
 
@@ -2140,9 +2160,11 @@ camaglio
 \emph default
 , che però non si indossa insieme all’elmo, ma, verosimilmente, su di un
  cappuccio imbottito.
- È in dubbio l’uso di protezioni aggiuntive per il collo e le clavicole
- in maglia o a squame.
- Sulle gambe si indossavano delle 
+ È dubbio l’uso di protezioni aggiuntive per il collo e le clavicole in
+ maglia o a squame, anche se alcune raffigurazioni (come alcuni mosaici
+ da Santa Maria Maggiore) sembrano raffigurare squalme del collo di materiale
+ differente da quelle del corpo.
+ Sulle gambe si possono indossare delle 
 \begin_inset ERT
 status open
 
@@ -2186,7 +2208,7 @@ indicelemmi
 
 lorica manicata
 \emph default
- (la protezione a fasce per il braccio armato) è dibattuta.
+ (la protezione a fasce per il braccio armato) è dibattuto.
  
 \end_layout
 
