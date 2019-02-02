@@ -55,6 +55,10 @@
 
     \end{figure*}
 }
+
+\usepackage{tikz}
+\usepackage{graphicx}
+\usetikzlibrary{calc}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -67,7 +71,7 @@ initials
 \fontencoding global
 \font_roman "default" "EB Garamond"
 \font_sans "default" "EB Garamond"
-\font_typewriter "default" "TeX Gyre Pagella"
+\font_typewriter "default" "Ubuntu"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -85,7 +89,7 @@ initials
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize default
+\papersize a4paper
 \use_geometry false
 \use_package amsmath 1
 \use_package amssymb 1
@@ -206,8 +210,6 @@ status open
 
 {
 \backslash
-CapitaleRustica
-\backslash
 fontsize{0.6cm}{0.4cm}
 \backslash
 selectfont 
@@ -221,7 +223,6 @@ status open
 
 \begin_layout Plain Layout
 
-\family sans
 }
 \end_layout
 
@@ -247,7 +248,38 @@ status open
 
 
 \backslash
-pagepicture{b}{invocazione_campus_ergenus_313.jpg}
+begin{tikzpicture}[remember picture,overlay]
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(0cm,4cm)$)
+ {
+\end_layout
+
+\begin_layout Plain Layout
+
+     
+\backslash
+includegraphics[width=21cm, height=14.5cm]{invocazione_campus_ergenus_313.jpg}
+\end_layout
+
+\begin_layout Plain Layout
+
+  };
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tikzpicture}
+\end_layout
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -430,11 +462,10 @@ status open
 \emph on
 adoratio
 \emph default
-).
-
+)
 \family typewriter
 \series bold
- 
+, 
 \begin_inset ERT
 status open
 
@@ -503,11 +534,10 @@ status open
 \emph on
 adoratio
 \emph default
-).
-
+)
 \family typewriter
 \series bold
- 
+, 
 \begin_inset ERT
 status open
 
@@ -1144,7 +1174,10 @@ color{Blue4}
 
 \end_inset
 
-Omnem iustitiam tibi commendamus, salutem nostram tibi commendamus, imperium
+Omnem iustitiam tibi commendamus, salutem nostram tibi com\SpecialChar softhyphen
+men\SpecialChar softhyphen
+da\SpecialChar softhyphen
+mus, imperium
  nostrum tibi com\SpecialChar softhyphen
 men\SpecialChar softhyphen
 da\SpecialChar softhyphen
