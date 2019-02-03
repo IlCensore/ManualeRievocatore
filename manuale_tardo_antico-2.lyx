@@ -25,6 +25,8 @@
 %\newfontfamily\fonttitolo[SmallCapsFont={Alegreya SC},Ligatures=Discretionary,Contextuals=Swash]{Trajan Pro}
 \newfontfamily\fonttitolo[SmallCapsFont={Alegreya SC},Ligatures=Discretionary,Contextuals=Swash]{TeX Gyre Pagella}
 \newfontfamily\fontgreco[SmallCapsFont={Alegreya SC},Ligatures=Discretionary,Contextuals=Swash]{EB Garamond}
+
+\usepackage{marginfix}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -32,9 +34,9 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "utopia" "Bembo Book MT Std"
+\font_roman "utopia" "EB Garamond"
 \font_sans "biolinum" "Alegreya"
-\font_typewriter "libertine-mono" "Fira Mono"
+\font_typewriter "libertine-mono" "Ubuntu Mono"
 \font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
@@ -644,6 +646,20 @@ Abbigliamento
 
 \begin_layout Standard
 \noindent
+\begin_inset Flex Marginnote
+status open
+
+\begin_layout Plain Layout
+Il clima arido dell'Egitto ha conservato alcuni documenti da cui si evince
+ che talvolta l'amministrazione militare si occupava di acquistare alcuni
+ capi di abbigliamento, come per esempio dei mantelli, da distribuire evidenteme
+nte ai soldati; un effetto collaterale di questa politica poteva essere
+ quello di introdurre un minimo di uniformità nell'abbigliamento dei soldati
+ di una stessa unità.
+\end_layout
+
+\end_inset
+
 L'abbigliamento del soldato romano del 
 \noun on
 iv
@@ -651,26 +667,8 @@ iv
  secolo non di discostava molto da quello di un civile dello stesso livello
  sociale, fatta eccezione per alcuni particolari.
  Sebbene l'esercito provvedesse talvolta a fornire ai soldati alcuni indumenti,
- il cui costo era poi detratto dalla paga,
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-marginnote{Il clima arido dell'Egitto ha conservato alcuni documenti da
- cui si evince che talvolta  l'amministrazione militare si occupava di acquistar
-e alcuni capi di abbigliamento, come per esempio dei mantelli, da distribuire
- evidentemente ai soldati; un effetto collaterale di questa politica poteva
- essere quello di introdurre un minimo di uniformità nell'abbigliamento
- dei soldati di una stessa unità.}
-\end_layout
-
-\end_inset
-
- spettava comunque a ciascun soldato provvedere all'acquisto dei propri
- abiti.
+ il cui costo era poi detratto dalla paga, spettava comunque a ciascun soldato
+ provvedere all'acquisto dei propri abiti.
  L'apparenza di un soldato poteva cambiare dunque in base alla sua disponibilità
  economica, ma in linea di massima gli indumenti di base erano gli stessi,
  sebbene si differenziassero per qualità e decorazioni.
@@ -801,7 +799,7 @@ L'abito romano per eccellenza è la tunica.
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Box Frameless
@@ -2818,10 +2816,35 @@ Calzature
 \end_layout
 
 \begin_layout Standard
+La scarpa militare romana per antonomasia, la 
+\emph on
+caliga
+\emph default
+, non sopravvisse al 
+\noun on
+ii
+\noun default
+ secolo, forse perché adatta più alla penisola italiana che alle province
+ settentrionali e orientali dell'Impero, o forse semplicemente perché cambiò
+ la moda.
+ Nel 
+\noun on
+iii
+\noun default
+ e 
+\noun on
+iv
+\noun default
+ secolo si diffusero altre tipologie di scarpe, alcune delle quali arrivarono
+ ai secoli successivi.
+ Non ci sono tipologie di calzature che siano esclusivamente militari, in
+ molti casi per una determinata tipologia si trovano reperti senza chiodatura
+ e reperti con i chiodi, questi ultimi generalmente intesi come indizio
+ in favore dell'utilizzo militare della calzatura.
 \begin_inset Float marginfigure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2853,34 +2876,6 @@ iv
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-La scarpa militare romana per antonomasia, la 
-\emph on
-caliga
-\emph default
-, non sopravvisse al 
-\noun on
-ii
-\noun default
- secolo, forse perché adatta più alla penisola italiana che alle province
- settentrionali e orientali dell'Impero, o forse semplicemente perché cambiò
- la moda.
- Nel 
-\noun on
-iii
-\noun default
- e 
-\noun on
-iv
-\noun default
- secolo si diffusero altre tipologie di scarpe, alcune delle quali arrivarono
- ai secoli successivi.
- Non ci sono tipologie di calzature che siano esclusivamente militari, in
- molti casi per una determinata tipologia si trovano reperti senza chiodatura
- e reperti con i chiodi, questi ultimi generalmente intesi come indizio
- in favore dell'utilizzo militare della calzatura.
 \end_layout
 
 \begin_layout Standard
@@ -7681,79 +7676,83 @@ Servizio
 \end_layout
 
 \begin_layout Subsection
-Giuramento
+Giuramento e 
+\emph on
+signaculum
 \end_layout
 
 \begin_layout Standard
-
+I soldati romani prestavano un giuramento di lealtà, detto 
 \emph on
-Sacramentum
+sacramentum militiae
 \emph default
- (military), the oath of allegiance, sworn on attestation by a Roman recruit;
- the most strictly observed of all Roman oaths according to Dionysius of
- Halicarnassus.
- Its content stressed obedience to the consuls or commanding officers and
- good discipline;
+, che era considerato il più sacro di tutti: in epoca imperiale era prestato
+ davanti alle insegne,
 \begin_inset Flex Sidenote
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Dion.
- Hal., Ant.
- Rom.
- 11.43 (
-\begin_inset Quotes cld
-\end_inset
-
-For not only does the military oath, which the Romans observe most strictly
- of all oaths, bid the soldiers follow their generals wherever they may
- lead, but also the law has given the commanders authority to put to death
- without a trial all who are disobedient or desert their standards.
+Tac.
  
-\begin_inset Quotes crd
-\end_inset
-
-); 10.18.
+\emph on
+Ann
+\emph default
+.
+ 15.
+ 29.
 \end_layout
 
 \end_inset
 
- in the mid-2nd cent.
+ il primo giorno dell'anno o in occasione dell'anniversario dell'ascesa
+ al trono dell'imperatore,
+\begin_inset Flex Sidenote
+status open
+
+\begin_layout Plain Layout
+Tac.
  
-\noun on
-bce
-\noun default
- the tribunes administered it (Polyb.
- 6.
- 21.
- 2).
- After the reforms of C.
- Marius soldiers swore the oath to their general, and it took on a personal
- hue (e.g.
- Plut.
- Sull.
- 27.
- 3), thus encouraging the personal armies of the late Republic.
- From Augustus loyalty was sworn to the emperor, before the standards (Tac.
- Ann.
- 15.
- 29); the oath was renewed annually on New Year's Day or the anniversary
- of the emperor's accession (Tac.
- Hist.
+\emph on
+Hist
+\emph default
+.
  1.
  55; Plin.
- Ep.
- 10.
- 60).
- In the Christian empire, soldiers swore much the same oath but by God,
- Christ, and the Holy Ghost; The soldiers, therefore, swear they swore to
  
-\begin_inset Quotes cld
+\emph on
+Ep
+\emph default
+.
+ 10.
+ 60.
+\end_layout
+
 \end_inset
 
-obey the Emperor willingly and implicitly in all his commands, [\SpecialChar ldots
-] never
- desert and always be ready to sacrifice their lives for the Roman Empire
+ e vincolava i soldati a obbedire ai suoi ordini, garantendo ai comandanti
+ il diritto di mettere a morte coloro che infrangevano il giuramento.
+\begin_inset Flex Sidenote
+status open
+
+\begin_layout Plain Layout
+Dion.
+ Hal., 
+\emph on
+Ant.
+ Rom.
+
+\emph default
+ 11.43; 10.18.
+\end_layout
+
+\end_inset
+
+ La formula del 
+\emph on
+sacramentum
+\emph default
+ prevedeva di «obbedire lealmente a tutti gli ordini dell'imperatore, di
+ non disertare mai e di non cercare di evitare la morte per lo Stato romano
 \begin_inset Quotes crd
 \end_inset
 
@@ -7762,7 +7761,7 @@ obey the Emperor willingly and implicitly in all his commands, [\SpecialChar ldo
 status collapsed
 
 \begin_layout Plain Layout
-Vegetius 2.5: 
+Vegezio 2.5: 
 \begin_inset Quotes cld
 \end_inset
 
@@ -7783,6 +7782,11 @@ Iurant autem milites omnia se strenue facturos, quae praeceperit imperator,
 
 \end_layout
 
+\begin_layout Standard
+All'epoca di Vegezio (390 circa), il giuramento era fatto a Dio, a Cristo,
+ allo Spirito Santo e poi all'Imperatore.
+\end_layout
+
 \begin_layout Subsection
 Signaculum
 \end_layout
@@ -7792,9 +7796,9 @@ Gli
 \emph on
 Acta Maximiliani
 \emph default
- raccontano il rifiuto del coscritto Massimiliano di prestare il servizio
- militare.
-\begin_inset Flex Sidenote
+ raccontano il rifiuto del coscritto Massimiliano, vissuto all'epoca di
+ Diocleziano, di prestare il servizio militare:
+\begin_inset Note Note
 status collapsed
 
 \begin_layout Quotation
@@ -7902,17 +7906,17 @@ Poiché rifiutasti il servizio militare con spirito di indisciplina, ricevi
 
 \end_inset
 
- Il rifiuto si traduce nel ripetuto e infruttuoso tentativo dell'autorità
- militare di far prendere al coscritto una piastrina di riconoscimento di
- piombo, il 
+ il coscritto si rifiuta ripetutamente di indossare al collo una piastrina
+ di riconoscimento di piombo, il 
 \emph on
 signaculum
 \emph default
-.
+, e ciò ne causa la condanna a morte per aver indisciplinatamente rifiutato
+ il giuramento militare.
 \end_layout
 
 \begin_layout Standard
-All'epoca di Vegezio (360 circa), il 
+All'epoca di Vegezio, il 
 \emph on
 signaculum
 \emph default
