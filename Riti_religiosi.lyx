@@ -10,8 +10,8 @@
 \usepackage{graphicx}
 \usepackage{fontspec}
 
-%\newfontfamily\CapitaleRustica{Rustic Capitals}
-\newfontfamily\CapitaleRustica{RusticusStd}
+\newfontfamily\CapitaleRustica{Rustic Capitals}
+%\newfontfamily\CapitaleRustica{RusticusStd}
 \newfontfamily\FontIniziali{EB Garamond}
 \renewcommand{\LettrineFontHook}{\FontIniziali\color{Red3}} 
 
@@ -163,7 +163,7 @@ color{Red3}
 \backslash
 CapitaleRustica
 \backslash
-fontsize{1.8cm}{1.32cm}
+fontsize{1.2cm}{1.32cm}
 \backslash
 selectfont 
 \end_layout
@@ -210,14 +210,18 @@ status open
 
 {
 \backslash
-fontsize{0.6cm}{0.4cm}
+fontsize{1cm}{1cm}
 \backslash
 selectfont 
 \end_layout
 
 \end_inset
 
+
+\noun on
 Custodes Urbis
+\noun default
+
 \begin_inset ERT
 status open
 
@@ -232,13 +236,6 @@ status open
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace vfill
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \noindent
 \align center
 \begin_inset ERT
@@ -246,7 +243,7 @@ status open
 
 \begin_layout Plain Layout
 
-
+%
 \backslash
 begin{tikzpicture}[remember picture,overlay]
 \end_layout
@@ -280,6 +277,40 @@ end{tikzpicture}
 
 \begin_layout Plain Layout
 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tikzpicture}[remember picture,overlay]
+\end_layout
+
+\begin_layout Plain Layout
+
+  
+\backslash
+node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(0cm,3cm)$)
+ {
+\end_layout
+
+\begin_layout Plain Layout
+
+     
+\backslash
+includegraphics[width=21cm, height=14.5cm]{invocazione_campus_ergenus_313.jpg}
+\end_layout
+
+\begin_layout Plain Layout
+
+  };
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tikzpicture}
 \end_layout
 
 \end_inset
@@ -465,7 +496,7 @@ adoratio
 )
 \family typewriter
 \series bold
-, 
+
 \begin_inset ERT
 status open
 
@@ -478,8 +509,8 @@ color{Blue4}
 
 \end_inset
 
-te hoc ferto obmouendo bonas preces precor, uti sies uolens propitius mihi
- centuriaque mea mactus hoc ferto.
+, te hoc ferto obmouendo bonas preces precor, uti sies uolens propitius
+ mihi centuriaque mea mactus hoc ferto.
 \begin_inset ERT
 status open
 
@@ -537,7 +568,7 @@ adoratio
 )
 \family typewriter
 \series bold
-, 
+
 \begin_inset ERT
 status open
 
@@ -550,7 +581,7 @@ color{Blue4}
 
 \end_inset
 
-macte isto ture esto, macte uino inferio esto.
+, macte isto ture esto, macte uino inferio esto.
 \begin_inset ERT
 status open
 
@@ -641,7 +672,7 @@ adoratio
 )
 \family typewriter
 \series bold
-, 
+
 \begin_inset ERT
 status open
 
@@ -654,7 +685,7 @@ color{Blue4}
 
 \end_inset
 
-esto fito uolens propitius mihi et centuria mea.
+, esto fito uolens propitius mihi et centuria mea.
 \begin_inset ERT
 status open
 
@@ -705,7 +736,7 @@ adoratio
 )
 \family typewriter
 \series bold
-, 
+
 \begin_inset ERT
 status open
 
@@ -718,7 +749,7 @@ color{Blue4}
 
 \end_inset
 
-incluto, supremo, ualido, uiripotenti, Opes, spes bonas, copias commodanti;
+, incluto, supremo, ualido, uiripotenti, Opes, spes bonas, copias commodanti;
  lubens disque omnibus ago gratias uitulorque merito, quia meo amico amiciter
  hanc copiam danunt, argenti mutui ut ei egenti optem adferam.
 \begin_inset ERT
@@ -780,7 +811,7 @@ adoratio
 )
 \family typewriter
 \series bold
-, 
+
 \begin_inset ERT
 status open
 
@@ -793,7 +824,7 @@ color{Blue4}
 
 \end_inset
 
-esto fito uolens propitius mihi.
+, esto fito uolens propitius mihi.
 \begin_inset ERT
 status open
 
@@ -914,7 +945,7 @@ adoratio
 \family typewriter
 \series bold
 \size default
-, 
+
 \begin_inset ERT
 status open
 
@@ -927,7 +958,7 @@ color{Blue4}
 
 \end_inset
 
-Saturne
+, Saturne
 \begin_inset ERT
 status open
 
@@ -948,7 +979,7 @@ adoratio
 )
 \family typewriter
 \series bold
-, 
+
 \begin_inset ERT
 status open
 
@@ -961,7 +992,7 @@ color{Blue4}
 
 \end_inset
 
-si quidquam fuit uobis ingratum in stipe a me, oblata, accipite hoc piaculum.
+, si quidquam fuit uobis ingratum in stipe a me, oblata, accipite hoc piaculum.
 \begin_inset ERT
 status open
 
@@ -1120,12 +1151,12 @@ Campus Serenus
 \begin_layout Standard
 
 \emph on
-I soldati vengono schierati a battaglia.
- Prima dello scontro, depongono [a terra] gli scudi, sciolgono [e appoggiano
- sugli scudi] e poi, imitando l’esempio dei loro praepositi, levano le braccia
- al cielo.
- Per tre volte l’imperatore (l’ufficiale in grado più alto) recita le seguenti
- parole, e i soldati ripetono la preghiera:
+I soldati sono schierati a battaglia.
+ Prima dello scontro, depongono [a terra] gli scudi, sciolgono gli elmi
+ [e li appoggiano sugli scudi] e poi, imitando l’esempio dei loro ufficiali,
+ levano le braccia al cielo.
+ Per tre volte l’imperatore [l’ufficiale in grado più alto in grado] recita
+ le seguenti parole, e i soldati ripetono la preghiera:
 \end_layout
 
 \begin_layout Quote

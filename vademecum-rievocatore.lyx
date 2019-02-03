@@ -8,8 +8,8 @@
 \begin_preamble
 \usepackage[x11names]{xcolor}
 \usepackage{fontspec}
-%\newfontfamily\CapitaleRustica{Rustic Capitals}
-\newfontfamily\CapitaleRustica{RusticusStd}
+\newfontfamily\CapitaleRustica{Rustic Capitals}
+%\newfontfamily\CapitaleRustica{RusticusStd}
 \newfontfamily\FontIniziali{EB Garamond}
 %\newfontfamily\CapitaleRustica{Arno Pro}
 %\renewcommand{\LettrineFontHook}{\CapitaleRustica\color{Red3}} 
@@ -138,7 +138,11 @@ selectfont
 
 \end_inset
 
+
+\noun on
 Custodes Urbis
+\noun default
+
 \begin_inset ERT
 status open
 
@@ -164,7 +168,7 @@ color{Red3}
 \backslash
 CapitaleRustica
 \backslash
-fontsize{1.7cm}{1.7cm}
+fontsize{1.0cm}{1.0cm}
 \backslash
 selectfont 
 \end_layout
@@ -197,13 +201,13 @@ Vademecum del rievocatore militare romano tardoimperiale
 \end_layout
 
 \begin_layout Address
-Versione 0.5 – 17 gennaio 2019
+Versione 0.5 – 25 gennaio 2019
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
 0.5 – Nella sequenza di armi da prendere per fante leggero, precisato che
- va scelto tra uno o due 
+ va scelto tra due o tre 
 \emph on
 verruta
 \emph default
@@ -386,10 +390,11 @@ tabulae
 \emph on
 segmenta
 \emph default
- (strisce sui polsi e talvolta sui gomiti), a loro volta ricamati a filo;
- anche queste possono avere i più svariati colori, sebbene solitamente siano
- più scuri del colore principale della tunica (controllate i mosaici della
- Villa del Casale di Piazza Armerina per qualche esempio).
+ (strisce sui polsi e talvolta sui gomiti), a loro volta ricamati a filo
+ (tipicamente lino in colori naturali, molto raramente lana tinta); anche
+ queste decorazioni possono avere i più svariati colori, sebbene solitamente
+ siano più scuri del colore principale della tunica (controllate i mosaici
+ della Villa del Casale di Piazza Armerina per qualche esempio).
 \end_layout
 
 \begin_layout Standard
@@ -1367,7 +1372,7 @@ Medievaldesign vende un cucullus («Cucullus», €
 \end_layout
 
 \begin_layout Subsection
-Nota sui colori
+Nota sui colori dei tessuti
 \begin_inset CommandInset label
 LatexCommand label
 name "subsec:1.9Nota-sui-colori"
@@ -1586,7 +1591,7 @@ indicelemmi
 Toracomachus
 \emph default
  è il nome con cui è noto nelle fonti antiche il subarmalis.
- Era realizzato in tessuto, era imbottito e serviva ad attenuare i colpi.
+ Realizzato in tessuto imbottito, serviva ad attenuare i colpi ricevuti.
  Dimensioni e forma non sono noti, anche perché si indossava tipicamente
  sotto l’armatura ed era da questa nascosta (l’uso del subarmalis senza
  armatura, specie quando provvisto di pterugi, è dibattuto), quindi andrebbe
@@ -2980,8 +2985,11 @@ segmentae
 , larga ai fianchi).
  Per la tunica non decorata rivolgersi ad Alessandra Venditti, dopo aver
  concordato con noi un colore accettabile.
- L'opzione più economica per la tunica decorata è il modello IV-V secolo
- di Medievaldesign, €
+ L'opzione più economica per la tunica decorata è il modello 
+\noun on
+iv–v
+\noun default
+ secolo di Medievaldesign, €
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -3024,7 +3032,7 @@ sagum
 \end_layout
 
 \begin_layout Enumerate
-una o più armi da getto: scegliere tra 
+una o più armi da getto: scegliere tra 2/3 
 \emph on
 verruta 
 \emph default
@@ -3032,15 +3040,7 @@ o
 \emph on
  angon
 \emph default
- (rispettivamente €
-\begin_inset space \thinspace{}
-\end_inset
-
-20 e €
-\begin_inset space \thinspace{}
-\end_inset
-
-25 da Spadanera) e arco, opzionalmente delle 
+ e arco, opzionalmente delle 
 \emph on
 plumbatae
 \emph default
@@ -3184,8 +3184,11 @@ tunica manicata
  e segmentae opzionali, larga ai fianchi).
  Per la tunica non decorata rivolgersi ad Alessandra Venditti, dopo aver
  concordato con noi un colore accettabile.
- L'opzione più economica per la tunica decorata è il modello IV-V secolo
- di Medievaldesign, €
+ L'opzione più economica per la tunica decorata è il modello 
+\noun on
+iv–v
+\noun default
+ secolo di Medievaldesign, €
 \begin_inset space \thinspace{}
 \end_inset
 
