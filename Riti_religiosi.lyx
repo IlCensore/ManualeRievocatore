@@ -243,44 +243,6 @@ status open
 
 \begin_layout Plain Layout
 
-%
-\backslash
-begin{tikzpicture}[remember picture,overlay]
-\end_layout
-
-\begin_layout Plain Layout
-
-  
-\backslash
-node[anchor=south west,inner sep=0pt] at ($(current page.south west)+(0cm,4cm)$)
- {
-\end_layout
-
-\begin_layout Plain Layout
-
-     
-\backslash
-includegraphics[width=21cm, height=14.5cm]{invocazione_campus_ergenus_313.jpg}
-\end_layout
-
-\begin_layout Plain Layout
-
-  };
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{tikzpicture}
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
 
 \backslash
 begin{tikzpicture}[remember picture,overlay]
@@ -1306,6 +1268,244 @@ Summe deus \SpecialChar ldots
 »), ripetuta poi in coro dai soldati; il celebrante pronuncerà poi le frasi
  successive, fermandosi alla fine di ciascuna per permettere a tutti i soldati
  di ripetere l'invocazione iniziale.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Arruolamento
+\end_layout
+
+\begin_layout Subsection*
+Selezione del 
+\emph on
+tiro
+\end_layout
+
+\begin_layout Standard
+Gli uomini arrivano all'accampamento, indossando abiti civili; recano con
+ sé una lettera di presentazione dell'ufficiale civile che li ha scelti
+ per l'arruolamento (governatore della provincia di provenienza) e l'
+\emph on
+itinerarium 
+\emph default
+loro consegnato alla partenza, col percorso che hanno seguito.
+ La lettera di presentazione (
+\emph on
+littera commendaticia
+\emph default
+) contiene i risultati dell'esame iniziale (
+\emph on
+probatio
+\emph default
+), volto a determinare se i
+\emph on
+ 
+\emph default
+candidati posseggano i requisiti fisici e morali per essere arruolati: il
+ candidato è uno schiavo o un prigioniero, è un fornaio o un cuoco o altra
+ professione considerata indegna? è un cittadino romano o un peregrino?
+ ha un'età compresa tra i 19 e i 35 anni? sa leggere, scrivere o far di
+ conto? arriva all'
+\emph on
+incomma
+\emph default
+, un'asta lunga 5 piedi e 10 pollici (172
+\begin_inset space \thinspace{}
+\end_inset
+
+cm)
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+5 piedi e 7 pollici (164
+\begin_inset space \thinspace{}
+\end_inset
+
+cm) dal 367 in poi.
+\end_layout
+
+\end_inset
+
+ che indica l'altezza minima? è abbastanza forte e resistente?
+\end_layout
+
+\begin_layout Standard
+Quelli che passano la verifica sono iscritti nelle liste, dette 
+\emph on
+matriculae
+\emph default
+, che registrano nome completo, nome del padre, data di arruolamento, nome
+ dell'ufficiale che ha condotto la 
+\emph on
+probatio
+\emph default
+, luogo di origine, età, altezza, residenza, tribù di appartenenza, segni
+ identificativi; chi non ha un nome romano ne riceve uno, ed è registrato
+ come residente 
+\emph on
+castris
+\emph default
+ e appartenente alla tribù 
+\emph on
+Pollia
+\emph default
+.
+ I nuovi 
+\emph on
+tirones 
+\emph default
+ricevono il 
+\emph on
+signaculum
+\emph default
+ (un 
+\emph on
+titulus
+\emph default
+ in piombo con inciso il nome dell'unità e il nome dell'ufficiale responsabile,
+ all'interno di un sacchetto da tenere al collo) e il 
+\emph on
+viaticum
+\emph default
+ (il rimborso spese per il viaggio).
+ Sono poi inviati all'unità di destinazione, con una lettera per il comandante
+ che è una copia conforme dei registri vidimata dall'ufficiale competente
+ (
+\emph on
+cornicularius
+\emph default
+? 
+\emph on
+domesticus
+\emph default
+?).
+\end_layout
+
+\begin_layout Subsection*
+
+\emph on
+Sacramentum
+\end_layout
+
+\begin_layout Standard
+Dopo quattro mesi di , in cui è stato verificato che il 
+\emph on
+tiro
+\emph default
+ abbia effettivamente le qualità per diventare un buon soldato, si arriva
+ al momento del giuramento, il 
+\emph on
+sacramentum
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+Un ufficiale (campidoctor? circitor?) fa schierare i 
+\emph on
+tirones
+\emph default
+ e fa rapporto al comandante, riferendo sui risultati delle 
+\emph on
+probationes
+\emph default
+.
+ Il nome di coloro che passano è inserito nei registri.
+\end_layout
+
+\begin_layout Standard
+Tutti coloro che devono prendere il giuramento sono portati davanti alle
+ insegne, in particolare all'
+\emph on
+imago
+\emph default
+ dell'Imperatore.
+ Qui uno di loro pronuncia la 
+\emph on
+praeiuratio
+\emph default
+, ovvero la formula completa del 
+\emph on
+sacramentum
+\emph default
+:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Per il sommo Dio, e per la maestà dell'Imperatore, che, dopo Dio dovrebbe
+ essere amato e venerato dalla razza umana, giuro di e\SpecialChar softhyphen
+se\SpecialChar softhyphen
+gui\SpecialChar softhyphen
+re con solerzia
+ qualunque cosa l'Imperatore comandi, di non disertare mai, di non ricusare
+ mai dalla morte a beneficio dello Stato romano.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gli altri tirones che devono giurare rispondono:
+\end_layout
+
+\begin_layout Quote
+
+\family typewriter
+\series bold
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+color{Blue4} 
+\end_layout
+
+\end_inset
+
+Idem in me.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
