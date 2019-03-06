@@ -2711,8 +2711,11 @@ url{http://www.fectio.org.uk/articles/makescutum.htm}
  si può accettare il modello a punta.
  La faccia interna dello scudo è dipinta a piacere e dovrebbe recare nome
  del proprietario e unità di appartenenza; la faccia esterna è decorata
- con una variante dell’episema dei Cornuti Seniores così come attestato
- dalla Notitia Dignitatum.
+ con una variante del 
+\emph on
+digmata
+\emph default
+ dei Cornuti Seniores così come attestato dalla Notitia Dignitatum.
 \begin_inset Foot
 status collapsed
 
@@ -2913,9 +2916,9 @@ udones
 \begin_layout Subsection
 
 \emph on
-Pedes
+Levis armatura
 \emph default
- leggero
+ (fante leggero)
 \end_layout
 
 \begin_layout Standard
@@ -3117,9 +3120,9 @@ camisia
 \begin_layout Subsection
 
 \emph on
-Pedes
+Gravis armatura
 \emph default
- pesante
+ (fante pesante)
 \end_layout
 
 \begin_layout Standard
