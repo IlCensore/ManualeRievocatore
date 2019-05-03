@@ -2880,7 +2880,7 @@ iv
 
 \begin_layout Standard
 I colori delle calzatura militari erano verosimilmente quelli naturali del
- cuoio per i semplici 
+ cuoio e il nero per i semplici 
 \emph on
 milites
 \emph default
@@ -2916,44 +2916,47 @@ Sono generalmente realizzati su di una forma, e sono composti da almeno
  da chiodi posti sulla suola, che attraversano i tre strati di cuoio e si
  ripiegano sulla pianta della scarpa.
  La tomaia è chiusa da una cucitura che corre talvolta sulla parte anteriore
- del piede (Zwammerdam, Figura 
+ del piede
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ (Zwammerdam, Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "mar:Calcei-Zwammerdam"
 
 \end_inset
 
-, in alto), talvolta verticalmente sulla parte interna del piede (Ramshaw,
- Figura 
+, in alto)
+\end_layout
+
+\end_inset
+
+, talvolta verticalmente sulla parte interna del piede
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+ (Ramshaw, Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "mar:Calcei-Zwammerdam"
 
 \end_inset
 
-, in basso).
+, in basso)
+\end_layout
+
+\end_inset
+
+.
  Spesso avevano un rinforzo triangolare interno in corrispondenza del tallone.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float marginfigure
-wide false
-sideways false
+\begin_inset Note Note
 status collapsed
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename Scarpe/CalceiRamshawZwammerdam.png
-	display false
-	width 80col%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
 
 \begin_layout Plain Layout
 
@@ -2984,17 +2987,80 @@ name "mar:Calcei-Zwammerdam"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float marginfigure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Scarpe/skeldergate.jpg
+	display false
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ricostruzione di un paio di 
+\emph on
+calcei
+\emph default
+ della fine del 
+\noun on
+iii
+\noun default
+/inizi del 
+\noun on
+iv
+\noun default
+ secolo, ritrovati a Skedergate (vicino York).
+ Si tratta di un'evoluzione dei 
+\emph on
+calcei
+\emph default
+ tipici del 
+\noun on
+iii
+\noun default
+ secolo, con i lacci che sono ancora integrali ma con una tomaia più bassa
+ e con un solo paio di occhielli.
+\begin_inset CommandInset label
+LatexCommand label
+name "mar:Skeldergate"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-I 
+Nel 
+\noun on
+iii
+\noun default
+ secolo i 
 \emph on
 calcei
 \emph default
- sono generalmente alti alla caviglia, ma esistono versioni più basse.
+ sono generalmente alti alla caviglia, nel iv secolo sembrano diffondersi
+ versioni più basse (Skeldergate).
  L'allacciatura può essere ottenuta attraverso dei lacci che vengono fatti
  passare per le asole praticate nella scarpa (modello da Walbrook); alternativam
 ente questi lacci sono solidali con la scarpa, sono cioè parte della tomaia
@@ -7130,7 +7196,8 @@ Vergilius Vaticanus
 \emph default
 , in cui è raffigurato un tubo cilindrico di cuoio chiaro con delle strisce
  rosse di rinforzo cucite orizzontalmente e una cinghia per portarla a tracolla.
- Da ambito germanico deriva la faretra di Nydam, in legno scavato.
+ Da ambito germanico deriva la faretra di Nydam, in legno scavato e ricoperto
+ in pelle.
 \end_layout
 
 \begin_layout Subsection
@@ -8337,8 +8404,43 @@ url{http://zweilawyer.com/2010/04/22/le-armi-del-legionario-la-spatha/}
 >
 \end_layout
 
+\begin_layout Chapter*
+Fotografie
+\end_layout
+
 \begin_layout Standard
-\begin_inset VSpace vfill*
+Riproduzione della scarpa di Skeldergate nº 354 (p.
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "mar:Skeldergate"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) realizzata da Martin Moser (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://sutor.jimdo.com/4th-century-ad/skeldergate-no-354/}
+\end_layout
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
 \end_inset
 
 
