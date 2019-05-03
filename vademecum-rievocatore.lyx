@@ -201,7 +201,7 @@ Vademecum del rievocatore militare romano tardoimperiale
 \end_layout
 
 \begin_layout Address
-Versione 0.6 – 8 aprile 2019
+Versione 0.6 – 3 maggio 2019
 \begin_inset Foot
 status open
 
@@ -211,7 +211,7 @@ status open
 \emph on
 hastae
 \emph default
- dipinte.
+ dipinte; deprecati gli stivaletti alti tipo Zwammerdam e Ramshaw.
 \end_layout
 
 \end_inset
@@ -664,29 +664,8 @@ Le scarpe militari del
 \noun on
 iv
 \noun default
- secolo sembrano essere i 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-indicelemmi
-\end_layout
-
-\end_inset
-
-
-\emph on
-
-\begin_inset space ~
-\end_inset
-
-calcei
-\emph default
- alti alla caviglia (tipo Ramshaw e tipo Zwammerdam), scarpe basse e chiuse
- con quattro occhielli, e i 
+ secolo sembrano essere modelli bassi e chiusi con quattro occhielli e i
+ 
 \begin_inset ERT
 status open
 
@@ -707,8 +686,7 @@ indicelemmi
 
 campagi
 \emph default
-; di queste i calcei potevano essere chiodati, i campagi mai.
- È preferibile che le scarpe non abbiano cuciture a macchina visibili.
+.
  Sono accettabili ma scoraggiate a medio termine le 
 \begin_inset ERT
 status open
@@ -730,7 +708,30 @@ indicelemmi
 
 carbatinae
 \emph default
- (un soldato si poteva permettere scarpe migliori).
+ (un soldato si poteva permettere scarpe migliori); sono scoraggiati i 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+indicelemmi
+\end_layout
+
+\end_inset
+
+
+\emph on
+
+\begin_inset space ~
+\end_inset
+
+calcei
+\emph default
+ alti alla caviglia (tipo Ramshaw e tipo Zwammerdam), ma lo stesso modello
+ basso (con uno o massimo due occhielli) va bene.
+ È preferibile che le scarpe non abbiano cuciture a macchina visibili.
  Le scarpe sono in cuoio di colore naturale, o ancora meglio marrone scuro;
  scarpe nere o, più raramente, rosse sono attestate per gli ufficiali.
  È attestato l’uso di 
@@ -759,49 +760,7 @@ udones
 \end_layout
 
 \begin_layout Standard
-Le scarpe si possono acquistare da Medievaldesign («Campagi IV-V secolo»
- a partire da €
-\begin_inset space \thinspace{}
-\end_inset
-
-125; «Stivaletto tipo Ramshaw» e «Stivaletto tipo Zwammerdam» a partire
- da €
-\begin_inset space \thinspace{}
-\end_inset
-
-139), che fornisce anche gli 
-\emph on
-udones
-\emph default
- di lana cuciti («Calze (Udones)», €
-\begin_inset space \thinspace{}
-\end_inset
-
-29).
- Graziano Dal Barco
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-url{https://www.facebook.com/graziano.dalbarco}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
- realizza ottime scarpe, anche se ha solo Ramshaw e Zwammerdam a catalogo;
- un'altra possibilità è rivolgersi a Officina Avitiana
+I modelli migliori in commercio sono quelli di Officina Avitiana
 \begin_inset Foot
 status collapsed
 
@@ -823,9 +782,117 @@ url{https://www.facebook.com/oficinaavitiana/}
 
 \end_inset
 
- e verificare se hanno modelli di scarpe tardoimperiali disponibili.
- Più economici e apparentemente accettabili sono i calcei disponibili da
- Kayserstuhl.de (
+ e di Martin Moser
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/leatherworkthroughtheages/}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, oltre ai campagi di Medievaldesign («Campagi IV-V secolo» a partire da
+ €
+\begin_inset space \thinspace{}
+\end_inset
+
+125); da valutare le scarpe basse senza occhielli.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Alberto Visani, 
+\begin_inset Quotes fld
+\end_inset
+
+Scarpe basse bizantine
+\begin_inset Quotes frd
+\end_inset
+
+, €
+\begin_inset space \thinspace{}
+\end_inset
+
+45, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{http://www.albertovisani.com/calzaturestoriche.html}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ Sfortunatamente, le altre scarpe a disposizione a livello commerciale sono
+ gli stivaletti alti tipo Ramshaw e Zwammerdam (Medievaldesign, «Stivaletto
+ tipo Ramshaw» e «Stivaletto tipo Zwammerdam» a partire da €
+\begin_inset space \thinspace{}
+\end_inset
+
+139; Graziano Dal Barco
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://www.facebook.com/graziano.dalbarco}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+; Kayserstuhl.de,
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{http://www.kayserstuhl.de/altertum_gewandung.htm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
 \begin_inset Quotes fld
 \end_inset
 
@@ -857,28 +924,16 @@ Jh) Typ II
 \begin_inset space \thinspace{}
 \end_inset
 
-90).
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-url{http://www.kayserstuhl.de/altertum_gewandung.htm}
-\end_layout
-
+90), come detto deprecati.
+ Medievaldesign vende anche gli 
+\emph on
+udones
+\emph default
+ di lana cuciti («Calze (Udones)», €
+\begin_inset space \thinspace{}
 \end_inset
 
-
-\end_layout
-
-\end_inset
-
+29).
  Mario Rossetti può realizzare calcei per €
 \begin_inset space \thinspace{}
 \end_inset
@@ -2570,9 +2625,36 @@ francische
 \end_layout
 
 \begin_layout Standard
-Le punte di hasta commerciali sono generiche (si scelgano quelle più lunghe);
- sono disponibili su commissione, come pure angon, spiculum, verrutum e
- lancea: Spadanera le realizza in maniera artigianale.
+Le punte di hasta commerciali sono generiche (si scelgano quelle più lunghe),
+ ed è disponibile anche una punta di angon/spiculum;
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+La casa del recreador, 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+url{https://lacasadelrecreador.com/lanzas-romanas/746-spiculum.html}
+\end_layout
+
+\end_inset
+
+ €
+\begin_inset space \thinspace{}
+\end_inset
+
+45.
+\end_layout
+
+\end_inset
+
+ le punte di hasta sono disponibili su commissione, come pure angon, spiculum,
+ verrutum e lancea: Spadanera le realizza in maniera artigianale.
 \begin_inset Foot
 status open
 
